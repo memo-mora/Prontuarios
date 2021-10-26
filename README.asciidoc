@@ -1,6 +1,36 @@
 = Análisis etnomusicológico I-IV
 :Author: Guillermo Mora Reguera
 :Email: <guillermo.mora@fam.unam.mx>
-:Date: septiembre 2021
-:Revision: 0
+:Date: agosto 2020 - agosto 2021
+:Revision: 4
 :toc:
+
+== Música y estructuralismo
+
+=== Introducción
+
+.Objetivo general
+* Conocer los antecedentes de investigación en la aplicación de las teorías, conceptos y perspectivas de corte estructuralista al campo del estudio sobre la música
+
+.Objetivos específicos
+* Desarrollar una postura crítica frente a las propuestas metodológicas en el análisis etnomusicológico de corte estructural
+* Aprender sobre los procedimientos sistematizados de análisis musical empleados en investigaciones etnomusicológicas
+* Recuperar propuestas teóricas sobre la interpretación de resultados analíticos frente a hechos y contextos culturales
+
+=== Contenido
+
+.Curricular
+. Camacho, C. - La familia Salmerón (2021, p. 155)
+. Bonfiglioli, C. - Danzas y andanzas a la luz del estructuralismo (2010)
+. Ramírez, M. - El sistema dancístico de los coras (2008)
+. Alegre, L. - El Vinuete: música de muertos (2005)
+. González & Camacho - La música del maíz, Estudio etnomusicológico desde una perspectiva semiológica (2000)
+. Camacho, G. - El sistema musical de La Huasteca hidalguense (1996)
+. Bonfiglioli & Jáuregui – El complejo dancístico-teatral de la Conquista (1996)
+. Bonfiglioli, C. - Fariseos y Matachines en la Sierra Tarahumara (1993)
+. Jáuregui, J. - El mariachi como elemento de un sistema folklórico (1986)
+
+.Complementario
+. Feld, S. - Linguistic Models in Ethnomusicology
+. Lévi-Strauss, C. - Tristes trópicos: Una sociedad indígena y su estilo
+. Charbonnier, G. - Entrevistas con Lévi-Strauss: Arte como sistema de signos
