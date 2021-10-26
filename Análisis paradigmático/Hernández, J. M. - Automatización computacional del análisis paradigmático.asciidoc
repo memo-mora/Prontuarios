@@ -1,0 +1,111 @@
+= Hernández, José M. - Automatización computacional del análisis paradigmático musical
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: abril 2021 - agosto 2021
+:Revision: 2
+:toc:
+:toc-title: Contenido
+
+== Introducción (p. 15)
+
+=== Marco teórico y metodológico (p. 23)
+* El AP está fundamentado en planteamientos de la ling. estructural
+* F. de Saussure
+** lingüística: estudio del lenguaje a partir de la distinción entre lengua (sistema de códigos convencionales) y habla (uso personal)
+** [.underline]#lengua sincrónica (estado)# y diacrónica (evolución)
+** relación combinativa (sintagma); relación selectiva (paradigma)
+* Jakobson
+** Paralelismo entre lengua y creación folklórica
+** Folklorología: caracterización sincrónica del sistema de las formas artísticas que constituyen el repertorio de una comunidad
+* Lévi-Strauss
+** Cuatro condiciones de una "estructura"
+** Análisis mitológico en dos dimensiones (sincrónica-diacrónica)
+** Variaciones sin original
+** Repeticiones (no idénticas) como manifestación de estructura en la oralidad
+* Brăiloiu [1931-1960]
+** Sistema musical
+** Variaciones sin original
+** _Arquetipo_
+* Ruwet
+** Argumentó que aún no se habían explicitado sucifientemente los criterios de análisis y de jerarquización/división en la musicología
+** El procedimiento que desarrolló y describió en detalle recupera algunas cuestiones del análisis paradigmático de Brăiloiu y Lévi-Strauss
+* Nattiez & Arom
+** Retoman a Ruwet
+
+TIP: Más adelante, Nattiez criticaría el procedimiento analítico de Lévi-Strauss precisamente por su falta de explicitación
+
+== Capítulo 1. El análisis paradigmático (AP) musical
+
+.1.1 Análisis estructural en músicas de tradición oral
+* Arthur Morris Jones
+** «Subraya la tesis principal que la música africana es 'espontaneidad dentro de límites'.»
+* Brăiloiu (Arquetipo ideal)
+** Estructura común inalterable que subyace cualquier multitud de variantes en distintas interpretaciones de una misma pieza
+** Debe ser rígida para no requerir de escritura
+** La comparación de las variaciones hará evidente de forma automática las partes de la memoria resistentes o dúctiles
+** El cotejo de interpretaciones diferentes de un mismo canto hará aparecer la amplitud de la injerencia individual en distintos niveles (entre sujetos, categorías, ánimos, circunstancias o género musical)
+* Blacking (p. 40)
+** Estructura en contexto
+* Arom
+** Análisis > Descripción
+* Ruwet
+** Análisis en niveles
+** Criterios de análisis o pertinencia (Hernández → Arom)
+
+.1.2 Panorama general del AP musical
+* Nattiez
+** Semiología tripartita de Molino
+*** Poiético
+**** Circunstancias de quien compone
+*** Estésico
+**** Escucha y reconstrucción de la obra
+*** Neutro
+**** Huella material sin significado
+**** Análisis paradigmático
+** Perspectiva inductiva (particular a general): datos analíticos para el estudio de la poiesis
+** [Perspectiva deductiva]: datos extra-musicales para el análisis (Ruwet)
+
+* Arom
+** Etapas analíticas
+*** Segmentación
+**** Dividir una frase o secuencia musical enunidades discretas (segmentos)
+*** Agrupación por similitud
+**** Basada en algún criterio
+*** Definición de paradigmas
+**** Representa los elementos constantes y variantes que corresponden a cada grupo
+**** Los elementos variantes, susceptibles de ser sustituidos unos por otros en un mismo contexto (conmutación) conforman clases de equivalencia
+
+.1.2.1 La segmentación
+* Brăiloiu
+** Criterio de variabilidad
+** Transcripción sinóptica
+* Ruwet
+** Principio (✓) de repetición [melódica]
+* N. Cook
+** Patrones de recurrencia
+* Arom
+** Criterio de similitud culturalmente dependiente
+* Arom → Padilla → Hernández
+** Contexto cultural: no procede pretender universalizar los criterios analíticos
+** «El criterio de lo que puede ser idéntico no está definidio a priori y debe ser establecido por cada investigador, y si es posible, contrastado por las culturas musicales involucradas» (p. 48)
+* Monelle (p. 50)
+** «Aquellas diferencias que son entendidas como significativas para un hablante nativo»
+** Subjetividad implícita al proceso de segmentación
+** La unidad mínima analítica requiere
+* Nettl
+** Modelos a partir de «los conceptos emic de igualdad, similitud y diferencia; y la distinción entre contenido y estilo»
+
+TIP: Además de las operaciones señaladas por Nettl (igualdad, similitud, diferencia) ¿habría forma de considerar las relaciones de complemetariedad y ambivalencia (Pouwer)
+
+.1.2.2 La agrupación de segmentos
+* El proceso de agrupación es prácticamente simultáneo al de segmentación. Destaca la representación, de dos ejes: horizontal (diacrónico) & vertical (sincrónico)
+* Arom
+** Principio de relevancia: mismo valor cultural = _equivalentes_ = elementos _idénticos_
+** _Conmutación_: principio y operación para la sustitución de un determinado paradigma por otro
+
+.1.2.3 Representación de los paradigmas
+* Paradigma según Arom
+** Representación gráfica de un conjunto de segmentos sustituibles entre ellos
+** Compuesto por dos tipos de elementos: constantes (si aparecen en todos los segmentos) o variantes
+*** Los elementos variables ocupan un lugar denominado _punto de sustitución_
+*** La presencia sucesiva de elementos variantes se denomina _clase de equivalencia_

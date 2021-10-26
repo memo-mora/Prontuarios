@@ -1,0 +1,192 @@
+= Ramírez, M. - Sistema dancístico de los coras
+Guillermo Mora Reguera <guillermo.mora@fam.unam.mx>
+2, agosto 2021
+:description: Resumen de la tesis doctoral de Maira Ramírez
+:keywords: etnología, danza, estructuralismo
+:toc:
+:toc-title: Contenido
+
+// "El sistema dancístico de los coras", tesis doctoral de Maira Ramírez. Según lo expone la propia autora, esta investigación sobre las danzas del sistema ritual cora está orientada teóricamente por la corriente estructuralista; particularmente por las aplicaciones que se habían desarrollado en México hasta ese momento. Propongo que para la próxima sesión demos lectura al capítulo II. Modelo de interpretación de la danza. En él, la autora describe el marco teórico que emplea para su análisis coreográfico: diversos conceptos y modelos "importados" de la lingüística estructural. Está de más señalar la cercanía entre danza y música, por lo cual considero que su propuesta es de interés para nuestro curso. Por otro lado, les sugiero leer el capítulo I. Introducción. Son alrededor de catorce páginas en las que M. Ramírez describe cómo fue su proceso de investigación. Esa parte del texto es útil para conocer cómo es un proceso de diseño de investigación, y lo relata de una manera muy personal y franca.
+
+[bibliography]
+== Referencias
+* [[[jakobson1974]]] Jakobson, R. - Ensayos de lingüística general [1974]
+* [[[bonfiglioliSF]]] Bonfiglioli, C. - La danza de la conquista de México en la Costa Chica (s/f)
+* [[[mauss1979]]] Mauss, M. - Sociología y Antropología [1950]
+* [[[leach1981]]] Leach, E. - Cultura y comunicación [1976]
+* [[[levi-strauss1958]]] Lévi-Strauss, C. - Antropología Estructural [1958]
+
+== II. Modelo de interpretación de la danza (p. 19)
+.Estudio etnológico de los hechos dancísticos (p. 19)
+* Etnología (simbólica) de la danza
+* Música y danza son metalenguajes que utilizan la realidad para pensar e interpretar de manera grupal e inconsciente temáticas míticas que hacen referencia a su cosmovisión.
+* Cantos, arquitectura y danzas: vehículos mitológicos: mito no-verbal ritualizado [primacía del lenguaje]
+
+.Modelo teórico-metodológico para el análisis simbólico de coreogragías (coras)
+.. Cuerpo humano y movimientos: vehículo de emociones e informaciones; medio de comunicación <<jakobson1974>>
+.. Procesos dancísticos → hechos simbólicos complejos
+... Con un núcleo de movimientos rítmico-corporales
+... Interrelacionado variablemente con otras dimensiones semióticas [campos semánticos]
+.. Transcripción de _textos coreográficos_ -> sistema de signos
+.. #Segmentación# del _continuum_ dancístico -> #unidad mínima de significación#
+... Construcción de #categorías# ~cinético-coreográfico-sonoras~ pertinentes al #sistema# dancístico
+... Hacer explícitas las #relaciones estructurales# ÷ #patrones# cinéticos
+
+=== 1. Acto comunicativo
+
+==== a) El mensaje dancístico (p. 21)
+Conocimiento codificado en `cinesis dancística` y `trazos de piso` -> contextualizados en `espacio ritual` y `tiempo ritual` -> que enfatizan el `pensamiento mágico` cora
+
+.[Representaciones dancísticas]
+* Ciclo del maíz
+* Preparación de la tierra
+* Petición de lluvias [agencia en el clima]
+* Conjuros para temporadas [agencia en el clima]
+* Movimientos de astros, día y noche [modelos astronómicos]
+
+.[Análisis]
+* Combinación [sintagmática] de #temas coreográficos# (referentes a piezas música-danza, o fragmentos de trazos de piso) a lo largo de días y horas
+
+* «En el _continuum_ dancístico podemos encontrar las cadenas sintagmáticas bajo tres paradigmas: la acción, la parafernalia del danzante y el sonido; [...] para fines del análisis, decodificables. [Las] alteraciones de movimientos corporales, rítmico-sonoras, melódicas, de parlamentos y trazos, todas interrelacionadas entre sí en una unidad sincrónica, introducen un elemento de discontinuidad dentro del _continuum_. Así, en el plano de lo formal coreográfico logramos aislar desde las "unidades mínimas de significación", hasta establecer los grandes "bloques coreográficos" (p. 32)»
+
+* Lévi-Strauss: el mito como partitura orquestal <<levi-strauss1958>>
+
+.[Cronología general]
+* Música y danza
+** para los santos por las noches
+** para la Virgen por el día
+* En celebraciones...
+. durante la víspera o velación al nadir, dentro de la casa real
+. durante los traslados, acompañando a los santos
+. durante la fiesta al cenit
+
+.Modelo de la comunicación
+<<jakobson1974>>
+
+... Emisores y receptores
+* Los pobladores son simultáneamente ambos
+* La participación en la emisión está prescrita y sancionada -> obligaciones, conductas [y funciones] sociales
+* Reafirma pertenencia familiar y comunitaria
+
+  ### ¿Cómo se justifica la inclusión de una variedad de cuestiones sociales (como ritos de paso, contrato, identidad) en estas categorías lingüísticas?
+
+... Referentes (p.23) +
+* Determinados por el contexto del mito-rito
+* Lo anterior determina (?) que «las expresiones dancísticas pueden fungir como oraciones, acciones propiciatorias, ritos de fecundación, ritos de pasaje, o bien, conmemoraciones de diversa índole»;
+* Lo anterior, el contexto referencial, es el hilo conductor del mensaje, donde se encuentra el sentido de la expresión
+* Son funciones integradas complementariamente en los mensajes dancísticos
+
+  ### Se refiere a la prescripción y sanción de las circunstancias (espacio, tiempo, participantes) en las que se produce el mensaje dancístico
+
+...  Medios +
+Conductos o contactos [corporales] para la transmisión y construcción del mensaje
+** Cinésico
+** Visual
+** Auditivo +
+Incluye indumentaria y _locus choristicus_
+
+==== b) Los "campos semánticos" (p. 24)
+... Códigos (incorporan información de manera análoga a un lenguaje)
+. Tiempo y lugar +
+Determinado por el contexto socio-cultural [¿referente?]
+. Indumentaria y parafernalia +
+«Describe el carácter dramático del personaje (danzante)»
+. Acción coreográfica
+.. Movimiento corporal
+.. Trazos de piso
+. Sonoro
+.. Instrumental
+.. Vocal y textual
+
+    ### Todos estos elementos habían sido señalados anteriormente bajo categorías distintas
+
+=== 2. Como un sistema de comunicación [no-verbal] (p. 27)
+
+.A1. Acción de danza
+Es un hecho simbólico complejo, está organizada culturalmente, estructurada y codificada, análoga al lenguaje +
+<<mauss1979>> <<leach1981>>
+
+.A2. Metalenguaje dancístico
+
+* Distinción ÷
+** Cinesis +
+«Susceptible de ser analizada desde sus propias características cinéticas»
+** Metalenguaje +
+Incluye las «diversas combinaciones de los elementos que componen un "hecho dancístico"» y «el simbolismo cora implícito al momento de la _representación_-escenificación dancística»
+
+* Factores constitutivos de un acto comunicativo <<jakobson1974>>
+** Referencial (contexto)
+** Emotiva (actitud del [emisor])
+** Conativa (mandato y pregunta)
+** Fáctica (canal [medio] físico)
+** Metalingüística (código)
+** Poética [~retórica]
+
+* Tres dimensiones de la danza (p. 30)
+** Técnica corporal
+** Sistema simbólico
+** Expresión estética (valor cultural)
+
+****
+Combinaciones ÷ `campos semánticos` -> `segmentación` del _continuum_ -> `vocabulario cinético` -> reglas `sintácticas`
+****
+
+****
+«El orden secuencial y las reglas de composición conforman lo que hemos denominado _armadura dancística_» (p. 30)
+****
+
+****
+Al momento de registrar y analizar un "texto dancístico" desconocido, los etnólogos  nos enfrentamos con un problema semejante al que tienen los lingüistas cuando deciden decodificar una lengua que no conocen: ¿cómo descomponer el  _continuum_ de acciones con el que nos topamos en   un primer momento, y en el que no logramos distinguir el comienzo y el final, en  un conjunto  ordenado de unidades significativas? ¿Cómo pasar,  pues, del _continuum_ a la #armadura dancística#? (<<bonfiglioliSF>>, p. 24)
+****
+
+.La experiencia física del cuerpo
+* Distinción entre movimientos dancísticos y cotidianos (no-dancísticos)
+** A partir de un contexto general
+** Localización del espacio y tiempo
+** Vestimenta y organización interna del grupo
+
+.B. El complejo dancístico de los Coras
+
+I. Cuadrillas (Danzas lineales, cora alta, lluvias)
+· Urraca
+· Arcos
+· Maromeros
+II. Corro (Danzas circluares, cora baja, secas)
+· Mitote
+· Pachitas
+· Judea
+III. Zapateada (?)
+· Tarima
+IV. Ecuestres (?, cora alta, lluvias)
+· Moros
+· Caballeros Santiagos
+
+  ### Tres de estas danzas quedan fuera de las categorías centrales lineal/circular
+
+IMPORTANT: Descripción de cada danza y "Características del sistema" (p. 47)
+
+== IV. Sistema Dancístico (p. 216)
+
+* Esquema preliminar sistémico de las danzas coras [¿triángulos pequeños?]
+** Trayectorias circulares/lineales
+** Espacios abiertos (arriba)/cerrados (abajo)
+
+* Calendario ritual (p. 217)
+** Nadir/Cenit
+** Secas/Lluvias
+
+ ### Grupo de Klein
+
+* Instrumentos musicales (p. 219)
+** Nadir/Cenit
+** Lluvias/Secas
+
+  ###  Percusiones generalizadas
+
+* Indumentarias y personajes (p. 220)
+** Objetos/humanos
+** Nadir [inframundo]/Cenit [firmamento]
+
+* Coreografías (p. 221)
+** Objetos/humanos
+** Secas/Lluvias

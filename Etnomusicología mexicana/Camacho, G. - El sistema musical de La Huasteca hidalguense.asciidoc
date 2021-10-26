@@ -1,0 +1,31 @@
+= Camacho, G. - El sistema musical de La Huasteca hidalguense. El caso de Tepexititla
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: abril 2021
+:Revision: pendiente
+:toc:
+
+// Este texto muestra de forma muy concisa el procedimiento de análisis y sistematización de un conjunto de expresiones musicales que caracterizan a una comunidad determinada. Dicho procedimiento se centra, en este caso, en la observación del calendario ritual y de la oposición vida/muerte; a partir de lo anterior, se busca ubicar la posición que ocupa cada ocasión performativa en el modelo de "sistema musical". Como ejercicio complementario a la lectura de este texto, les propongo que cada quien elabore al menos un diagrama, cuadro, figura o tabla en el que sintetice lo más posible la información proporcionada por el autor. En particular, que tratemos de representar gráficamente las relaciones que el autor destaca. También pueden sugerir sus propias categorías y clasificaciones. En clase los compartiremos y compararemos. Pueden hacerlo en PowerPoint o cualquier otro programa de su elección, incluso hacerlo a mano y luego fotografiarlo. También pueden usar papel y lápiz y luego fotografiarlo. De cualquier forma, la idea es que los compartamos en Zoom.
+
+== Matriz cultural musical (p. 502)
+* Acceso a los instrumentos
+* Conocimiento técnico (tradición oral [teoría] y corporal [técnica])
+* Contexto musical, ámbitos festivos [ritual]
+* Conocimiento de los diferentes géneros
+* Concepto propio de la cultura
+* Asimilación por la fiesta [sistemas sociales]
+* Mitología
+
+== Definición de "Sistema musical"
+* De la etnomusicología a la antropología de la música
+* «Por sistema musical entendemos a un conjunto de manifestaciones musicales que se encuentran organizadas en una *estructura* que permite incorporar información codificada. Desde este punto de vista, los sonidos se encuentran organizados de acuerdo a ciertos *códigos*, es decir, existen ciertas *formas gramaticales* que funcionan como organizadores del fenómeno sonoro y que, a través de dicha organización, las secuencias sonoras (*sintagmas sonoros*) transmiten *información* y son reconocidas por la comunidad de procedencia.» (p. 503)
+
+== Aplicación del "sistema musical"
+* Subsistema de *fiestas comunales* +
+Comunidad
+** Categorías: rigidez/licencia
+
+*  Subsistema de *fiestas seculares* +
+Familia
+
+== Inteligible/Sensible

@@ -1,0 +1,127 @@
+= Bonfiglioli, C. - Danzas y andanzas a la luz del estructuralismo
+Guillermo Mora Reguera <guillermo.mora@fam.unam.mx>
+1, agosto 2021
+:description: Resumen del artículo
+:keywords: etnología, danza, estructuralismo
+:toc:
+:toc-title: Contenido
+
+// "Danzas y andanzas a la luz del estructuralismo", de C. Bonfiglioli. En este texto, el autor expone los fundamentos más básicos e importantes del análisis de corte estructuralista aplicado al campo de las "danzas tradicionales". Estos temas los desarrolla a partir de la página 8, así que pueden empezar a leer desde ahí. Destaca el desarrollo de conceptos como sistema, transformación y análisis, y de categorías opuestas y complementarias como continuo/discreto, paradigma/sintagma y etic/emic. El autor describe la manera en que los sentidos de una danza (qué significa o representa) sólo puede comprenderse a partir de su estudio en conjunto con otros ámbitos "culturales" (como geografía, organización social, etcétera); es decir, desde una perspectiva sistémica. También en este rubro, argumenta por qué el sentido que una danza tiene para determinado grupo social, igualmente sólo puede ser comprendido (para nosotr@s académic@s) a través de su estudio frente a las danzas de otros grupos cercanos o con determinada relación. El autor aplica estos postulados al campo de estudio de las danzas en México, particularmente de aquellas llamadas "Danzas de Conquista". En la sesión de Zoom revisaremos materiales audiovisuales que nos ayuden el contexto etnográfico de esta lectura, pero les sugiero que ustedes mism@s se adelanten en la búsqueda de estos materiales. Les recuerdo que es de suma importancia que aprovechen nuestras reuniones para plantear dudas y comentarios. Quedo atento a cualquier asunto que requieran atender. 
+
+[bibliography]
+== Referencias
+* [[[fill_me]]]
+
+== Morfología y transformaciones (p. 7)
+
+TIP: Danza [música, ritual] y lenguaje [gramática, textualidad]
+
+.Transformación (p.8)
+** «Diálogo entre distintas modalidades expresivas y de contenido, es decir, otros aspectos y otros equivalentes intra e interculturales»
+
+.Morfología (p.8)
+** «Identificación de las principales características de la presentación dancística»
+** Análisis morfológico: descomposición del _continuum_ en "unidades discretas" dotadas de sentido diferencial; discernir la complejidad de la danza desmenuzando en elementos mínimos el conjunto de características [campos semánticos]:
+*** [Indumentaria y parafernalia]
+*** [Teatro]
+*** [Música]
+*** [Coreografía]
+*** [Economía y convivencia]
+** [Criterios de análisis] (p.9 "primero"):
+*** Personajes
+*** _Locus choristicus_
+*** Tiempo escenográfico
+*** Acciones
+
+.Sentido (p. 9, "segundo")
+** Ejes [analíticos]
+*** Sintagma (lógica combinatoria)
+*** Paradigma (lógica asociativa)
+** El efecto de significación depende de la transformación de una en la otra y viceversa (↓)
+** [Conjunción] de ambos en el tiempo ritual
+
+.Etic/emic
+** Analista
+*** Los criterios [analíticos] son parte de un sistema (meta)gramatical (ej. Español es un sistema, la gramática del español es un metasistema)
+*** Opera en conjunto [corpus de análisis]
+** Nativo
+*** Aprende el texto (idealmente) sin cuestionarlo
+*** Conoce las partes ("frase coreográfica") sin haberlo analizado formalmente
+*** [Conoce intuitivamente el código que compone su danza]
+
+****
+«El propósito de esta combinación de criterios es elucidar cuál es el conjunto de posibilidades ofertado por la cultura para que cada grupo escoja su forma de agenciamiento ritual y dancístico; su forma de posicionarse frente al otro, sea éste un _alter_ alejado por la vía de la historia; del costumbre o de la especiación.»
+****
+
+== Transformación, traducción y "significado"
+** [Sistema: interpretación de los elementos a través de su relación con otros elementos]
+*** [Representa lo que incluye; implica lo que excluye]
+*** [Textos (música, danza, mitos) "incompletos" encuentran correspondencias en otros ámbitos o localidades]
+** El sistema se expresa de forma multi-dimensional en la realidad, pero en el análisis se traduce a palabras
+*** Sperber: la expresión lineal del simbolismo frente a su realidad compleja (p. 11)
+** «El proceso de significación [traducir un código en otro] resulta ser interminable»
+*** «La tarea del analista no es tanto delimitar el sistema cuanto caracterizarlo en su interior»
+
+****
+«A partir de la posición binaria, que ofrece el ejemplo más sencillo que se pueda concebir de un sistema, esta construcción se realiza mediante agregación, en cada uno de los dos polos, de nuevos términos elegidos porque mantienen con éste relaciones de oposición, de correlación o de analogía; pero de esto no se sigue que estas relaciones deban ser homogéneas: cada lógica "local" existe por su cuenta, estriba en la inteligibilidad de la relación entre dos términos inmediatamente asociados, y ésta no es obligatoriamente del mismo tipo para cada eslabón de la cadena semántica.» (Lévi-Strauss 1964 [1962], p. 231)
+****
+
+== Transformaciones de la Conquista (p. 12)
+.Procedimiento
+** Identificación
+*** En el caso, de segmentos correspondientes a temas [específicos]
+*** En el sistema, «de una suerte de metagramática transformacional que subyace a las especificidades de cada caso particular»
+*** Ida y vuelta: descubrimiento del sentido de cada elección particular (caso) dentro de
+**** un vasto campo de posibilidades "lexicales"
+**** un campo reducido de posibilidades "gramaticales"
+
+.Agrupaciones (p. 13)
+. Prohispanistas
+.. Noble conversión indígena
+. Proindigenistas
+.. Heroica resistencia al invasor
+.. Minimiza el conflicto teológico, magnifica el enfrentamiento militar
+
+.Perspectiva histórica (p. 13)
+«Las características morfológicas [.underline]#de estos dos grupos# de variantes pueden ser explicadas en función de factores históricos precisos»
+. Prohispanistas
+.. Colonización
+. Proindigenistas
+.. Independencia, Juarismo
+.. [Prolongación de la conquista]
+
+.Complementariedad
+** Elementos mezclados entre variantes
+** Análisis transversal
+** Nuevos ejes de transformaciones
+** Variantes intermedias
+** Otros factores históricos-sociales
+** Idiosincracias regionales
+
+.Fugas sistémicas (p. 15)
+** «El conflicto no está ausente. Lo encontramos reverberando en el resto de la tradición dancística...»
+** «Ninguna variante agota por sí sola las posibilidades de "significar" un determinado tema»
+
+== La vía de las danzas (p. 16)
+** Pensar el paso de un sistema de danzas a dos bandos a un sistema de danzas a un bando (matachines)
+** Vinculación/desvinculación con temas (p. 17)
+** Reconfiguraciones macrorregionales
+*** Transformaciones de representaciones de hechos históricos (Conquista en el Noroeste)
+*** De la Pasión al conflicto interétnico
+*** Confluencia de tradiciones/cosmologías/iconografías
+
+== La multiplicación de las transformaciones (p. 19)
+****
+Subyace la idea de que gran parte del potencial significativo de una danza deriva de la posición que esta ocupa dentro de un complejo sistema de transformaciones constituido por equivalentes paradigmáticos del mismo tipo (Bonfiglioli, Gutiérrez y Olavarría 2004)
+****
+
+.Danza yúmari (p.21)
+** Actuación de mito primigenio
+** Sol, luna, eclipse, toro-sacrificio
+** Patio-cosmos, círculos, direcciones, posiciones
+** Puntos cardinales, árbol cósmico (pp. 23-24)
+
+.Noroeste-mesoamérica
+** Transformaciones de cosmología y cosmopraxis (p. 24)
+** Archivo histórico
+** Diferencias/similitudes
