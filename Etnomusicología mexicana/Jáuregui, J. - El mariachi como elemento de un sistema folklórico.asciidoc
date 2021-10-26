@@ -1,6 +1,8 @@
 = Jáuregui, J. - El mariachi como elemento de un sistema folklórico
-Guillermo Mora Reguera <guillermo.mora@fam.unam.mx>
-13, octubre 2021
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: octubre 2021
+:Revision: 2
 :description: Resumen del artículo de Jesús Jáuregui
 :keywords: etnología, danza, estructuralismo
 :toc:
@@ -8,3 +10,7 @@ Guillermo Mora Reguera <guillermo.mora@fam.unam.mx>
 
 == Introducción
 * «[El tratamiento que hace Lévi-Strauss] de la mitología está, desde el inicio, asociado inseparablemente a referencias hacia la música.»
+
+«Un análisis propiamente estructural [...] se trata no sólo d edescubrir la configuración relacional subyacente a un conjunto, sino de encontrar entre distintos conjuntos las diferencias a partir de las cuales cada uno puede ser definido.» (p. 94)
+
+«Un sistema no es un agregado, ni una mera suma de elementos yuxtapuestos mecánicamente. Por el contrario, sus elementos constitutivos, lejos de tener un "valor" como entidades independientes, preseutan un carácter puramente relacional, es decir, dependiente de las relaciones que los unen y oponen con los demás en el seno de un conjunto.» (p. 99)
