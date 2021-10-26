@@ -1,0 +1,13 @@
+= Lévi-Strauss, C. - El hombre desnudo [1971]
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: octubre 2021
+:Revision: 0
+:description: Citas y referencias del libro de C. Lévi-Strauss
+:keywords: etnología, estructuralismo
+:toc:
+:toc-title: Contenido
+
+== Finale
+
+«Esta actitud negativa [hacia el estructuralismo] se inspira en las circunstancias. Al leer las críticas que ciertos filósofos enderezan al estructuralismo, reprochándole la abolición de la persona humana y de sus valores consagrados, me quedo tan estupefacto como si se resbalasen contra la teoría cinética de los gases con el pretexto  de que, al explicar por qué el aire caliente se dilata y se eleva, pusiese en peligro la vida de familia y la moral del hogar, cuyo calor, perdido el misterio, perdería sus resonancias simbólicas y afectivas. A la zaga de las ciencias físicas, las humanas tiene que convencerse de que la realidad de su objeto de estudio no está por entero acantonada en el nivel donde el sujeto la percibe» (p. 584)

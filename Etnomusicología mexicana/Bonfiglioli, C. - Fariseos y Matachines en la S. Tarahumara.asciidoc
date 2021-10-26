@@ -1,0 +1,13 @@
+= Bonfiglioli, C. - Fariseos y Matachines en la S. Tarahumara (1993)
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: octubre 2021
+:Revision: 0
+:description: Resumen la tesis de C. Bonfiglioli
+:keywords: etnología, danza, estructuralismo
+:toc:
+:toc-title: Contenido
+
+«A raíz de lo anterior, surge, para el antropólogo interesado en este tema, una inquietud recurrente: ¿Cuál es, desde una perspectiva intercultural, ese núcleo duro que identifica y distingue a la danza de las demás actividades? ¿Es posible encontrar una definición --etic-- que opere por encima de todas las concepciones culturales?
+
+La pregunta, válida para cualquier tema (la economía, el parentesco, la religión, etc.), es inherente al quehacer de la antropología y de la etnología. Por una parte, se nos impone reducir la gran diferencia de formas en una única definición, intercultural, capaz de caracterizar, conjuntamente a otros elementos, la unidad del ser humano frente a las demás especies animales. Asimismo, es precisamente este meollo intercultural lo que nos permite regresar a la diversidad de la que partimos para medir y confrontar la singularidad con que las prácticas dancísticas se manifiestan en cada cultura.» (pp. 24-25)
