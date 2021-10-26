@@ -1,0 +1,28 @@
+= Arom, S. - 
+
+== IV. Herramientas teóricas
+
+=== I. La noción de relevancia
+
+==== I.I ¿Qué es la relevancia?
+* Se tiene el propósito de no proyectar nociones europeas al objeto de estudio africano
+* Referirse sólo a los criterios presentes en la tradición musical bajo estudio
+* La relevancia opera como una secuencia de filtros que distinguen aquello que es "significante" (pertinente)
+
+.Transcripción
+* La relación entre transcripción y relevancia es dialógica, y es improductivo discutir la primera sin la segunda.
+.. Una transcripción que aspire a la precisión máxima se enfrentará con que ésta no tiene límite
+.. Una transcripción basada en trabajo de campo puede determinar de antemano puede referir sólo aquellas características acústicas que sean consideradas pertinentes por la comunidad. Esto permitiría luego identificar características estructurales, reglas sintácticas y principios de función y combinación
+
+* «Nuestro problema es, primeramente, determinar qué hace relevante a un elemento dado en una estructura musical, y luego identificar los niveles estructurales en los que se asigna dicha relevancia a diferentes conjuntos de elementos»
+
+** Analogía entre la [escucha académica] y la grabadora, incapaces de distinguir los "contenidos subjetivos"
+
+** Énfasis en mostrar no aquello "verdadero", sino el rango de variaciones posibles que posibilitan un entendimiento del fenómeno (Herkovits; Merriam)
+
+* El problema de la teoría implícita [tácita: Sperber]
+** Brailoiu: el músico "no cultivado" se encuentra completamente en los confines del empirismo
+** Que los usuarios de una teoría implícita "nunca pasen por alto un error" demuestra su existencia
+** En algún nivel de abstracción, los cánones de un sistema musical dado deben ser simples, sin importar la complejidad de las "tocadas".
+
+107 (128)

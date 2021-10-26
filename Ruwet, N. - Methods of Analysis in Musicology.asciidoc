@@ -1,0 +1,179 @@
+= Ruwet, N. - Methods of Analysis in Musicology
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: abril 2021 - agosto 2021
+:Revision: 2
+:toc:
+:toc-title: Contenido
+
+[bibliography]
+== Referencias
+* [[[arom1969, Arom, S. - Essai d'une notation des monodies à e fins d'analyse (1969)]]]
+* [[[chomsky1957, Chomsky, N. - Syntatic Structures (1975)]]]
+* [[[chomsky1965, Chomsky, N. - Aspects of the Theory of Syntax (1965)]]]
+* [[[chomsky1968, Chomsky, N. - Language and the Mind (1968)]]]
+* [[[chomsky1972, Chomsky, N. - Studies on Semantics and Generative Grammar (1972)]]]
+* [[[hayek52, Hayek, F. - The Sensory Order: An Inquiry into the Foundations of Theoretical Psychology (1952)]]]
+* [[[hayek67, Hayek, F. - Studies in Philosophy, Politics and Economics (1967)]]]
+// * [[[jakobson1974]]] Jakobson, R. - Ensayos de lingüística general [1974]
+* [[[levi-strauss1958, Lévi-Strauss, C. - Antropología Estructural: El análisis de los mitos [1958]]]]
+* [[[nattiez1975,  Nattiez, J.J. - Music and discourse [1975]]]]
+* [[[naud74, Naud, Gilles - Pour une méthode d'analyse du niveau neutre en sémiologie musicale (1974)]]]
+* [[[naud77, Naud, Gilles - Aperçus d'une analyse sémiologique de Nomos Alpha (1977)]]]
+* [[[rouget1961, Rouget, G. - Un chromatisme africain (1961)]]]
+* [[[ruwet1975, Ruwet, N - Théorie et méthodes dans les études musicales: quelques remarques retrospectives et préliminaires (1975)]]]
+* [[[schneider80, Schneider, R. - Semiotik der Musik: Darstellung und Kritik (1980)]]]
+* [[[popper69, Popper, K.- Conjectures and Refutations: The Growth of Scientific Knowledge (1969)]]]
+* [[[popper72, Popper, K. - The Logic of Scientific Discovery (1972)]]]
+* [[[popper79, Popper, K. - Objective Knowledge: An Evolutionary Approach]]]
+
+== Introducción de Mark Everist (1987)
+
+.Innovación
+* El primer intento coherente de articular un sistema musical analítico, que atrajo en los procedimientos distribucionales y taxonómicos de la antropología, lingüística y etnomusicología
+* Uno de los primeros en tratar músicas distintas a las de la "práctica común" para la era
+* Las monodias que analiza sólo se habían estudiado desde los procedimientos de conducción de voces [¿étnicos?]
+
+.Antecedentes
+* (André Souris y Pierre Froidebise)
+* Gilbert Rouget
+* Roman Jakobson
+* <<levi-strauss1958, Claude Lévi-Strauss>>
+
+.Recepción ("tradición teórica") +
+* <<nattiez1975, Nattiez>>
+** «Los procedimientos de Ruwet no aportan una, sino múltiples llaves; es decir, un conjunto de _posibilidades_ analíticas»
+** Revisa el método, lo suma a las ideas ("distribucionales") de Arom y lo coloca en el nivel neutro de la tripartición de Molino (p. 5, ¶ 2)
+** Para una comparación entre Ruwet y Nattiez ver
+* <<arom1969, Arom>>
+** Cuyo texto «se concentra inicialmente en la notación de Ruwet, mas continúa con la discusión sobre vistas alternativas de la segmentación de la primer pieza que Ruwet discute [proponiendo una presentación rectilínea en vez de la paradigmática]»
+* Vaccaro
+** _Chanson_ polifónica del s.XVI y música del Renacimiento en general
+* Lidov
+** "Musical Phrase Structure in the Theories of Riemann, Cooper and Meyer, and Ruwet"
+* Naud
+** Estudios de una obra de Xenakis (_Nomos alpha_), paralelos a los de Nattiez sobre Varèse (_Densité 21.5_), a la vez que toman el comentario del compositor como punto de inicio
+
+[#Críticas]
+.Críticas
+* Geesh criticó como ignorancia el manejo de la evidencia documental
+** Por su parte el autor de esta Introducción (Everist) señala que el énfasis de Ruwet no se encuentra en «la elucidación de una única canción [...] sino en el método analítico» (p. 5 ¶ 2)
+* Everist señala problemas con las valoraciones y suposiciones en torno al ritmo modal y su notación
+** Ruwet usa ediciones de Gustave Reese con indicaciones rítmicas equívocas (nota 22)
+** #<<El resultado de esta vista esquemática del ritmo de la canción de _trouvère_ y _troubadour_es que los análisis de esta música que usen ediciones que emplean ritmos modales probablemente serán condenadas por imprecisas.» (p. 5 ¶ 2)#
+** #Específicamente, el problema es que en el <<incisoB, inciso B >> del método de Ruwet, la duración total de cada segmento se toma como un indicio para la segmentación posterior de unidades del nivel I#
+* Geesh también considera que la técnica de segmentación de Ruwet reemplaza otros criterios (cadencias, proporciones, estructura del texto) con la recurrencia de los tonos
+** Everist considera que más que reemplazarla, las complementa
+** Ruwet comentó (1966) que #«el procedimiento es mucho más uno de verificación para asegurarse que el análisis es coherente, que uno de descubrimiento en el sentido estricto del término»#
+
+.Retracción +
+Ruwet planteó <<ruwet1975, (1975)>> dudas sobre la validez y el interés de los procedimientos inductivos, sugiriendo en cambio un procedimiento más racionalista y teórico, la posibilidad y necesidad de investigar sobre universales, y la desconfianza en el relativismo y el conductivismo. Refirió los textos de <<chomsky1957, Chomsky>>, Hayek y <<popper69, Popper>>; sobre este último, recuperó que las teorías preconcebidas siempre condicionan los enfoques de investigación. (p.6)
+
+== I - [Modelo sintético vs. modelo analítico]
+
+.Modelo sintético
+** Con propósitos más fundamentales (p. 12, ¶ 2) +
+«Parece muy difícil formalizar por completo los procedimientos de descubrimiento, y la aplicación de tales pruebas como la conmutación o la distribución (Hjelmslev) siempre dejan residuos; éstos pueden ser reducidos sólo mediante la introducción de consideración de un orden bastante distinto - tal como el de la simplicidad, aplicada a la totalidad de un sistema (el código)» (p. 12)
+
+.Modelo analítico
+** El corpus de mensajes no constituye la totalidad de datos iniciales
+** Dicho corpus no constituye el único medio de acceso al código
+** Restando peso a la objetividad, el analista tiene una mayor variedad de datos a su disposición
+** Los juicios metalingüísticos, por ejemplo, pueden hacer emerger una serie de indicios sobre la estructura del código
+** Sus problemas metodológicos son difíciles y de poco interés, y pierden relevancia cuando se parte de una perspectiva sintética
+** Es indispensable para que el diseño de un sistema no pase de ser sintético a ser normativo
+
+== II - [Método analítico]
+
+.Modelos musicológicos (p.14)
+* La distinción entre síntesis y análisis nunca se ha problematizado
+* No se ha elaborado explícitamente ningún modelo analítico [¿Schenker?]
+* Los análisis musicales no formulan los criterios de descubrimiento de que dependen
+* Predominan aquellos similares a la gramática tradicional: sintéticos, parcialmente explícitos y viciado por la normatividad
+
+.Prolegómenos a los procedimientos de descubrimiento (p. 14, ¶ 2)
+// * Apresurar una generalidad puede provocar una desvinculación entre los mensajes específicos y el sistema que constituye la parte más abstracta del código
+// * Lo anterior en relación, también, a la falta de explicitación de las normas por las que debe proceder la sistematización
+* Las nociones que conducen la sitematización deberían poder ser definidas en lo general, y no solamente en lo particular
+  ** Por ejemplo, en el caso de las nociones de segmentación (periodo, frase, semi-frase, etc.)
+* Preguntas críticas frente a los PD (p. 14, ¶ 3)
+  ** Quizá sin importancia para músicos y musicólogos, pero de indudable importancia para el estudio de las músicas no-europeas
+  ** ¿Pueden ciertos criterios ser reemplazados por otros?
+  ** ¿Se obtienen los mismos resultados aplicando distintos criterios analíticos? ¿O se producen resultados distintos que introducen ambigüedad a la estructura? (Variantes de interpretación)
+  ** ¿Puede aplicarse una jerarquía a los criterios, permitiendo que se aplique uno si el otro ha resultado en ambigüedades?
+  ** ¿Tiene alguna utilidad distinguir criterios sintagmáticos (como los silencios) de otros paradigmáticos (con equivalencias), o sustanciales (silencios, timbres) de formales (repetición, variación)?
+* Aplicar PD explicitos sobre sistemas musicales familiares revela que las mismas conclusiones pueden alcanzarse desde la intuición (p. 15, ¶ 1)
+* No existe un PD totalmente satisfactoria, y entre más de ellos se usen, de manera *independiente*, mejor será la constitución final del código (p. 15, ¶ 2)
+
+== III - [Conceptos metodológicos]
+
+.Tipos de elementos en la música (p. 16, ¶ 2)
+* Paramétricos
+** Constante
+** Oposición binaria
+* No-paramétricos
+
+.Repetición como elemento no-paramétrico (p. 16, ¶ 4)
+* No existen repeticiones idénticas, algún grado de abstracción es requerido (la cual es cuestionable)
+* Dimensiones en que se ubica la repetición (tono, duración, intensidad, timbre, etc.)
+** Tono y duración, aptos para música occidental y monofónica
+** En una primera etapa, ambas dimensiones se tratan en conjunto
+** En una etapa posterior, ambas dimensiones se tratan disociadas (resultando en la observación de *variaciones*)
+
+.Rouget, 1961, p. 41
+****
+...Ciertos fragmentos se repiten, otros no; es en la repetición -o en su ausencia- que se basa nuestra segmentación. Cuando una secuencia de notas aparece dos o más veces, con o sin variación, se le considera una unidad. A manera de corolario, una secuencia de notas que aparece sólo una vez también se considera una unidad, cual sea su longitud y el número aparente de sus articulaciones (especialmente silencios) <<rouget1961>>
+****
+
+== IV - [Descripción del proceso de división]
+.Incisos (p.17)
+A. Sobre la 'cadena sintagmática', se identifican las secuencias que se repiten en toda su extensión #(la más larga posible)#; éstas conforman el nivel I.
+* La repetición puede ser consecutiva o con otros segmentos de por medio.
+* Las secciones que se repiten se representan con las primeras letras del alfabeto, los 'remanentes' con las últimas.
+* De esta primera operación derivan estructuras como: [A + X + A], [A + A + X], [A + X + A + Y + A], [A + B + A + X + B + Y]
+
+
+B. [#incisoB]#Si los remanentes se aproximan a la duración de las unidades del nivel I (A, etc.), se toman, inicialmente, como tales. [A + A + X] equivaldría a [A + A + B]# (ver <<Críticas>>)
+
+* X podría tomarse como una repetición de A, en el sentido de que ambos están siendo equivalentes en cuanto a su duración
+
+* Este primer análisis puede reforzarse o debilitarse respecto a otros criterios
+
+. Estos resultados pueden consolidarse recurriendo a indicios provistos por los silencios, o por el análisis de las palabras (en el caso de la música vocal)
+
+C. Los remanentes pueden no ser admisibles como unidades del nivel I por los siguientes motivos:
+
+. Son más cortos, caso en el que reservan para después de la operación (d)
+. Son más largos, caso en el que se segmentan a través de las operaciónes (b), (c) o (d)
+. Deben reducirse a través de otra iteración de la operación (a) sobre las unidades del nivel I
+. Se consideran unidades inanalizables del nivel O
+
+D. Con frecuencia, varias unidades podrán ser consideradas como _transformaciones_ (variantes rítmicas o melódicas) de otras. [A + A + X] equivaldría a [A + A + A']; o [A + B + A + B] a [A + A' A + A'].
+
+. Una primera clase de transformación deriva de aplicar, separadamente, el principio de repetición a las alturas y a las duraciones
+
+. Otras transformaciones introducen operaciones más complicadas como permutaciones, adiciones o sustracciones
+
+. Para considerar que un elemento corresponde a una transformación, generalmente se requiere de una nueva aplicación de (a), en un nivel inferior, el II.
+
+.. [A = a + b]; [X = a + c] +
+Donde una parte de X es una *repetición estricta* de A. Si a esto se suma otra equivalencia de X con A (duración, silencios, texto), entonces se considera una transformación: X = A'
+.. Con esto se muestra que el procedimiento se realiza en ambos sentidos: de abajo hacia arriba, y viceversa.
+
+. Si los remanentes en [A + x + A + y] son cortos, y se encuentra que [A + x] es idéntico a [A + y] (en cuestión longitud, por ejemplo) se toma cada conjunto como unidades, siendo la segunda una transformación de la primera
+
+E. Pueden agruparse unidades del nivel I, ejs.:
+... [A + X + A + Y]
+... [X + A + Y + A] +
+según los siguientes criterios:
+. El final de X y Y en (i), y los de A en (ii) se encuentran marcados de forma particular (silencio o nota alargada)
+. Se muestre, mediante las operaciones de (d), que Y es una transformación de X +
+
+Una vez que se han derivado todas las unidades del nivel I, deben recurrirse todos los procedimientos para derivar las del nivel II.
+
+.Geisserlied (V, p. 20)
+* Representación gráfica de Lévi-Strauss
+* Procedimiento más bien intuitivo
+
+.Resumen y conclusión
+La sintaxis musical es una sintaxis de equivalencias: las diversas unidades tienen entre sí todo tipo de relaciones de equivalencia -relaciones que pueden unir, por ejemplo, segmentos de longitud desigual- así como segmentos que se empalman unos a otros. La consecuencia de todo esto, como se ha visto, es que es imposible representar la estructura de una pieza musical mediante un solo arreglo.

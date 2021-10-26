@@ -1,0 +1,125 @@
+= Hernández y Reyes - El sonecito del churripampli
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: mayo 2021
+:Revision: pendiente
+:toc:
+
+== Introducción
+.Premisas generales
+Los "procesos de información" desde la estructura musical del repertorio iberoamericano (México-España): +
+_Sonecitos del país_
+
+.Marco teórico
+* Perspectiva sicnrónica/diacrónica [?]
+* Documentos históricos + análisis musical estructural
+* _Sistema musical de transformaciones_
+** G. Camacho
+* _Caribe afroandaluz_
+** García de León
+** Complejos económicos [rutas comerciales]
+** Espacio histórico
+* C. Ginzburg
+** _Circularidad cultural_
+*** Hegemónico/Subalterno
+*** [.line-through]#Culto/Popular#
+*** Relaciones y significación
+*** [.line-through]#Pertenencia cultural#
+*** Apropiación desigual en el consumo del capital cultural
+** _Paradigma indiciario_ +
+«método interpretativo  basado  en  lo  secundario, en los detalles marginales considerados reveladores»
+
+== Los sonecitos del país
+.Definición académica
+* Considerados oriundos de la N.E.
+** En contraste a los peninsulares
+** Por muchos autores hasta los ss.. XX y XXI
+* V. T. Mendoza, G. Saldívar, G. Pareyón
+** Sones tradicionales arreglados e introducidos al teatro (como en Madrid)
+
+.Función
+* Social
+** Estrato bajo
+*** Fandangos y fiestas
+** Estrato alto
+*** Teatro y artes escénicas
+**** Censurados
+*** Partituras
+*** "Educación" (acceso cultural)
+
+.Referencias históricas
+* Inquisición y otras autoridades
+** Descalificación, prohibición, persecución
+* Tránsito de artistas
+* Circulación de repertorio
+* Indicio detrás del estereotipo
+
+== Análisis
+.Antecedentes
+* Las "composiciones" corresponden más bien a "transcripciones"
+* Estructuras musicales consistentes a través de las transformaciones del repertorio de una clase a otra
+
+== El Churripampli
+.Historiografía
+* Presente en el Coliseo
+
+* Tonadilla
+** Pablo Esteve (previo a 1790) +
+Probablemente se le añadió después
+** Blas de Laserna (1803)
+* Partitura
+** Para forte-piano (1803-1807; esrtrato alto)
+* Tradición oral
+** Reporte sobre su uso callejero (1803)
+** Reporte sobre su uso rural (1804 hasta 1949)
+* Tradición escrita (canción)
+** Versión patriótica (1813)
+** Contzeciri (País Vasco: 1824)
+* Poema
+** José María Esteva (1843)
+
+.Equivalencias y transformaciones
+* Métrica +
+Los elementos recuperados conservan la misma estructura de sus versos
+* Lírica +
+«Salvo detalles que varían de una estrofa a otra en la canción mejicana, veremos que son iguales» (Donostia, 1995)
+
+== Análisis paradigmático
+* Corpus de partituras y transcripciones
+* Estructuras
+** Por pieza
+** Por conjunto
+* [Procedimientos]
+** Segmentación
+** Unidades discretas [Ruwet]
+** Criterio de similitud
+** Agrupación
+** Comparación
+* Elementos
+*** Constantes
+*** Sustituibles [transformación]
+* Rasgos de análisis
+** Combinación de versos
+** Alturas
+*** Segmentadas por verso
+** Armonías
+
+== Conclusiones
+* Presencia del churripampli
+** España y México
+** Espacios socio económicos
+* Procesos musicales
+* [.line-through]#Origen y pertenencia#
+* Superioridad en términos de actividad
+* Transformaciones principales
+** Arreglo
+** Secciones introductoria, intermedias y finales
+* Equivalencia
+** Melodía
+** Métrica
+** Época
+** [Territorios]
+* [Reivindicación sobre el origen y el estigma]
+* Pertinencia del análisis musical
+
+TIP: http://gerinel.org/index.php/es/proyectos/churripampli

@@ -1,0 +1,18 @@
+= Luhmann, Niklas - Teoría de la sociedad
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: octubre 2021
+:Revision: 0
+:toc:
+
+= La sociedad como sistema social
+
+== I. La teoría de la sociedad en la sociología
+
+* [...] de cualquier manera que se pretenda definir el objeto, la definición misma es ya una operación del objeto. (p. 27)
+
+* [La teoría formulada por Talcott Parsons] deja abiertas las cuestiones de la autoimplicación cognitiva, tal como aquí las hemos propuesto, porque no dice mucho sobre el grado de congruencia entre la conceptualidad científica y la formación real de los sistemas. (p. 30)
+
+* Las investigaciones que este libro presenta buscan dar el paso a un concepto de sociedad radicalmente antihumanístico y radicalmente antirregionalístico.
+
+[...] de cualquier manera que se pretenda definir el objeto, la definición misma es ya una operación del objeto. La descripción realiza lo descrito: en el momento en que tiene lugar, debe describirse a sí misma.

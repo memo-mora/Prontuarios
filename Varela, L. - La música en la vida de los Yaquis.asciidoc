@@ -1,0 +1,470 @@
+= Varela, L. - La música en la vida de los Yaquis
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: marzo 2021
+:Revision: pendiente
+:toc:
+
+== I. La Música
+
+.Observaciones metodológicas
+* ¿Cuáles son las consecuencias de "oponerse" al punto de vista _emic_ y tomar todas las manifestaciones rítmico-melódicas como "música"?
+** ¿Es realmente una oposición, siempre que considere el aspecto de "función"?
+* «Parecen no existir expresiones musicales ligadas a actividades prácticas y cotidianas, como serían las canciones de cuna» (p. 33)
+
+=== 1. Géneros
+
+==== 1.1. Música Ritual
+
+===== 1.1.1. Danzas Paralitúrgicas
+
+====== 1.1.1.1. Danza del Venado
+
+* La etnia y el Estado
+* Engloba toda su cosmología (¿para qué tener otras danzas, entonces?)
+* Ver también: Ramírez, M.
+* Datos sobre el Pascola reservados para la siguiente sección
+
+.Conjunto instrumental ¬
+* La "personificación diversa" de cada personaje es causa de que cada uno tenga su propia música
+* Música figurativa o programática: «la flauta intenta imitar el sonido [...] del ser que incorpora el Pascola» [debería enunciarse como testimonio]
+
+.Venado-Pascola
+
+. _Cúbahi_ con _hiponia_
+. _Baa-wéhai_ & _Hirúkiam_
+. _Bacacusia_
+. Pascola menor ( _Sena'aso_)
+. _Maso_ (_Téneboim_; _'Rihu'utiam_; _Aócosim_)
+. Cantos
+. Entre cada pascola (4 en total) se hace un interludio de percusiones; cuando entra el siguiente Pascola, se reaunuda el Venado con un nuevo canto
+
+.Repertorio
+* «Prácticamente imposible la recolección sistemática e información precisa sobre el reportorio total»
+* Sones o series de sones de acuerdo al contexto temporal
+* Los _fiesteros_ seleccionan los sones
+* Competencia/correspondencia entre sones de uno y otro conjunto
+
+.Representaciones
+* Venado contra (Pascolas) coyotes
+* Muerte del Venado
+
+.Escenario
+. Ramada (no se observa la orientación geográfica)
+
+.Indumentarias
+. Tocado de Venado
+* Venda [_buúa_] en los ojos, por lo que el protagonista es el Venado (p. 42)
+* «Los listones en los cuerpos del Venado agregan el colorido propio de una fiesta» (p. 43)
+. Máscara de Pascola
+
+.Origen y simbolismo
+. *Venado*
+* Danza aborigen
+* Auto-ofrenda
+* «No llega a reunir los atributos generales de una deidad»
+* Pérez de Rivas: demonio-animal-abuelo [¿símbolo histórico?]
+* «Aplicando un poco de sentido común» se trata de «respeto y agradecimiento a las especies vegetales y animales»
+* _Yooeta_: «En resumen, es la personificación de todos los valores positivos tradicionales, incluyendo los adquiridos en el cristianismo»
+. *Pascola*
+* Opuesto al Venado
+* _Yoomo'omoli_
+* Chivo medieval cristiano → máscara
+* «Usado por los misioneros españoles para explicar a los indios el antagonismo de las fuerzas del bien contra las del mal»
+* ¿Origen prehispánico («marcadadamente católico») o colonial (asociación a la naturaleza)? (sincretismo)
+* Comparación con indios Pueblo
+
+.Estructura interna del grupo
+.. Moro: personifica a Yoomo'omoli; gestiona la feista (entre la iglesia y los Pascolas)
+.. Pascolas: 1 Yoowe; otros 2 hermanos; 1 lobito
+.. Ingesta de alcohol permitida (menos Venado y Moro)
+.. Músicos del Venado independientes (primer raspador es líder)
+.. Músico de Pascola (tambor y flatua) más independiente
+
+.Entre otros grupos indígenas
+* Pápagos, mayos, tarahumaras, tepehuanes, coras y huicholes
+* Indios Pueblo [¿las similitudes dan cuenta de un origen común?]
+* «Se puede establecer un común denominador desde el sur de Estados Unidos hasta el centro y costa sur-occidental de México»
+* Venado-Peyote (huicholes & coras)
+
+====== 1.1.1.2. Danza del Pascola
+
+.[Características generales]
+* Cuatro participantes
+* Orden de menor ("lobito") a mayor ("_yoowe_")
+* Pasos coreogáficos "al gusto"
+* Competencia (rivalidad)
+* Origen netamente europeo
+* Sólo un violín y un arpa
+
+.Repertorio
+* los «títulos que no revelan función de loa», «pintan el carácter sencillo del salma indígena» (p. 48)
+* Tradición "cerrada" tras explusión jesuita
+
+.Origen y simbolismo
+* Similitud al "bufón-danzante" de Nuevo México y al danzante-bufón europeo
+
+.Entre otros pueblos indígenas
+* Mayos, guarijíos y pápagos (Sonora); tarahumaras (Chihuahua)
+
+====== 1.1.1.3. Danza de los Coyotes
+
+.[Características generales]
+* Tres danzantes Coyotes montados sobre su arco, como caballos
+* Hacen gesto de cruz; a veces gestos cómicos («bromas yaquis burdas»)
+* Canto con tambor
+* Danza sencilla, en competencia de «cualquier varón yaqui» (la inician los guerreros; luego eligen a miembros del público, quienes tendrán entonces la obligación)
+* El músico canta hacia dentro del tambor
+* Danza "tabú" (con pocos músicos competentes y poco comentada) ¬
+
+.Indumentaria
+.. «Piel de coyote o de zorro que les cubre desde la parte superior de la cabeza hasta la cintura, por la espalda
+.. Sobre la piel van varias hileras de plumas de águila cosida con hilo grueso»
+.. "Penocha" adornada con grecas.
+
+.Escenario
+* Espacio libre entre la iglesia y el cementerio
+
+.Estructura
+. Centro
+. Derecha
+. Izquierda
+
+.Origen y simbolismo
+* Carácter netamente guerrero
+* Documentada (según supuestos) en Pérez de Rivas
+* Cruz y trinidad [¿cristianos?]
+** Línea sustituye a círculo
+* Ritual de iniciación como "guerreros-coyotes"
+** Exhortación y juramentos [¿occidentales?]
+
+===== 1.1.2. Música y danzas litúrgicas
+
+====== 1.1.2.1. Cantos litúrgicos
+
+.[Características generales]
+* Incluye cantos en latín
+. De las misas
+. De las horas canónicas
+. De los oficios de difuntos
+. De las procesiones
+. De los servicios cuaresmales
+. De "todas las ceremonias del culto"
+.. Salmos
+.. Antífonas
+.. Himnos (castellano)
+.. Cantos religiosos populares (castellano)
+* Aquellos en latín provienen del repertorio gregoriano (aunque modificados al grado de ser "ininteligibles", salvo en "breves pasajes esporádicos")
+* Todos se cantan con la misma técnica
+* Cada pueblo tiene su tonada (testimonio)
+
+.El grupo coral
+.. Maestro (función histórica)
+. Maestro de Capilla [¿_kobanaaro_?]
+. Temachtian o Sacristán Mayor (o Maestro Yoowe)
+. Maestros, Sacristanes o Temachtianes
+.. Cantoras (exclusión histórica, formación incógnita)
+. Cantora principal
+. demás Cantoras
+
+====== 1.1.2.2. Música Procesional de Cuaresma
+
+* Canto litúrgico y "ritmo marcial" de Fariseos o _Chapayecas_
+* Excluye a Matachines
+
+.Ritmo de marcha de los Chapayecas
+* «Forman parte de la agrupación llamada la Costumbre» (Pasión de Cristo)
+* Portan cuchillo y espada de madera
+
+.El Lamento
+* Bacacusia, uno o dos golpes de tambor, cinturón de Venado
+* (Cinco motivos melódicos) x 3, luego silencio
+* Testimonio: «el canto de la flauta simula el llanto de la V. María en la Pasión de su Hijo; el tambor imita el sonido de los golpes del martillo con que clavaron a Cristo en la Cruz; mientras que el sonido del cinturón-sonaja pretende ser una expresión de agradecimiento del hombre pecador a su Dios Redentor./ De acuerdo a la mentalidad, ni el Lamento ni el ritmo de marcha de los Chapayecas tienen relación alguna con el concepto de música. Se trata en ambos de un mero "acompañamiento" no musical, pues la música y la danza quedan proscritas en época cuaresmal»
+
+====== 1.1.2.3. Danza de los Fariseos
+* «Imitación satírica que hacen [...] de las danzas del Pascola, los Coyotes y el Venado»
+* Pataleado _Tépari_, que les es exclusivo y que se realiza los viernes
+
+.Indumentaria
+.. Fariseo judío
+... Saco
+... Sombrero de copa
+... Orejas enormes y nariz aquilina (Chapayecas: nariz larga)
+.. Soldado romano
+... Cobija de lana a cuadros en tonos rojos
+... Máscaras de hombres y animales [carnavalesco]
+
+.Organización interna de la Costumbre
+* Mando civil de los Fariseos
+* _Pilato_ (con lanza), autoridad máxima (salvo el cargo del Maestro de Capilla)
+
+====== 1.1.2.4. Danza de los Matachines
+.[Características generales]
+* Soldados de la Virgen
+* Fuera de la Cuaresma
+* _Cabos de año_, exequias, ceremonias de gobierno tradicional, demás ceremonias religiosas
+* Dos filas paralelas
+** Los de la derecha con sonaja de guaje azul
+** Los de la izquierda con sonaja de guaje roja
+* _Monarca_ o _Monaha_, líder a la cabeza de las filas
+* _Malinches_, niños aprendices
+* Combinaciones de danza "preestablecidas" para cada son
+* Dentro y fuera del templo
+* _Danza de la trenza_, alrededor de un poste con listones
+* Pueden negarse a danzar
+
+.Música y conjunto instrumental; Repertorio
+* Dos violines y dos guitarras (o tres y tres, a veces desequilibrada)
+* Violines a dos voces
+* "Repertorio completo"
+
+.Indumentaria
+* Corona
+* Sonaja
+* Palma
+
+.Origen y simbolismo
+* Netamente europeo
+* Victoria de cristianos (derecha, azules) contra moros (izquierda, rojos) [Danza de Conquista] (danza de Cuadrilla)
+* Indumentaria y coreografía prehispánica (sincretismo) [supuestos]
+
+.Entre otras etnias mexicanas
+* En varias partes del país
+* Diferencias con mayos
+* Practicadas por mestizos
+
+==== 1.2. Música Profana
+* Canciones populares, alguna considerada como no propia
+* Acompañada de guitarras
+* Conjuntos grandes (_mariachis_)
+
+
+== II. Función social de la música
+
+.Observaciones
+¿Cómo sostiene la autora que «los vínculos más fuertes [de unión] son dos: su tierra y su música»?
+
+=== 2.1 Actividad musical
+
+==== 2.1.1. La música como objeto sagrado
+
+.Observaciones generales
+* Música regida por calendario
+** Ordenamiento recursivo
+* Etnografía y género
+
+.Descripción de los rituales de Cuaresma y Semana Santa
+* +++<del>+++Música de [fiesta]+++</del>+++ => Música de Lamento
+* _Konti_
+* Semana Santa
+** Miércoles a viernes: «aprehensión, encarcelamiento, flagelación, juicio y ejecución» de Jesús
+** Sábado de Gloria
+*** _Gloria_
+*** Quema de los Fariseos
+*** Deposición de "Música de Lamento"
+*** Aleluyas (música litúrgica)
+*** Matachines
+*** Coyotes, Venados, Pascolas (varias ramadas)
+** Domingo de Resurrección (!!!)
+
+.Fiestas patronales p. 75
+!!!
+
+.Noviembre/exequias/Cabos de año p. 77
+!!!
+
+==== 2.1.2. La música como recreación
+«El hecho de que la música forme parte de la vida diaria del yaqui es un fenómeno bastante reciente»
+
+=== 2.2. Grupos de danzantes y conjuntos musicales
+* Importancia del tambor
+* Clasificaciones de músicos (emic)
+
+=== 2.3. el danzante y el músico
+* _Manda_
+* Músicos de [fiesta]
+** «Prestigio subordinado al de los danzantes que acompañan»
+** «En relación no al cristianismo, sino con el culto aborigen de la naturaleza»
+
+==== 2.3.1. Educación musical
+
+===== 2.3.1.1. El Maso
+* Adscripción doble
+** al templo católico y a San Luis («hasta época reciente»)
+** a la «escuela nocturna del monte»
+* Disciplina moral
+* Transferencia histórica al espacio doméstico
+
+===== 2.3.1.2. El Pascola
+* Disciplina moral
+* Técnicas dancísticas
+* [Arte verbal - Bauman]
+* Sin restricción de edad
+** Estigma "maligno"
+
+===== 2.3.1.3. El Coyote
+* No requiere formación especial
+
+===== 2.3.1.4. El Matachín
+* Adscripción y consagración (Soldado de la Virgen) en la iglesia
+* Jerarquía
+. Monaha mayor
+. Monaha segundo
+. Malinches
+. Autodidacta
+
+===== 2.3.1.5. El Maestro y la Cantora
+* Maestro
+** Imitación
+** Lectutra
+* Cantora
+** Imitación
+*** Maestro
+*** Otras Cantoras
+** Inclusión sin restricciones
+
+===== 2.3.1.6. El Músico
+* Clasificación (etic) de Músico
+** Instrumentista
+*** _Tambulero_
+*** Músicos de Cuaresma (Tambulero, Flautero/Lautero)
+*** _Baahiponleo_ (tambor de agua)
+*** _Laabeleo_ (Pascola y Matachines)
+*** _Aapeo_ (Pascola)
+*** Guitarrista (Matachines)
+** Instrumentista-cantor
+*** Tambulero-cantor (Coyotes) +
+El tipo de músico más "exclusivo"
+*** _Buic'leom_ (Venado)
+*** Intérpretes profanos
+* Aprendizaje
+** Memoria auditiva
+** "Sentido común"
+** Autodidáctica
+** Anatomía
+** Laudería
+
+==== 2.3.2. Posición social [prestigio]
+* Prestigio
+. "Normado"
+. Individual
+* Obligación sin prerrogativa
+** [Anti-capitalista]
+
+===== 2.3.2.1. El danzante
+. Maso
+. Pascola
+. Matachín
+
+===== 2.3.2.2. El Cantor de iglesia
+* Prestigio superior al de otras categorías
+* Influencia política
+* Con prerrogativas
+* «La Cantora, además de voz y voto, tiene derecho de veto en las asambleas y en las elecciones de gobernantes.»
+
+===== 2.3.2.3. El Músico
+. Tambulero (Pascola)
+* «Es visto con especial aprecio de sus facultades. Éstas le permiten evocar, a través de su música, eminentemente descriptiva, las imágenes que saturan el ambiente de la danza del Venado.»
+* Difícil técnica de ejecución
+. Arpero
+. Demás músicos
+
+===== 2.3.2.4. El fabricante de instrumentos
+«Las posición ocial del individuo no se ve influida por el hecho de fabricar instrumentos», salvo que sea para comerciar con ellos (lo cual se valora "vergonzosamente").
+
+
+== IV. Principios estructurales
+
+* Principios extramusicales
+* Estructuras musicales antiguas
+* No es objeto de conocimiento
+* Melodía, armonía, forma, ritmo, métrica, dinámica, agógica, entonación, timbre, texto.
+
+=== 4.1 Melodía y armonía
+. Marcada tendencia a inicios ascendentes
+.. Salto de tercera (Venado y Coyotes)
+.. Por grados conjuntos (Pascola y Matachines)
+.. Grados disjuntos de un acorde (Pascola y Matachines)
+.. Deslizamiento (Cantos litúrgicos)
+
+[yellow-background]#(falta desarrollar contenido)#
+
+== 5. Música y Cosmos
+
+****
+* Tesis +
+«La visión yaqui del cosmos constituye el fundamento ideológico y estructural de su música.»
+* Objetivo +
+. Desarrollar un modelo cosmológico
+. Vincular críticamente dicho modelo a los resultados de los análisis musicales
+* Metodología +
+. Análisis comparativo entre la mitología-ritología yaqui y la de otras etnias
+. Análisis musical
+****
+
+.Modelo cosmológico
+image::CIRCULO_COSMICO.png[]
+* SOL-ESTRELLA-LUNA +
+** Se considera una generalidad "yuto-azteca"
+
+****
+. ¿Cómo se demuestra el antropocentrismo yaqui?
+. ¿Por qué sólo el SOL tiene mención en las danzas?
+. ¿Cómo se asocia cada uno de los personajes rituales?
+****
+
+* MAIZ-VENADO-PEYOTE
+** Se *deduce* de otras culturas
+*** tolteca
+*** cora y huichol
+** Se consideran como elementos comunes
+*** La caza del venado y la participación de un ser enmascarado
+*** Calendario ritual que enfatiza la Cuaresma (primavera) y Santísima Trinidad (junio)
+*** Instrumentos rituales similares (maíz, jícara, agua, flechas, cinturones)
+*** Énfasis en los rumbos del universo
+
+****
+. ¿Dónde se encuentra documentado el peyote como parte de la "vida" yaqui?
+. Dada la importancia del maíz, ¿dónde se encuentra su representación ritual o mitológica?
+. ¿Por qué el "ser enmascarado" no ocupa un lugar en el modelo?
+****
+
+IMPORTANT: «La danza yaqui del Venado constituye la más perfecta expresión de la visión cósmica de este pueblo, que también se perfila, aunque más vagamente, en sus otras formas de danza y música.» ( p.147) +
+*¿Por qué las demás danzas no forman parte integral del modelo?*
+
+.Cosmología y música
+. Melodía
+.. Forma de arco en las melodías alude al recorrido solar
+. Métrica
+.. Cinco puntos marcados por la Cruz
+.. Puntos cardinales
+.. Postes cósmico
+.. Combinación binaria-ternaria
+. Forma
+.. 4 (Pascolas) + 1 (Venado)
+.. «Deben completar un mínimo de dos ciclos»
+
+****
+. Otras transcripciones, como las de Densmore y Ochoa Zazueta no muestran un arco.
+. ¿Cómo se integran los sones en 12/8 a la interpretación decimal?
+. ¿Cómo se explica que en la práctica, las mitades se encuentran desequilibradas (una danza para el Venado, dos para el Pascola)?
+****
+
+[%autowidth]
+|===
+| *Música* | *Cosmos*
+| Estructuras formales de dos partes
+| Dos dimensiones de la realidad: la celeste y la terrestre
+| Oposición y cambio entre las dos pares constitutivas (lo rítmico frente a lo melódico; el canto frente a la ejecución instrumental), así como entre las fuentes sonoras dialogantes
+|Oposición y cambio entre el día y la noche, entre luz y oscuridad
+| Relaciones binario-ternarias subordinadas a formas bipartitas
+| Relación directa entre el complejo trinitario celeste: SOL-ESTRELLA-LUNA y el terrestre: MAIZ-VENADO-PEYOTE, subordinados a la realidad dual del día y la noche
+| Tendencia a la continuidad cíclica, sin fin, del movimiento
+| Continuidad de la vida y movimiento cíclico de la naturaleza
+|===
+
+****
+. ¿Cómo se argumenta que las dos partes musicales se oponen de manera similar a las dos partes cósmicas?
+. Si ritmo se opone a melodía, como luz a oscuridad, ¿cuál se corresponde con cuál?
+. Si el Venado es el elemento que representa a los ancestros, ¿por qué el nombre del Pascola alude al "viejo de la fiesta"?
+****
