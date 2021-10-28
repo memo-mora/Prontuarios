@@ -212,7 +212,7 @@ Oídos de madera
 
 == Capítulo V. Análisis paradigmático del Vinuete
 
-.Rasgos de análisis
+=== Rasgos de análisis
 .. Métrica (sugerido)
 ... 2/4
 ... 6/8
@@ -231,11 +231,11 @@ Oídos de madera
 ... Altura ♫ (aplicado)
 ... Ritmo ♫ (aplicado)
 
-.Criterio de análisis
+=== Criterio de análisis
 * Criterio de repetición
 * Ruwet: «repetición significa identidad entre segmentos repartidos en diversos sitios de una cadena sintagmática»
 
-.Paradigmas encontrados
+=== Paradigmas encontrados
 * Paradigmas de [.underline]#rasgueo#
 ** 2/4
 *** [big]#*I*# (simple o doble)
@@ -256,7 +256,7 @@ Oídos de madera
 *** [big]#*XI*# (cierre de semifrase)
 *** [big]#*XII*# (cierre de semifrase)
 
-.Corpus
+=== Corpus
 . La llegada
 . La entrada
 . El encuentro
