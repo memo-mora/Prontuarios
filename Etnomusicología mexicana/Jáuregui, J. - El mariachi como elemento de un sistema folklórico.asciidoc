@@ -9,8 +9,142 @@
 :toc-title: Contenido
 
 == Introducción
-* «[El tratamiento que hace Lévi-Strauss] de la mitología está, desde el inicio, asociado inseparablemente a referencias hacia la música.»
+* Ver Finale pp.
 
-«Un análisis propiamente estructural [...] se trata no sólo d edescubrir la configuración relacional subyacente a un conjunto, sino de encontrar entre distintos conjuntos las diferencias a partir de las cuales cada uno puede ser definido.» (p. 94)
+.Programa de análisis lévi-straussiano
+* Objetivos
+** «Captar las relaciones invariantes y su "grupo de transformaciones"»
+** «Descubrir la configuración relacional subyacente a un conjunto»
+** «Encontrar entre distintos conjuntos las diferencias a partir de las cuales cada uno puede ser definido.» (p. 94)
+* Procedimientos
+** Ordenamiento de acuerdo a ejes semánticos, con hileras que representen variantes y columnas que representen combinaciones
+** El nivel de análisis es de macroárea cultural
+** «No es pertinente intentar establecer la versión prístina ni la "mejor": _todas las subtradiciones deben ser consideradas como igualmente válidas_.»
+** Las unidades de análisis deben ser delimitadas, al interior y al exterior del conjunto
+* Conceptos
+** Cada conjunto (columna de combinaciones) representa un sistema y una variante respecto a las demás
+** «Un sistema no es un agregado, ni una mera suma de elementos yuxtapuestos mecánicamente. Por el contrario, sus elementos constitutivos, lejos de tener un "valor" como entidades independientes, presentan un carácter puramente relacional, es decir, dependiente de las relaciones que los unen y oponen con los demás en el seno de un conjunto.» (p. 99)
+** El sistema es el conjunto de relaciones que dotan de permanencia, significan y enmarcan socialmente a hechos como el mariachi
+** «Sólo se accede [al sistema] por la vía de un análisis que arranca del estudio de fenómenos conscientes para dilucidar su infraestructura inconsciente»
+** La estructura se compone de las relaciones sociales exhibidas por el conjunto inter-sistémico
 
-«Un sistema no es un agregado, ni una mera suma de elementos yuxtapuestos mecánicamente. Por el contrario, sus elementos constitutivos, lejos de tener un "valor" como entidades independientes, preseutan un carácter puramente relacional, es decir, dependiente de las relaciones que los unen y oponen con los demás en el seno de un conjunto.» (p. 99)
+.Sistemas de mariachis
+[cols="1,1"]
+|===
+|Mariachi tradicional |Mariachi moderno
+
+|Exclusivamente cuerdas (=<5)
+|Con trompeta (<10)
+
+|Sones seculares, minuetes religiosos
+|Música secular, no especializa plegarias
+
+|Tradición oral
+|Tradición con registro (grabación o notación)
+
+|Estilo liderado por "jefes"
+|Instrucción y estilo generalizados
+
+|El estilo predomina sobre las características individuales de la pieza; se valor al conjunto por sí mismo
+|Se imitan el estilo de _mass media_
+
+|No hay canon materializado
+|La grabación representa el canon
+
+|Autores anónimos
+|Música con atributos de autoría
+
+|Aplica la "censura  preventiva de la comunidad" (Jakobson)
+|Adaptaciones del sistema tradicional o diseños para la divulgación-imposición
+
+|Voces no "estudiadas"
+|Voces estudiadas
+
+|Zapateo (tarima) como instrumento
+|Zapateo prescindible; música tendencialmente para escucharse, no bailarse
+
+|Grupo sin nombre propio [marca]
+|Grupos con nombre propio
+
+|Sin vestimenta uniformada
+|Vestimenta uniformada estilizada
+
+|Sin gremio
+|Afiliados a la CTM
+
+|Tradición musical integrada en la vida comunal y microregional
+|Estilo musical asociado íntimamente a la conformación de una identidad nacional
+
+|Modo de vida preindustrializado
+|Modo de vida urbano con apariencia rural, moderno
+
+|Institución previa o  lateral a la difusión de los medios electrónicos de comunicación
+|Institución surgida a partir de los medios electrónicos de comunicación y que se reproduce en dependencia de ellos
+|===
+
+.Otras distinciones entre sistemas
+* Entre ambos tipos de mariachi existe  discontinuidad socioeconómica y ruptura de atributos musicales ("mente", sensibilidad y  discurso)
+* «Algunos grupos tradicionales se cambiaron al nuevo estilo, otros se mantuvieron tocando los dos tipos de música, otros resistieron férreamente en su tradición y la mayoría desapareció»
+
+IMPORTANT: ¿Cómo desarrolla el autor la investigación en torno a una cultura ágrafa y en proceso de desaparición como el mariachi tradicional?
+
+.El sistema folklórico del mariachi
+* Ritual
+** El aspecto expresivo-comunicativo destaca sobre el aspecto técnico-instrumental
+** Es primordialmente un lenguaje en el que los emisores/receptores son las mismas personas
+** Se transmite información a través de diversos canales sensoriales: lenguaje, sonidos, música, olores, texturas táctiles, gestos, mímicas, coreografías y elementos estético-visuales
+* Operaciones de la comunicación
+** Selección
+*** Equivalencia
+*** Similaridad/disimilaridad
+*** Sinonimia/antinomia
+** Combinación
+*** Contigüidad
+*** Música y danza
+**** Combinación [¿no contigua?] de un código auditivo-instrumental (la música) con uno visual-orgánico (la danza)
+* _Campo semántico global_ compuesto por +
+Códigos
+. Música
+. Danza
+. Canto
+. Teatro
+** Se oponen, por presencia o por ausencia
+** Se distribuyen en dos tipos de ciclos rituales
+*** Comunitarios
+**** Ceremonias cíclicas
+**** Fiestas patronales
+**** Regionales
+*** Individuales
+**** Bautismos
+**** Bodas
+**** Cumpleaños
+**** Funerales
+* Dividido en campos y ámbitos
+*** Campo de lo sagrado
+**** Sagrado-religioso
+**** Sagrado-secular
+*** Campo de lo profano
+**** Ordinario
+* Sub-sistemas
+** Mariachi
+*** Religioso: Minuetes, alternan con valses, chotes y mazurkas; parabienes ("angelitos") y trisagios (velaciones), que son cantados; alabanzas para los santos (pueden prescindir de la música)
+.... Veladas de santos y Veladas de "angelitos"
+.... Comunincan lo humano con "el otro mundo"
+.... Nocturnos
+*** Secular: sones
+.... Ferias, parrandas, serenatas, bodas, cumpleaños, bautizos (rituales individuales)
+.... Comunican humanos con humanos [con distinción de género]
+.... Diurnos y nocturnos
+.... Imbrica a la música (mariachi) con otros códigos (danza y canto)
+** Llamadas
+** Danza-teatro
+* Situaciones límites
+** Conjuntos sin cantante
+** Sones sin voz, con cuchillos ("potorricos")
+** Minuetes con baile (préstamo cultural de huicholes)
+* Clasificaciones musicales
+** Sones pausados o cortados
+** Sones corridos o bravos
+** Sones redoblados o potorricos
+** Sones aguapangados
+** Valonas
