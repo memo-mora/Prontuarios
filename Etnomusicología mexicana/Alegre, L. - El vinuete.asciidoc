@@ -4,12 +4,14 @@
 :Date: abril 2021 - agosto 2021
 :Revision: 2
 :toc:
+:toc-title: Contenido
 
 // "El vinuete: musica de muertos. Estudio etnomusicologico en una comunidad nahua de la huasteca potosina" de L. Alegre, disponible en https://tesiunam.dgb.unam.mx/ (el archivo para descargar se encuentra en el apartado de "Recurso electrónico - Texto completo", en su respectiva página). Esta tesis desarrolla varios temas de total importancia para el análisis etnomusicológico (sistema musical, semiología, análisis paradigmático, etnografía) por lo cual le dedicaremos, por lo pronto, dos sesiones. Siguiendo con las proposiciones teóricas, la próxima reunión revisaremos el capítulo VIII; y la siguiente los capítulos III y VII. Quedo atento a sus dudas y comentarios.
 
 [bibliography]
 == Referencias
 * [[[lozano1979, Lozano, J. - Introducción a Lotman y la Escuela de Tartu (en Semiótica de la Cultura 1979)]]]
+* [[[jauregui1986, Jáuregui, J, . El mariachi como elemento de un sistema folklórico (aparece en la página 30)]]]
 
 == Capítulo III. El Vinuete en Chilocuil (p.43)
 
@@ -299,6 +301,11 @@ Oídos de madera
 . La cruz
 . El angelito
 . La fiesta de los difuntos
+
+.Conclusión (p. 175)
+****
+Si bien hay rasgos identitarios para cada grupo, no se puede definir al _vinuete_ como género a partir exclusivamente de las estructuras sonoras.
+****
 
 == Capítulo VII. Vinuete y Categorización (p.187)
 
