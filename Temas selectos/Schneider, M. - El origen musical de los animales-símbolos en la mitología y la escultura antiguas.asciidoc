@@ -34,9 +34,9 @@
 | _Sa_
 | Re
 | Pavo real (sonido fundamental)
-| _Ri_ | Mi - | Buey {toro}
-| _Ga_ | Fa | Cabra {león alado}
-| _Ma_ | Sol | Grulla
+| _Ri_ | Mi - | Buey, toro, vaca, león (normal o en lucha derrotado)
+| _Ga_ | Fa | Cabra, león y toro alados, centauro
+| _Ma_ | Sol | Grulla, pájaro
 | _Pa_ | La+ | Kokila o koel (ave canora)
 | _Dha_ | Si - | Caballo, pez, rana, garza real
 | _Ni_ | Do | Elefante {águila}
