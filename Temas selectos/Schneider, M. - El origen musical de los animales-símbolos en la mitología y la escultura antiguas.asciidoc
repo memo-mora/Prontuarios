@@ -14,7 +14,7 @@
 * https://en.wikipedia.org/wiki/Svara#Relationship_to_%C5%9Bruti
 
 === Filosofía musical brahmánica
-. Fuentes
+.Fuentes
 ... Nâtya-sâstra
 ... [yellow-background]#Samgîta-ratnakâra#
 ... Samgîta-darpana
@@ -24,7 +24,24 @@
 ... Taittirîya Upanishad
 
 === Sistema tonal
-https://en.wikipedia.org/wiki/Svara
+.Enlaces externos
+* https://en.wikipedia.org/wiki/Svara
+
+.Equivalencias
+[%autowidth]
+|===
+| *Shrutis* | *Notación* | *Animal*
+| _Sa_
+| Re
+| Pavo real (sonido fundamental)
+| _Ri_ | Mi - | Buey {toro}
+| _Ga_ | Fa | Cabra {león alado}
+| _Ma_ | Sol | Grulla
+| _Pa_ | La+ | Kokila o koel (ave canora)
+| _Dha_ | Si - | Caballo, pez, rana, garza real
+| _Ni_ | Do | Elefante {águila}
+|===
+
 
 == III. Cantan las piedras
 
@@ -39,18 +56,32 @@ https://en.wikipedia.org/wiki/Svara
 * https://es.slideshare.net/rezmo/san-bernardo-y-la-regla-de-san-benito
 * https://ec.aciprensa.com/wiki/San_Bernardo_de_Claraval
 
+.Tipos de capiteles
+.. Animales
+... Fabulosos
+... Estilizados
+... Normales
+.. Escenas
+... Históricas
+... Figuradas
+... Bíblicas
+.. Ornamentales
 
+.Criterios para la transcripción
+. Altura
+. Sonido/Pausa
+.. Animales símbolos = sonido
+.. Escenas u ornamentos = pausa
+. Métrica +
+Recorrido del claustro
+. Dirección +
+Transcurso solar
 
-Análisis de los capiteles
-
-... Históricos
-... Figurativos
-... Bíblicos
-... Ornamentales
-... Animales
-.. Fabulosos
-.. Estilizados
-.. Normales
+.Funciones de capiteles
+. 72 total
+.. 54 sonidos
+... 40 representados en animales
+.. 16 pausas
 
 === Catedral de Gerona
 .Enlaces externos
