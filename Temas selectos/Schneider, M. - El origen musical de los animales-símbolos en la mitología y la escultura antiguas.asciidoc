@@ -8,10 +8,10 @@
 
 == II. Cantan los hombres
 .Enlaces externos
-* https://es.wikipedia.org/wiki/Sangita_Ratnakara
-* https://archive.org/details/SangitaRatnakara/page/n3/mode/2up
-* https://es.wikipedia.org/wiki/Natia-shastra
-* https://en.wikipedia.org/wiki/Svara#Relationship_to_%C5%9Bruti
+* link:https://es.wikipedia.org/wiki/Sangita_Ratnakara[Samgîta-darpana (Wikipedia)]
+* link:https://archive.org/details/SangitaRatnakara/page/n3/mode/2up[Samgîta-darpana (Archive.org)]
+* link:https://es.wikipedia.org/wiki/Natia-shastra[Natia-shastra (Wikipedia)]
+* link:https://en.wikipedia.org/wiki/%C5%9Aruti[Shruti (Wikipedia)]
 
 === Filosofía musical brahmánica
 .Fuentes
@@ -25,7 +25,7 @@
 
 === Sistema tonal
 .Enlaces externos
-* https://en.wikipedia.org/wiki/Svara
+* link:https://en.wikipedia.org/wiki/Svara[Svara (Wikipedia)]
 
 .Equivalencias
 [%autowidth]
@@ -47,14 +47,31 @@
 
 === Claustro de San Cugat
 .Enlaces externos
-* https://goo.gl/maps/YpvUxztvcUapNx3M8
-* https://es.wikipedia.org/wiki/Arnau_Cadell
-* https://www.tvsantcugat.cat/actualitat/descobreix-la-historia-del-monestir-de-sant-cugat/
-* https://youtu.be/uW9y0lvmbFM
-* https://www.youtube.com/watch?v=jTa1qoNXD1E
-* https://es.wikipedia.org/wiki/Arte_rom%C3%A1nico#Rom%C3%A1nico_ib%C3%A9rico
-* https://es.slideshare.net/rezmo/san-bernardo-y-la-regla-de-san-benito
-* https://ec.aciprensa.com/wiki/San_Bernardo_de_Claraval
+* Lecturas
+** link:https://es.wikipedia.org/wiki/Monasterio_de_San_Cugat_del_Vall%C3%A9s[Monasterio de San Cugat del Vallés]
+** link:https://es.wikipedia.org/wiki/Arnau_Cadell[Arnau Cadell (Wikipedia)]
+** link:https://www.tvsantcugat.cat/actualitat/descobreix-la-historia-del-monestir-de-sant-cugat/[Historia del monasterio (Medio local)]
+** link:https://en.wiktionary.org/wiki/clivis[Clivis (Wiktionary)]
+** link:https://es.wikipedia.org/wiki/Arte_rom%C3%A1nico#Rom%C3%A1nico_ib%C3%A9rico[Arte románico ibérico (Wikipedia)]
+** link:https://es.slideshare.net/rezmo/san-bernardo-y-la-regla-de-san-benito[La regla de San Benito (Slideshare)]
+** link:https://ec.aciprensa.com/wiki/San_Bernardo_de_Claraval[San Bernardo de Claraval (Enciclopedia Católica Online)]
+** link:https://www.persee.fr/docAsPDF/hispa_0007-4640_1926_num_28_3_2245.pdf[Pérez, J. - Origen de los Himnos mozárabes]
+** link:https://www.monestirs.cat/monst/valloc/cvo16cuga.htm[Monasterios de Catalunya (Catalán)]
+** link:https://www.ricardocosta.com/artigo/o-deambulatorio-dos-anjos-o-claustro-do-mosteiro-de-sant-cugat-del-valles-barcelona-e-vida[da Costa, R. - O Deambulatório dos Anjos]
+** link:http://www.arquivoltas.com/19-Barcelona/01-SanCugatdelValles01.htm[La guía digital del arte románico]
+** link:http://www.aldeaglobal.net/artmedieval/Sant%20Cugat.htm[Aldea global]
+
+* Imágenes
+** link:https://goo.gl/maps/YpvUxztvcUapNx3M8[Ubicación (Google maps)]
+** link:http://www.claustro.com/Claustros/Webpages/Barcelona/Claustros_SCugat_galeria_E.htm[Imágenes actuales de los capiteles]
+** link:https://www.bildindex.de/ete?action=queryupdate&desc=san%20cugat&index=obj-all[Bildindex (Alemán)]
+** link:http://www.gotik-romanik.de/Sant%20Cugat%20del%20Valles,%20Thumbnails/Thumbnails.html[Gotik-Romanik]
+
+* Videos
+** link:https://youtu.be/uW9y0lvmbFM[El monasterio de Sant Cugat (YouTube)]
+** link:https://www.youtube.com/watch?v=jTa1qoNXD1E[Visita els capitells musicals del Claustre del Monestir de Sant Cugat (YouTube)]
+** link:https://www.youtube.com/c/MonestirSantCugat[Canal del monasterio de Sant Cugat (YouTube)]
+** link:https://youtu.be/oXCGJb95pQU[Historia de San Cucufate Mártir (YouTube)]
 
 .Tipos de capiteles
 .. Animales
