@@ -1,0 +1,81 @@
+= Guzmán, A. - El cuerpo de la estética
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: febrero 2021
+:Revision: 0
+:toc:
+:toc-title: Contenido
+
+
+
+[p. 254]
+.Percepción
+* Cita de "Antropología y Ecología"
+** Cuerpo: modelo estructural
+** Visual: oposiciones binarias
+** Estructuralismo: materialismo
+
+[p. 255]
+.Merleau-Ponty
+* Percepción: [requiere] y genera sentido
+** «La percepción es pues, el pensamiento de percibir» (M-P)
+** «Por estar en el mundo estamos condenados al sentido» (M-P)
+* Sensación -> interpretación
+
+.Pensamiento salvaje
+* Cita sobre anti-determinismo geográfico
+
+[p. 256]
+* La percepción precede a la lógica o
+* El cuerpo percibe y luego ordena (a través de lógica y cultura)
+* Unidad causal de percepción, sentidos, inteligencia, motricidad
+
+.Conclusiones de Lévi-Strauss [p. 256-257]
+. Pensamiento "primitivo", reflexivo sobre las cualidades sensibles del mundo
+. Totemismo, sistema clasificatorio para los seres humanos en el medio natural
+. Mito y cuerpo [yellow-background]#[¿género?]#
+. Humanos y animales curativos (1964, p. 24)
+* Chamanismo y psicoanálisis (Eficacia simbólica)
+* Música: «inversión de la relación entre yo y el otro» (L-S)
+
+.Esquema de imágenes (Johnson)
+* Proyección metafórica
+* Verticalidad del _homo sapiens_
+* «la propia experiencia del cuerpo es la estructura abstracta de las experiencias» (A.G.)
+* «Lejos de ser arbitrarias, las proyecciones metafóricas están muy limitadas por nuestro funcionamiento y experiencias corporales» (Johnson)
+
+.Metáfora (Johnson)
+* Estructura cognitiva
+* «A través de la metáfora empleamos patrones obtenidos de la experiencia física para organizar nuestra comprensión más abstracta»
+
+.Naturaleza y cultura (L-S)
+* Prohibición del incesto (única regla universal)
+* Estructura inconsciente del espíritu humano: el cuerpo (A.G.)
+* «lo universal, el cuerpo, es una permanente construcción que depende de lo particular, la cultura»
+
+.E.I.E.H.
+****
+Lévi-Strauss agrega [...] cómo se hace inteligible lo sensible, señalando que las propiedades de los objetos son captadas por lo que tienen de común con la estructura y el funcionamiento de la mente (p. 260)
+****
+
+.Estética
+****
+El arte genera experiencia estética debido a que la mente encuentra en las obras su propio modo de ser: las obras de arte son, por antonomasia, las creaciones humanas que revelan la E.I.E.H. El placer estético es, entonces, reconocer en una obra la misma estructura de la propia mente, del propio cuerpo (p. 261)
+****
+
+(p. 253)
+* Vinculación de lo sensible con lo inteligible
+** Ocurre en el cuerpo
+
+
+.Modelo reducido (L-S, p. 261)
+* «una inversión del proceso de conocimiento gracias a una reflexión sobre el 'modelo reducido'
+* la adquisición de dimensiones inteligibles gracias a la renuncia a dimensiones sensibles
+* el equilibrio estructura-acontecimiento» (L-S según Simonis)
+
+Estructuralismo (p. 261)
+****
+Estos tres procedimientos son exactamente iguales a lo que se propone llevar a cabo el estructuralismo levistraussiano: analizar datos etnográficos -acontecimientos-, dar cuenta del sistema, lo que permitirá encontrar la estructura que a su vez podrá plantearse a partir de un modelo que pueda explicarlos que, ciertamente, sacrifica los datos sensibles, pero brinda la posibilidad de su inteligibilidad.
+****
+
+* Etnografía -> Etnología -> Antropología
