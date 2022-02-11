@@ -100,6 +100,27 @@ Transcurso solar
 ... 40 representados en animales
 .. 16 pausas
 
-=== Catedral de Gerona
-.Enlaces externos
-* https://goo.gl/maps/VwA7HeFMuCXuTcZR7
+// === Catedral de Gerona
+// .Enlaces externos
+// * https://goo.gl/maps/VwA7HeFMuCXuTcZR7
+
+// === Enlaces externos adicionales
+// M. Schneider
+// https://www.visitsantcugat.cat/es/el-claustro-de-sant-cugat-y-la-teoria-musical-de-marius-schneider/
+// https://mgiribetshistoria.blogspot.com/2016/01/monasterio-de-sant-cugat-del-valles-el_4.html
+// http://www.infobergamo.it/bergamo/articoli/2011/print/21cuga_p.html
+// https://www.prourbino.it/UrbinoMusica/DanielaBattisti/images/2008_05_09_SymphonialisUnilit.pdf
+
+
+// San Cucufa
+// https://hmong.es/wiki/Cucuphas
+// https://tosingistopraytwice.wordpress.com/2018/10/20/barchinon-laeto-cucufate-vernans/
+// http://sglp-mlat.uzh.ch/index.php?app=browser&text=8236
+// https://www.heiligenlexikon.de/ActaSanctorum/25.Juli.html
+// https://bibliotecadigital.jcyl.es/i18n/catalogo_imagenes/imagen.cmd?path=10069235&posicion=2&registrardownload=1
+// http://www.clerus.org/clerus/dati/2004-09/13-13/CimPar1.htm
+// http://www.larramendi.es/es/catalogo_imagenes/grupo.do?path=1032289
+// http://ensani.ir/file/download/article/20120504115826-6099-300.pdf
+// https://www.scribd.com/document/367430130/Texto-Himno-Cucufas
+
+// https://terradesomnis.blogspot.com/
