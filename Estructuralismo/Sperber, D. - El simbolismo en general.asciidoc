@@ -5,6 +5,12 @@
 :Revision: 0
 :toc:
 
+== Prólogo
+
+* Propuestas como las de Lévi-Strauss y Chomsky proponen que los rasgos culturales de la humanidad se generan desde una base material (inconsciente o cerebro). Sin embargo, señala Sperber, el siguiente paso correspondería a clarificar la relación entre lo innato y lo adquirido.
+
+* ...
+
 == Prefacio
 
 * [Las capacidades humanas de aprendizaje] están determinadas del mismo modo para todos los miembros de la especie; no son, pues, determinantes de las _variaciones_ culturales, sino sólo de la _variabilidad_ cultural. (p. 17)
@@ -15,19 +21,177 @@
 
 * Cuando se sabe cuánto tiempo, cuántas tensiones, pasiones y dedicaciones consume necesariamente el poner en marcha el menor ritual [o producción musical], ¿cómo creer que la incierta atribución de una interpretación semántica --y por lo tanto parafraseable en la lengua ordinaria al precio de un gasto de energía comparativamente nulo-- podría en modo alguno dar cuenta de la naturaleza del fenómeno? (pp. 29-30)
 
+== I. Simbolismo y lenguaje
+
+.Delimitación del simbolismo
+
+. Lo mental menos lo racional
+  .. [Desde una antropología colonizadora]
+    ... Una corriente antropológica observaría las creencias primitivas como
+    **** Intentos de racionalidad con faltas en lo sistémico
+    **** Inferencias ilícitas hechas a partir de datos insuficientes
+    **** Incluye a Taylor y Frazer
+    ... Otra las observa de manera inversa, como
+    **** Sistémico pero irracional
+    **** Producto de una racionalidad deficitaria
+    **** Desprovista del principio básico de no-contradicción
+    ... Ambas perspectivas, y la misma de primitivo (humanidad balbuciente), se han ahora diluido dados "el vigor del simbolismo en nuestra propia cultura y la indudable presencia de un pensamiento racional en toda sociedad invalidan". #¿Cuál es entonces entre simbolismo (que se postula obligadamente como sistema) y racionalidad?#
+
+  .. Dorzé: estudio de caso (Sperber)
+    Etnografía de hechos cuya exégesis (interpretación endógena) no corresponden con una observación objetiva de la realidad (conocimiento). ~irracionalidad
+    *** Desde el conocimiento (esfuerzo intelectual) se tiende a dar cuenta de un máximo de datos mediante un mínimo de hipótesis, sometido a la refutación de la experiencia
+    *** Desde el simbolismo se conserva, de la experiencia, un mínimo de fragmentos para establecer un máximo de hipótesis
+    *** Simbólica es toda actividad en la que los medios puestos en juego parecen netamente desproporcionados respecto al fin explícito o implícito, ya sea éste de conocimiento, comunicación o producción
+
+. Lo semiótico menos la lengua
+    ** Los fenómenos simbólicos tienen una significación oculta, constituida en otra parte de manera independiente
+    ** En los mitos, una primera interpretación sería lingüística, y una segunda simbólica: "el sentido manifiesto y a menudo absurdo del mito no es más que un instrumento de la significación simbólica"
+    ** Si los símbolos significan algo, este algo no son casi nunca más que banalidades.
+    ** ¿Por qué no contentarse entonces con enunciar la segunda interpretación?
+    **  La desproporción entre medios (la narración, el ritual) y fin (la expresión de simplezas) conserva el problema de la irracionalidad, y no demuestra que los símbolos signifiquen.
+
+.Simbolismo según Lévi-Strauss
+  * El uso ordinario del lenguaje utiliza las categorías para enunciar proposiciones acerca del mundo. El pensamiento simbólico (salvaje), por el contrario, utilizaría proposiciones acerca del mundo para establecer relaciones entre categorías. De ahí que todos los elementos del mito se hagan pertinentes desde el momento en que se halle al menos otro elemento con el que estén en una relación de identidad, de implicación o de contradicción. El conjunto de estas relaciones analíticas constituiría, si no la totalidad, por lo menos lo esencial de la interpretación simbólica del mito.
+  * [El mito establece relación sensible entre el panal, la vagina y el arpa. Con frecuencia, este mito se emplea como exégesis del Canario mayo, donde los pascolas pican y extraen miel. Para apaciguar a las abejas molestas, deben éstos deben danzar. Así se propone explicar el origen de un "lenguaje", la música, "que no habla más que de sí mismo"]
+
+.Delimitación de significación (lengua)
+  * Intuiciones del habla que versan sobre relaciones entre frases o elementos de frases
+    ** Relaciones de paráfrasis o de analicitidad (contradicción)
+      *** Describir el sentido de una frase es proporcionar los medios de identificar estas relaciones
+  * Sentido de verdad
+  * Efecto de ironía
+    ** No puede analizarse si no se tiene en cuenta la significación, en el sentido preciso en que se le ha circunscrito para mostrar en qué se aparta de este sentido el efecto buscado.
+
+.Simbolismo y significación
+  * ¿Puede sustituirse el símbolo por su definición? Quizá, pero excepcionalmente. Sin paráfrasis, tampoco hay contradicción. #Los símbolos no se comportan como el lenguaje, según se delimitó anteriormente.#
+  * Las relaciones planteadas por Lévi-Strauss
+    ** tales como
+      *** homología y no parágrasis
+      *** correspondencia y no tautología
+      *** oposición y no contradicción
+    ** no son relaciones de significación
+  * Las significaciones de un símbolo, según Turner
+    ** son
+      *** Interpretación endógena (significación exegética)
+      *** Significación operacional (función y afectividad)
+      *** Significación posicional (sistema simbólico)
+    ** y distiende el concepto de significación hasta englobar sin discriminación todas las propiedades concebibles de los símbolos, por más heterogéneas que sean
+
+.Delimitación de significación (código)
+  * Código es un conjunto de parejas (binas) mensaje-interpretación
+    ** A un mismo mensaje pueden corresponderle varias interpretaciones e inversamente
+  * Puede subtenderse dispositivos de codificación y descodificación
+    ** Un mensaje codificado, una vez interpretado por completo, no es ya objeto de tratamiento alguno, sino que es la interpretación que le ha sustituido la que será tratada
+  * No todo emparejamiento es una codificación, ni toda interpretación es una descodificación
+
+.Semiología del simbolismo
+  Toda concepción semiológica del simbolismo debe atender el problema de si los fenómenos emparejados con los símbolos constituyen unas interpretaciones de éstos, y si las interpretaciones de los símbolos se les emparejan regularmente. (Delimitar las binas que conforman el código). Sin embargo, ninguna lista se ha producido, ninguna regla que engendre un conjunto de parejas (símbolo-interpretación) tal que cada ocurrencia de un símbolo encuentre ahí su tratamiento prefigurado. Está claro, en todo caso, que ningún saber compartido, explícito o implícito, permite atribuir a cada símbolo sus interpretaciones y a cada interpretación sus símbolos, o, abreviando, poner un conjunto de parejas para abstraer a continuación su estructura... De donde las dos únicas concepciones semiológicas posibles: simbolismo críptico o simbolismo inconsciente.
+
+== II. Significaciones ocultas
+
+.Tipos de sistemas simbólicos-exégesis
+  * Sistema simbólico sin exégesis
+  * Sistema simbólico con especialistas (y antropólogos)
+  * _Chijikijilu_: marcador de unidades rituales (p. 43)
+    ** Punto de referencia, que no es un signo, sino un indicio que sirve para organizar cognitivamente nuestra experiencia del espacio (p. 57)
+  * Sistema simbólico con exégesis (y especialistas)
+
+.Relación entre simbolismo y comentario (p. 44)
+  * El simbolismo desborda la exégesis
+    ** Símbolos sin comentario ni explicación
+    ** Argumento contra la explicación criptológica
+  * La exégesis es una interpretación entre otras (p. 46)
+    ** Sugiere que la exégesis es el uso, y no lo contrario
+  * El comentario exegético puede dar lugar a
+    ** Traducción del símbolo
+    ** Motivación de la traducción
+      *** Error que esta característica de los símbolos los distingue de los signos (no motivados)
+      *** Cualquier palabra o signo motivado adquiere valor simbólico
+      *** Cierta motivación es, entonces, el origen de lo simbólico
+
+.Motivación e interpretación
+  * Las interpretaciones son definidas por el código, mientras las motivaciones son externas a éste
+  * Las motivaciones no desempeñan papel alguno en el funcionamiento de los códigos, sólo incide
+  * La motivación no es semiótica sino metasemiótica
+
+.Simbolismo y semiología (p. 49)
+  * Interpretación: Traducción más motivación
+    ** Motivaciones basadas en propiedades aptas, útiles
+    ** Pueden intervenir todas las relaciones concebibles, pero ninguna de ellas es generalizable
+    ** Las extensiones y exclusiones en estas relaciones simbólicas son impredecibles
+    ** No hay lógica, sino paralogismo
+    ** La motivación no es discurso _sobre_ el símbolo sino _en_ él
+    ** La motivación no interpreta, sino que se presta a interpretaciones
+    ** La validez de un argumento depende del principio general que le sirve de base cuando es lógico, pero no cuando es interpretado simbólicamente
+    ** La motivación se aplica a un objeto, haciéndolo simbólico
+    ** Lo mismo que las pseudo-motivaciones, las no-motivaciones establecen la verdad de una proposición, no demostrándola, sino presuponiéndola
+      *** El rechazo de exégesis, como esta misma, puede ser objeto de interpretación simbólica
+
+.Operaciones de la exégesis
+  * Constitución de datos e indicios
+    ** Similitudes y diferencias
+    ** Paralelismos y contrastes
+    ** Temas organizadores
+
+****
+La exégesis no es una interpretación sino un desarrollo del símbolo y debe ella misma ser interpretada. (p. 58)
+****
+
+.Simbolismo e inconsciente
+  * Freud: el simbolismo está restringido a los elementos (oníricos o culturales) sistemáticamente emparejados a representaciones inconscientes
+  * Aproximaciones típicamente inconscientes, inevitables, universales y de registro limitado
+  * Temas: cuerpo humano, familia, vida/muerte, vida sexual
+  * La teoría no excluye ni símbolos ambiguos (más de una interpretación) ni símbolos inesperados (significación indirecta)
+
+== III. La significación ausente
+
+.Definición de semiología (Saussure)
+  * Ciencia que estudio la vida de los signos en el seno de la vida social
+  * Ha establecido, sin darse cuenta, que los símbolos funcionan sin significar
+
+.El simbolismo de Lévi-Strauss
+  * Significante sin significado
+  * Un elemento se interpreta simbólicamente a través de un sistema (oposición)
+  * La interpretación se realiza a través de múltiples dominios
+  * «La dicotomía mensaje/interpretación (si se la quiere mantener) es circunstancial y no absoluta»
+  * «Hay tal rito, tal mito que privilegia una oposición expresándola abiertamente y que la constituye así como representante de las oposiciones homólogas» (p. 81)
+
+.Las oposiciones simbólicas
+  * No ocurren sólo binarias, sino más amplias
+  * Una oposición puede ocurrir en varios planos (valores)
+    ** Esos valores pueden realizarse de manera diferente
+  * «Dos oposiciones homólogas pueden estar también en una relación de reducción»
+
+.El simbolismo estructuralista
+  * Un elemento no cobra valor simbólico más que en cuanto que se opone por lo menos a otro elemento
+  * Una oposición simbólica es triplemente definida (p. 83):
+    . Por su dominio
+    . Por sus valores de oposición (p. 81)
+    . Por su nivel de reducción (pp. 82-83)
+  * Actividad interpretativa comparable a la del nativo (p. 85)
+  * Heurística o teoría
+    ** [Si teoría, el objetivo es] otra heurística, la inconsciente del indígena
+  * Siempre hay un término no-simbólico al que los fenómenos simbólicos se oponen
+  * Un elemento es simbólico en la medida en que se aparta de una norma, que puede ella misma ser simbólica (p. 87)
+    ** La dirección en que se efectúa el apartamiento ha de ser pertinente, y han de existir series de desvíos homólogos
+    ** Para toda dirección pertinente, habría una inversa, también pertinente
+
+    95
+
+
 == IV. Simbolismo y saber
 
-* «La mayor parte de las categorías del pensamiento comportan, pues, dos aspectos: uno semántico y otro enciclopédico» (p. 20)
+  * «La mayor parte de las categorías del pensamiento comportan, pues, dos aspectos: uno semántico y otro enciclopédico» (p. 20)
 
-* Saber semántico, enciclopédico y simbólico
+  * Saber semántico, enciclopédico y simbólico
 
-* La metáfora también es "salvaje" (p. 22)
+  * La metáfora también es "salvaje" (p. 22)
 
-* «La exégesis de un símbolo es ella misma simbólica y constituye un desarrollo, no una interpretación, de aquello que pretende explicar» (p. 135)
+  * «La exégesis de un símbolo es ella misma simbólica y constituye un desarrollo, no una interpretación, de aquello que pretende explicar» (p. 135)
 
-* el saber simbólico tiene las representaciones [de los objetos] por objeto (p. 138)
+  * el saber simbólico tiene las representaciones [de los objetos] por objeto (p. 138)
 
-* Hipótesis (p.142)
+  * Hipótesis (p.142)
 
 == V. El dispositivo simbólico
 
