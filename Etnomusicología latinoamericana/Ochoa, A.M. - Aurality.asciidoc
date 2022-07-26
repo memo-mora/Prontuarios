@@ -1,0 +1,128 @@
+= Ochoa, A. M. - Aurality (2014)
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: julio 2022
+:Revision: 0
+:toc:
+:toc-title: Contenido
+
+// Reseña
+
+[bibliography]
+== Referencias
+* [[[lozano1979, Lozano, J. - Introducción a Lotman y la Escuela de Tartu (en Semiótica de la Cultura 1979)]]]
+* [[[jauregui1986, Jáuregui, J, . El mariachi como elemento de un sistema folklórico (aparece en la página 30)]]]
+
+== Introduction
+
+=== The ear and the voice in the lettered city's geophysical history
+
+* «...understanding how the idea of a valid aural expressive genre was constituted depending on the listening practices or "audile techniques" (Sterne 2002) through which it was constituted ... many of the acoustsic dimensions of the colonial and early postcolonial archive are not presented to us as discrete, transcribed works or as forms neatly packaged into identifiable genres. They are instead dispersed into different types of written inscriptions that transduce different audile techniques into specific legible sound objects of expressive culture. This book is about ontologies and epistemologies of the acoustic, particularly the voice, produced by and enmeshed in different audile techniques, in which sound appears simultaneously  as a force that constitutes the world and a medium for constructing knowledge about it».
+
+* «I seek to explore how different practices of listening led to the inscription in writing of local aural expressive genres as well as to an enlighted cultivation of hearing that were crucial to the development of concepts about "local culture" and "local nature" that often persist to our days.»
+
+.Rama, A. - La ciudad letrada (p. 4)
+****
+«In his book The letterd City, Angel Rama saw the written word, concentrated in the cities, the sites of political administration, as constitutive of a highly unequal public sphere that took shape in the hands of lettered elites that to him resembled a "priestly caste...that enjoyed dominion over the subsidiary absolutes of the universe of signs" [1984]. But in this book I argue that Latin American was simultaneously and just as importantly constituted by audible techniques cultivated by both the lettered elite and peoples historically considered "nonliterate," giving rise to the types of questions and relations that the worlding of sounds enables.»
+****
+
+* «The question of how to distinguish between human and nonhuman sounds became particularly important in a coloniaal context in which the question of such boundary troubled, in different ways and for different reasons, the many people that originally populated, willingly came, or were forcefully brought to the Americas.» (p. 5)
+
+* «Listening is not a practice that is contained and readily available for the histsorian in one document but instead is enmeshed across multiple textualities, often mentioned in passing, and subsumed under other apparent purposes such as the literary, the grammatical, the poetic, the ritual, the disciplinary, or the ethnographic». (p. 7)
+
+* «What emerges is that the ontology of the relationship between the ear and the voice exceeds its containment in a particular medium». (p. 8)
+
+=== Voice, Zoé and the Histories of the Ear
+
+* «The relation between the voice and the ear then implies a _zoé_, a particular notion of life that involves addressing different conceptions of the human and the boundaries between the human and the nonhuman». (p. 9)
+
+=== The Aural, the Colonial, the Modern
+
+
+=== Vision, Sound, the Colonial, the Modern
+
+* «The identification of orality and tradition as autonomous spheres of knowledge within the epistemic domain of language has historically been a major technique for the construction of modernity and of the social inequalities within it [...] The creation of the field of "orality" generated a theoy and methodology for lettered elites to generate aa notion of alteriry as constitutive of the modern» (p. 14)
+
+* «This is a critique of theories of the decolonial that seek to constitute "the other" by appealing to the very same mechanisms of constitution of alterity that the moderns generated» (pp. 14-15)
+
+* «... in the nsame of recognizing the knowledge of "the other" such "fonocentrism" ends up reproducing an unexpected Cartesian dichotomy of the body and the mind, divided between subalterns and elites.» (p. 17)
+
+.Anthropotechnologies (Ludueña 2010)
+****
+"...the techniques through which the communities of the human species and the individuals who compose them act upon their own animal nature with the purpose of guiding, expanding, modifying or domesticating the biological substrate with the intention of producing that which, first philosophy, and later the biological and human sciences, tend to denominate as 'man'".
+****
+
+* «The dangers of language change through inappropriate mixtures were often metaphorically expressed as akin to the dangers of promiscuous sexuality reflected in inadequate race mixtures... By controlling the heritage of word and popular expressions through the proper selection of their geneaology and origin, etymology became a technique for a eugenesis of the tongue, attached to a project of national sovereignty». (p. 18)
+
+* «Orality in this book is not the opposite of writing nor a complementary "other of aurality, as implied in the pairing of the two terms through a backslash (orality/aurality). rather it is a historical mode of audibility that emerges in divesting the voice of unwanted features while pretending to be speaking about it."» (p. 20)
+
+=== Comparativism, Transduction, and Acoustic Assemblages
+
+* «What is needed in altering our ways of relaating the given, the  made, and the sensosrial is not just unsettling the history of representations but approaching the underlying relation between nature (as the given) and culture (as the made) implicit in the distinction between music and sound.» (p. 21)
+
+* «The point is not to negate that the ear produces an ontology of the relation between the person and the world, but rather no to confuse that with our own notion of relationality. What this implies is the need to explore the richness of a multiplicity of variables among what different peoples consider the given and what they consider the made that come together in the acoustic». (p. 22)
+
+.Viveiros de Castro (2004, 2010)
+****
+The work of a comparative anthropology would not be to translate the concepts of the other into its Western equivalents in order to adequately "explain" who the other is, to represent him or her divested of colonial history -a process that assumes that I, as decoder, am able to carry the weight of truth about a "correct" reading of the other; it would rather involve assuming differential fields of conceptualization, each with their potential equivocations as a field of comparative mutual constitution of notions of alterity. Equivocation is not a mistake.
+****
+
+* «In this book, through the history of comparativism in the region, I question the conceptual, temporal, and spatial framing of this history by rendering it not solely as a European one but one produced in the global trade of ideas about expressive culture and the type of making and doing we call art in the relation between the colonial and the modern». (p. 26)
+
+* «The history of comparatrivism helps us understand how the politics of equivocation regarding particular expressive practices led to a politics of expressive transformation as a mode of political response» (p. 26)
+
+* «When one listens to the historical archive, without looking for the genealogy of a particular musical genre, but rather simply exploring the way listening practices are found across different forms of writing, what emerges is a series of practices of listening and sounds that extend beyond our present-day ideas of what counts as a proper genre, music, or language.» (p. 28)
+
+== 1. On howls and pitches
+
+* Alexander von Humboldt y el Caribe colombiano (ecología, cultura)
+** Observaciones íntimas en su diario de campo (no publicado)
+** Interpretación fisiológica y psicológica de los cantos de labores de los bogas con adjetivos negativos (p. 32)
+** La audición como práctica dialógica vs. percepción y sensación corpórea (acustemología, p. 33)
+** Percepciones contrastantes del sonido: para quien lo produce y escucha, y para quien sólo lo escucha (y registra)
+** Descripción e inscripción sonora y representación
+** «Acoustic knowledge is located at the nexus of what we are able to make sense of and what is beyond sense making but still affect us». (p. 34)
+** «In the experience of acoustic perception in contexts of social heterogeneity, emotional and discursive knowledge of self and other, perceptual and descriptive knowledge of sound, and descriptions of  the allure of the sonic are often collapsed into one another». (p. 34)
+** «This is not a history about clashes between different musical "traditions". It is, rather, a history of how different notions of convention and invention (Wagner [1978] 1981) ... coalesce in discussions about the nature of sounds and music». (p. 35)
+
+=== A Cartography of Sonicities (p. 37)
+* Para conocer cuáles son las «prácticas de interpretación» a través de las cuales se describe el sonido de la «voz de los bogas y del Río Magdalena» se comparan diversos testimonios de la percepción sónica de viajeros (1800s).
+* Gritos, sonidos guturales, exclamación a santos, groserías, piruetas y gestos corporales, trabajo pesado, protocolos ceremoniosos (rezos, persignaciones), imitación de sonidos animales, provocación de la risa; comunicación entre embarcaciones (pp. 37-40)
+* Reconstrucción de una crónica
+.. El viaje inicia con plegarias y "blasfemias" a la V. María, deidades y contra rivales, de carácter políglota [eclécticas, de origen heterogéneo] fuera del canon europeo
+.. En el camino, el trabajo de navegación (con postes) se acompañaba con vocalizaciones
+... entre habla, melodía y grito
+... colectivas y sin parar
+... comparadas con sonidos de animales
+... acompañadas también con pisotadas
+... con referencias acústicas al m. ambiente
+... con el vocablo huss, hum, halle
+... con transgresiones y contorciones
+... ejercido con sensibilidad aguda (p. 41)
+* El centro de interés está en aprender sobre las nociones de creatividad y uso sónico que subyacen la crónica y no sobre la sonoridad en sí (cómo sonaba)
+* Explorar la brecha interpretativa entre el evento sónico (cuerpos, ritmos, frecuencias, intensidades, antes de la significación) y la «ensonificación» (llenado de sonido) de la inscripción (escritura)
+* Temas clásicos del archivo colonial
+** Usos múltiples de imitación (de animales)
+** Relación entre movimiento físico, sonido y navegación
+** Mezczla de fragmentos sónicos de distintas fuentes
+** Cantar a entidades humanas y no-humanas (espirituales y animales)
+** Agudeza sensorial, ruido y silencio (p. 42)
+.Interpretación desde la perspectiva colonial
+* Facultad mimética e historia
+.. «Magia simpatética» (Taussig)
+.. Representación hacia la identidad
+... El «principio mimético»
+.... Es un arte de imitación que opera con parámetros normativos (Rancière).
+.. Esto es comparable con el desarrollo de la musicología en Europa y la construcción del conocimiento sobre músicas no-occidentales en el s. XIX (p. 43), desarrollado a la merced de las instituciones y disciplinas nacientes (positivismo?)
+... La teoría musical occidental establece parámetros armónicos (el intervalo, la diferencia medible entre tonos) para definir la música, basándose en argumentos biológicos.
+... Estos parámetros son extrapolados a otras culturas, segmentando el espectro en músicas- correctas y músicas-incorrectas.
+.. La comparación problematiza
+... La naturalidad de la música de arte occidental, y la validez de sus categorías estilísticas (formalismo)
+... La integración de esas otras culturas a la historia construida por occidente, la cual incorporaba términos como _nationalcharakter_ y «natural culture» y «civilized culture» (p. 48)
+... La distinción universalista entre cultura y naturaleza
+.. En esta problematización, producto de la Contra-ilustración alemana e influyente en Herder, Humboldt  y Boas, la América española fue central
+
+=== On the Ecology of Acoustics (p. 50)
+
+
+== 2. On Popular Song (p. 77)

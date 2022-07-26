@@ -1,0 +1,197 @@
+= Feld, S. - Sound and Sentiment
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: julio 2022
+:Revision: 0
+:toc-title: Contenido
+
+// Reseña
+
+[bibliography]
+== Referencias
+* [[[hymes1974, D. Hymes - Foundations in sociolinguistics: An ethnographic approach (1974)]]]
+* [[[schieffelin1976, Schieffelin, E. - The sorrow of the lonely and the burning of the dancers (1976)]]]
+
+== Introduction to the third edition
+
+=== Then and Now (p. xiv)
+
+En esta sección se expone cómo es que la presencia (o ausencia) de instituciones religiosas (misioneroos) y estatales (gobierno) transformaron las relaciones sociales entre los Bosavi durante el s. XX.
+
+=== Bosavi Song and the Politics of Expressive Practice after 1990 (p. xix)
+
+* Gita Gisalo (string band)
+** «String band music retells the main features of Bosavi's recent contact history».
+** «Some of the groups and repertoires were initially formed through the experience of singing church hymns, and some songs are modeled on them, either substituting new texts or secularizing existing ones. But what is most remarkable in this overtly very new kind of musical practice is how the string band songs continue to develop many of the poetic conventions and topics long cenetral to ceremonial and everyday vocal song in Bosavi...»
+
+=== The Acoustic Turn
+
+* «And if I was first drawn to how the performance of men's gisalo songs displayed complex layers of sung vocalization, poetic texts, and cried accompaniment, I was considerably more challenged by how to understand the performance of women's sung-texted-weeping of Bosavi funerals. In both cases the poetic complexities that entextualized gender in voice pushed me deeply into the sound symbolism of language in music, and the timbral and textural aspects of music in language».
+
+* «...a second concern was neither anticipated by Merriam's antrhopology of music program nor by any well-developed paradigm in ethnobiology or evolutionary anthropology. This concerned copresent bio- and socio-acoustics, the interanimation and interarticulation of human and nonhuman sounds in the community setting of a rain forest environment».
+
+=== From Anthropology of Sound to Acoustemology and Anthropology in Sound
+
+* «I wanted to have a new way to talk about how, within a few seconds, and often in the absence of coordinated visual cues, Basavi people know quite precisely so many features of the rain forest world, like the time of day, the season, the weather history. I wanted to link this kind of tacit knowledge, as well as active ecoacoustic knowing, to expressive practices, to the way Bosavi listening habits and histories figure in the shaping of poetic, vocal and instrumental practices».
+
+* «Acoustemological triangle that connects sound to ecology and cosmology...»
+
+=== Visual Echoes (xxviii)
+
+* «I hope that you can join me to wish ethnography a more creative future  in the relationships of words, sounds, and images».
+
+== Preface to the second edition (p. xxxix)
+
+* Sobre el método etnográfico
+
+== Introduction
+«This is an ethnogrpahic study of sound as a cultural system, that is, a system of symbols, among the Kaluli people of PNG.»
+
+* Símbolos, sistema cultural, modos y códigos
+
+=== The ethnographic setting
+
+
+.Datos generales sobre los Kaluli
+* Geografía, alimentación, ecosistema
+* Rasgos de parentesco
+* Reciprocidad: forma de organización cotidiana
+** Se concentran en cinco ceremonias tradicionales
+
+.Gisalo
+* De origen endógeno
+* Del crepúsculo al alba al interior de una casa iluminada por antorchas
+* Es intercomunitario (anfitrión-huésped)
+** Anfitrión
+*** preparan comida
+*** se conmueven, llora y lamenta con las canciones
+*** reaccionan a las canciones quemando a los huéspedes que cantan
+** Huéspedes
+*** preparan difraces y canciones
+* Puede celebrarse en matrimonios, repartición de cerdos, intercambios formales intercomunitarios
+* La danza y canto inician al anochecer al interior
+** El tema es la tristeza, la pérdida y el abandono, aludiendo a lugares y eventos reconocidos por los presentes
+** En los cantos se hilan nombres de lugares, metáforas y dispositivos onomatopéyicos
+* concluida la ceremonia se discute la eficacia de los cantos
+* La etnografía de Schieffelin (1976) toca el significado social de esta secuencia de eventos
+
+=== The Geographical and Historical Setting
+* Great Papuan Plateau
+** Nombre
+** Geografía y demografía
+** Primer encuentro (1935)
+** Primer censo gubernamental (1958)
+** Gobierno colonial australiano (1960s) dio fin al canibalismo, implementó letrinas y entierros
+** Pista aérea de los misioneros (1964)
+* Etnógrafos 1966-1977
+** Edward Schieffelin (1966)
+** Steven Feld (1976)
+
+=== The Fieldwork Setting
+* Quién lo introdujo y cómo se interesó en el tema
+* Situación personal al iniciar la investigación
+* Acceso y recibimiento en la comunidad bosavi
+* Apoyo de investigadores precedentes
+* Sobre el conjunto de informaciones básicas sobre la sociedad (que él no tuvo que seguir)
+** Demografía
+** Historia local
+** Genealogías
+** Detalles sobre la estructura social
+** Factores ecológicos
+** Economía y subsistencia
+** Uso y estructura del lenguaje
+* Registro de actividades cotidianas
+* Trabajo con asistentes nativos
+* Grabación, transcripción, traducción
+* Análisis de gramática poética, composición de canciones, estilo performativo
+* Retroalimentación análisis-etnografía-composición
+* «The patterns revealed by this type of participant-observation data collection are mirrored in the presentation here by a continual back and forth movement between
+** texts and contexts
+** conventions and constraints
+** codes and variations
+** forms and performances
+** expectations and ruptures
+** Kaluli abstractions and verbalizations and my own interpretations and deductions».
+
+=== The Interpretative Setting (p.14)
+* Tiene como base un patrón que vincula mitos, aves, aspectos performativos y relaciones sociales como el género y el intercambio
+* Lo anterior se muestra a través del mito "el niño que se convirtió en pájaro _muni_"
+* En el nivel cultural, este patrón resulta más importante que las entidades discretas involucradas y que los medios analíticos para su explicación
+* «The borader aim is to construct a symbolic interpretation that shows how expressive modalities are culturally constituted by performance codes that both actively communicate deeply felt sentiments and reconfirm mythic principles».
+* Marco teórico-metodológico
+** C. Lévi-Strauss (1966)
+** C. Geertz (1973)
+** <<hymes1974, D. Hymes (1974)>>
+** Análisis formal con descripciones "profundas"; _bricoleur_; integración de un procedimiento de decodificación-traducción (estructuralismo) y otro de experiencia-interpretación (hermenéutica)
+.Estructura de la obra (capítulos)
+. Análisis mitológico
+. Ornitología nativa
+. Análisis musical y lingüístico
+. Análisis poético
+. Análisis de las canciones
+. Interpretación y reflexiones teóricas
+
+=== The Linguistic Setting
+* Precisiones lingüístsicas, ortográficas y de pronunciación
+
+== 1. The Boy Who Became a Muni Bird
+* Mito de referencia
+* Contexto de su expresión y registro
+* Mitologías
+** Mitología casual
+*** Perro/animal
+** Historias de trickster
+*** Contada por hombres con performances elaborados
+* Comparación con sistemas exógenos
+** _Plaintiveness_ (tono lastimero)
+** _The Birth of the Blues_
+* Categorías analíticas
+** género
+** parentesco
+** alimento/hambre
+** reciprocidad
+** lamento-pérdida-abandono
+** aves
+** performativas
+*** llanto
+*** poética
+*** canción
+
+=== Male, Female, and the Ade Relationship (p. 24)
+* Roles asignados de acuerdo al sexo, desde temprana edad (a través, por ejemplo, de la forma en que se le habla a los infantes)
+* Las relaciones entre hombres y mujeres tienden hacia el balance y la complementariedad
+* La casa de la comunidad del esposo adopta a su esposa e hij@s (_ao_ hermano, _ado_ hermana), quienes siguen un tabú sexual pos-parto de dos años
+* Los herman@s guardan relación estrecha de los dos a los siete años, y los mayores cuidan de los menores
+* A las niñas se les enseña a trabajar en favor de la colectividad; a los niños se les enseña a obtener lo que desean a través de su comportamiento
+* La palabra _adε_ no constituye un término de parentesco, sino uno de reciprocidad y expectativas basadas en los roles sexo-genéricos
+* En relación con M1, el tema tocaría a la ruptura del orden social marcado por la relación interpersonal generalizada _adε_, donde la hermana no concede frente a la súplica vocalizada (_gesema_) del hermano menor
+* Expresión "I have no _X_"
+.. Tienes algo que yo no tengo
+.. Tengo derecho a una parte de ello
+.. Deberías tenerme lástima y dármelo
+
+=== Food, Hunger and Reciprocity (p. 27)
+* El tema de la comida es central en M1, donde la negativa de la niña a darle comida a su _adε_ presenta una situación impensable, y hace sentir al menor despojado de algo a lo que tenía el primer derecho
+* El antecedente de <<schieffelin1976, Schieffelin (1976)>> trata el dar y compartir comida como factor determinante en la construcción de relaciones sociales
+* _Wi εlεdo_
+** institución social
+** las personas se refieren entre ellas con el nombre de la comida (_ni galin_, 'my crayfish')
+** Conducto fuera del parentesco para expresar afecto
+* Compartir comida también es parte de la cotidianidad, y hace posible superar las carencias ocasionales
+* Entre grupos de hombres, las donaciones de comida que cada uno recibe de su familia es compartido entre todos
+* «To be hungry therefore, implies more than merely a condition of physical need. It also implies isolation from companionship» <<schieffelin, Schieffelin (1976)>>
+* hunger : aislamiento :: pérdida : abandono
+
+=== Sorrow, Loss, and Abandonment (p. 29)
+
+=== Birds (p. 30)
+
+=== Weeping (p. 32)
+
+=== Poetics (p. 34)
+
+=== Song (p. 35)
+
+=== Structural Analysis of "The Boy Who Became a Muni Bird" (p. 38)
+
+== 2. To You They Are Birds, to Me They Are Voices in the Forest (p. 44)
