@@ -1,0 +1,91 @@
+= Samuels & al - Soundscapes: Toward a Sounded Anthropology (2010)
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: agosto 2022
+:Revision: 0
+:toc:
+:toc-title: Contenido
+
+== Introduction
+* *Propuesta*: Atender el sonido y su grabación  y producción es útil para toda la antropología
+* *Giro aural*
+** *Teoría*: Paisaje sonoro (_soundscape_)
+** *Práctica*: Etnografía del sonido
+** *Antecedente*: R. Murray Schafer
+*** El paisaje sonoro como una entidad que circula públicamente, a la vez implicado y producido en las prácticas sociales y políticas
+
+== From Sound to Soundscape
+  * El término _soundscape_ refiere a
+    ** Todo aquello a lo que se encuentra expuesto el oído (paisaje)
+    ** La distinción entre naturaleza y cultura, lo fortuito y lo compuesto, lo improvisado y lo producido
+    ** Una práctica cultural, como la vista
+    ** Se ancla a una forma de escucha posibilitada por la tecnología de grabación
+  * Historia ligada a
+    ** Tecnologías
+    ** Encuentros críticos
+    ** Purificación del sonido
+    ** Movimiento de lo natural a lo industrial
+    ** Al «desafinarse» de la escala humana, pasó de alta a baja fidelidad
+  * Schizofonía (_schizophonia_)
+    ** Ruido (_noise_) enemigo del sonido (_sound_)
+    ** Desplazamiento del sonido natural de un espacio-tiempo a otro,
+    ** Desgarramiento del sonido y el paisaje
+  * Sobre usos buenos, malos y deseables del término
+
+== Technologies of Sonic Inscription and Experience
+  * La grabación de audio trajo consigo cambios en las prácticas performativas
+    ** Vinculadas a un enfoque emergente en la prosodia e indexicalidad (signo que señala objeto)
+    ** También acentuó la memoria, y el ímpetu de archivar aún subyace la etnografía con sonido
+  * En cuanto práctica de inscripción, las tecnologías de lectura, como la notación musical, son antecedentes
+  ** Esto implica que la esquizofonía es anterior a las tecnologías de grabación
+  * «Un acercamiento auditivo al pasado en lugar de uno visual produce una historia cultural diferente» (Johnson)
+
+== Sound in Film
+  * A partir de la filosofía pitagórica, Schaeffer definió como "acusmática" la relación entre un objeto sonoro y su fuente ausente («de causa invisible»)
+  * Separación de las narrativas aural y visual
+  * Stilwell: _soundscape_ en vez de _soundtrack_ para señalar que, más que música acompañantes de escenas, hay capas de diálogo, música y efectos de sonido que anclan la experiencia del espectador (_viewer_)
+
+== Sound Arts, Sound Recording, Soundscape
+  * Arte sonoro (_sound art_)
+  * "Deep listening" (Oliveros)
+  * Etnografía y arte
+  * Feld, S. - Voices of the Rainforest
+
+== Ethnographies of Sound and the Soundscape
+
+=== Recording the Rainforest
+  * Antecedentes de etnografía musical
+    ** Dejaron ver mundos conectados espiritual, ecológica y sónicamente
+    ** «Bajo las sombras del estructuralismo», la teoría de performance y ritual de Turner y bajo la perspectiva de la acción simbólica
+    ** mostraron cómo la estructura del sonido y de la sociedad matizan las distinciones entre naturaleza cultura y entre análisis musical y acústico
+    ** Paisaje sonoro denso en significado
+
+=== Recording Cosmopolitanism and Struggle
+  * Estudios sobre el encuentro contemporáneo entre sonido (en el performance) y medios de producción, reproducción y consumo
+  * Tecnología y estética del sonido: en instrumentos musicales, tecnologías de distribución, prácticas de devoción, patrones
+  * Uso de medios en las megaciudades
+
+=== Studio Production and Listening Practices
+  * Relación entre estudios del sonido, procedimientos de grabación y manipulación de audio, y percepción espacial (reverberación, posicionamiento de micrófonos)
+  * Políticas de la estética en música
+
+=== New Forms of Place in the Global Economy
+  * «Momentos esquizofónicos en la producción de nuevas formas de identidad, performance y memoria»
+  * El "espacio" descentralizado como árbitro de la autenticidad o significación (Novak)
+  * Política, regímenes jurídicos de producción y circulación del sonido
+  * Derechos de autor y producción de objetos culturales indígenas
+
+== The Sonic, the Spatial, the Material, the Ephemeral
+  * La temporalidad de lo sonoro, que no lo tiene lo visual
+  * Reconstrucción de sonoridades pasadas
+    ** Pérdida-rescate de los oficios musicales
+  * Prácticas aurales moldeando los espacios de performance sónico (incluyendo aquellas no-sonoras)
+  * Tiempo: cronología | experiencia
+  * Políticas del lenguaje
+    ** _The Great Vowel Shift in English_
+    ** _The ascendancy of langue d’oil over langue d’oc in France_
+
+== Conclusión: Antropología Sonada
+  * Incorporar a la disciplina «el reconocimiento de que su historia de entrelazo con las historias de la tecnología, estéticas, y mediación la ha conducido a una crítica de la representación en el campo visual mientras se descuidaron asuntos del sonido, grabación y escucha» (p. 339)
+  * «El componente sonado de la disciplina como algo más que un simple medio metodológico cuyo fin es la precisión en el análisis escrito»
+  * «La idea del paisaje sonoro con patrones de globalización (distribución de sonidos particulares, su audibilidad y valor) nos recuerda que las configuraciones del sonido tienen implicaciones políticas para un público, que es siempre un público escucha cosmopolita»

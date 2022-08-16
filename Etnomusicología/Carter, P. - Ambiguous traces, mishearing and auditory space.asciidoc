@@ -1,0 +1,122 @@
+= Carter, P. - Ambiguous traces, mishearing and auditory space (2001)
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: julio 2022
+:Revision: 0
+:toc:
+:toc-title: Contenido
+
+// en Hearing Cultures. Essays on Sound, Listening, and Modernity. Edited by Veit Erlmann
+
+.Introducción (pp. 43-46)
+* Oír (monológico) es diferente a escuchar (dialógico), pues el segundo implica un contrato de comunicación, ya que es intencional
+* La escucha puede constituirse como práctica y como teoría
+* A diferencia de un auditor desacoplado, quien escucha busca *rastros* (_traces_) significantes
+* La escucha se vuelve *trabajo cultural* cuando las normas de comunicación no están pre-establecidas, lo que da pie a la ambigüedad
+* En este contexto, *oír mal* da pie a la creatividad, en la que el "discurso interior" (Vygotsky) encuentra lugar ["equivocación controlada" de Viveiros?]
+* Estrategia de la escucha intencional (*espacio de audición*)
+* De la ambigüedad del (mal) entendimiento (*diferencia*) dialógico surgen nuevas tradiciones; circunstancia importante en los contextos de pérdida de identidad
+* Tres circunstancias ilustran la escucha como *práctica cultural*:
+.. Encuentros y colisiones del imperialismo europeo (antropología histórica)
+.. Estrategias de comunicación y experiencias de mal entendimiento en comunidades de migrantes (sociología)
+.. La construcción de la persona en la práctica dramática (performance)
+* El nexo entre escucha y *producción cultural* no es metafórico, sino estructural: *ecología acústica*
+
+.Echoic Mimicry (pp. 46-49)
+* En su forma más radical, el *mimetismo ecoico* es la comunicación cuando no hay algo qué decir
+* Incorpora un deseo de comunicación
+* Lo deseado es un punto en común convenido entre las partes, a partir de lo cual puede continuar la comunicación
+* Lo significativo es el deseo o necesidad de comunicarse (y no un lenguaje compartido) que se articula manipulando *sonidos en el medio* ambiguos
+* Los ecos en este intercambio reflejan la herencia (léxico, fonología, entonación) de cada hablante, y resulta en el reconocimiento de palabras-sonidos compartidas
+* El primer *tema* (_topic_) es el *lugar* (_place_) de orientación
+** Comparable con el sentido de orientación (y no de significado) que lo murciélagos logran con el sonido Roy Wagner:
+*** El sonido es incapaz de fundirse o codificar directamente los significados atribuidos al lenguaje.. encasillar al significado en el lenguaje niega la posibilidad de la ambigüedad y las posibilidades ecolocativas
+* El encuentro de C. Colón (1492)
+** Manifiesta el mimetismo ecoico en la palabra-sonido "ca"
+** No estuvo mediado por disciplinas ni diccionarios (significados fijos)
+** La confusión a la que se prestó no es un error, sino parte de un esfuerzo por no mantenerse callados
+** El ejemplo muestra que el mimetismo ecoico no depende de tener algo qué decir
+* Un registro muestra las transformaciones de los nombres de los migrantes italianos
+** A partir de las cuales se extraen nuevas identidades, construidas de manera ecoica y mimética
+** migración como un sueño soñado por un soñador desconocido (Berger 1975)
+* Esto último también es atinado para pensar en el teatro de marionetas de sombra
+** No conlleva (necesariamente) la pérdida de agencia o disminución de identidad
+** El dramaturgo produce un cuerpo doble: uno posibilita al otro en una relación de eco construida miméticamente
+** No se hace una mímesis occidental (clara, directa, moderna, racionalista), sino que por vía de la ambigüedad muestra los límites de la comunicación
+
+.Listening Devices (pp. 49-54)
+* Las ciencias sociales se imaginan a los individuos y las culturas logrando mayor control sobre sus identidades y destinos.
+* Lo anterior se ve trastocado si se consideran a la *ambigüedad* (_ambiguity_), la escucha errada (_mishearing_) y el desdoblamiento de uno mismo (self-doubling_) como parte integral de la semiótica.
+* Lo anterior se ejemplifica con las distintas connotaciones de * "Dispositivo de audición" (_hearing device_) vs. "Dispositivo de escucha" (_listening device_)
+* Siguiendo a Artaud, angustiante pero "verdaderamente poético"
+* Nuestro discurso se origina en la incorporación tumultuaria de la voz del otro
+** Discurso es el proceso de dar significado a la mimética ecoica
+** Puede así trascenderse el dualismo hermenéutico
+* «El proceso de doblaje mimético y proyección ... no conduce a identificarse con el otro, sino a una voluntad despiadada por dominar» (Greenblatt)
+* El diálogo es peligroso cuando hunde al ego en la incertidumbre
+* Así como la "identificación con el otro" puede resultar una hipótesis innecesaria, la apropiación y adquisición no necesariamente son sinónimos de dominación
+* El principio de realidad que impone la comunicación idealizada (clara y directa) y el valor de estas última se vuelven aparentes
+* Eros: figura mítica que personifica "la forma incompleta en movimiento"
+** El mimetismo ecoico puede generar la sensación de agencia histórica, de determinación, y de poética verdadera
+* El ejemplo de Alexia y el migrante detenido llevan a la amgibüedad fuera del reino de la representación, hacia un *principio generativo de la comunicación*, se rebelan contra su rol de actores en el lugar (_place_) del otro.
+* En el teatro, esto ocurre cuando los actores cesan de reproducir las ambigüedades de la realidad, abandonan la consciencia de ego cartesiana, sin nostalgia por su identidad, sin imitar nada ni representar a nadie, mediante la mimética ecoica [Macedonio Fernández]
+** _*Play*_ en el contexto del performance es algo entre juego y realidad
+* «El negocio juguetón (_playful_) de explotar ambigüedades fónicas con miras a rastrear posibles puntos de referencia compartidos puede que no traiga ilustración mutua. Podría, sin embargo, condensar híbridos comunicacionales con suficiente estabilidad para engendrar nuevas sociedades y tradiciones en ese lugar.» (p. 52)
+** El malentendido mutuo  entre españoles y nahuas derivo en una tregua operativa: «Each side was able to operate for centuries after first contact on al ultimately false but in practice workable assumption that analogous concepts of the other side were essentially identical with its own, thus avoiding close examination of the unfamiliar and maintaining its own principles» (Lockhart)
+** Puede haber sordera ante las diferencias conceptuales, pero cultivaron un buen oído para las coincidencias fonológicas que los acercaban
+*** La ganancia comercial y emocional dependía de "doblarse" (_doubling-up_) en el otro, hacerse escuchar a través del otro.
+*** Lo anterior provocó confusiones (_mistook_) sobre lo que el otro representa
+*** "Doblarse" como titiritero/marioneta
+*** [«De que todo el conocimieento del otro es dialéctico, no se desprende que el todo del otro sea íntegramente dialéctico» (Lévi-Strauss)]
+*** Relación yaquis-Estado (Ballesteros)
+* También en la comunicación [idealizada] existen los malentendidos, con el trasfondo de un "ruido semántico"
+** La variación personal y las determinaciones divergentes abundan, en la escala fonética, de persona a persona; sin embargo, puesto que estos datos no se prestan al análisis estructural, quedan fuera (Whalen)
+* David Tomas señala la «existencia y dinámicas de un *espacio intercultural* transitorio, a veces humoroso, con frecuencia peligroso y periódicamente cruel; generado en situaciones gobernasas por la tergiversación (_misrepresentation_) o el exceso de representatividad»
+** Los cuales son «predicados en eventos azarosos, reuniones imprevistas y fugaces, o confrontaciones que conducen aleatoriamente la actividad que se origina de cualquier lado de divisiones geográficas o territoriales, naturales o artificiales, que separan y distinguen a las personas con distintas constelaciones de costumbres, maneras y lenguaje» (Tomas)
+** P. Carter destaca:
+*** El exceso de representación en estas comunicaciones; como el caso del inmigrante italiano y los nombres que se le confieren y en casos adopta
+*** La forma que el discurso asuma depende hasta cierto punto del azar (al menos en el reino fonético); como en el actor emancipado de Kantor, que juega con el compromiso, la coincidencia y lo desconocido
+
+.His(s)tories (pp. 54-59)
+* Grabar y escuchar la cultura como performance
+** Presenta un mejor uso para los "dispositivos de escucha"
+* Ecología acústica
+** El ciclo (_loop_) de escucha a hablar armoniza diferencias
+** Una poética que implica no sólo a los participantes, sino a la audiencia
+* Neutralidad:
+** Informante mimetizando al científico
+** *Expectativa* de que el sonido del mundo y sus habitantes no representa más que a sí mism@s
+** La representación de nada más que un@ mism@ está entre la realidad y la ilusión
+** [yellow-background]#La cultura escuchada siempre (incluye) ecos de la expectativa del otro#
+** No reconocer lo anterior deriva en un [soliloquio]
+** Rumi - The Merchant and the Parrot
+* _Recording pose_
+** La práctica etnográfica de manipular las configuraciones musicales para facilitar su registro
+** El cuidado de la "voz radiofónica", impulsando la "ilusión" del ajuste (_fit_) preciso entre sonido y sentido
+* Variaciones de oír y escuchar
+* Crítica a las grabaciones de Feld (Tomas)
+** La misma presencia de la tecnología de Feld hace desaparecer aquello que pretendía preservar
+** El mundo que escucha sirve como contexto para definir al mundo escuchado
+
+* The Native Informant
+** Carter dejó el _hiss_ en su grabación para tratarlo como un actor histórico
+** El ruido, sin comunicar algo, es el significante de la presencia histórica, mediación entre oído y sonido del mundo
+
+.Acoustic Ecology (pp. 59-62)
+* Se plantea la pregunta: al escuchar culturas, ¿qué es valioso escuchar?
+** Implícito en el sesgo (_discrimination_) auditivo está un equivalente al dominio visual: foco
+** La investigación asume una mentalidad de puente (_bridgehead_) entre sonido y sentido
+** Se engrandece y refuerza la proposición de que la cultura es comunicación
+** Se deja fuera el "espacio de audición" (_auditory space_) cuyos sonidos no suelen ser propensos a nombrarse, analizarse o reproducirse
+** ¿Son significativos para la cultura?
+** [¿Qué hay de los modelos neurológicos para el procesamiento de los estímulos (bottom-up vs. top-down)?]
+* ¿Qué estamos oyendo? ¿Qué nos proponemos escuchar? ¿Cuál es el principio que lo organiza?
+** Seeger plantea un modelo estructural
+*** En otras culturas, el significado no es el signo sonoro en relación con otros
+*** Kaluli, al imitar los sonidos del bosque, se escuchan a sí mismos literalmente escuchando al otro (Feld)
+* En la ecología acústica, el individuo y el ambiente están en permanente ciclo entre escuchar y emitir ruido
+** El problema con el concepto de "paisaje sonoro" es que presume que la escucha (_listening_) siempre es _hacia algo_, i.e. comunicación
+** Escucha, ambigüedad, signo y símbolo
+* Al atender las fallas (_breakdowns_) en la comunicación se reconstruye la subjetividad del otro
+** En este modelo (Carter) no se le permite al analista pretender guardar silencio o distancia
+** «Una escucha desapegada teoriza que los sonidos emergen del silencio y aspira hacia la armonización. La escucha apegada que aquí se defiende considera que el sonido inicia y termina en ruido.»

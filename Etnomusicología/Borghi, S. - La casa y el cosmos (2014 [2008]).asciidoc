@@ -1,0 +1,29 @@
+= Borghi, S. - La casa y el cosmos (2014 [2008])
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: agosto 2022
+:Revision: 0
+:toc-title: Contenido
+
+== Introducción
+* La relación entre arte, humano y animal
+* Disposición de los temas en el texto: forma de ritornelo
+* «El presente trabajo, por una parte, es un análisis del concepto de ritornelo y, por otra, tiene el objetivo de esclarecer la definición de música...»
+* La relación entre tonalidad y música
+
+== Primera parte: Música entre estética y etología
+
+=== Capítulo primero: Voz Uexküll y la naturaleza como música
+* La división entre humano y animal es primero interna, "reconocimiento de lo humano"
+* "Máquina antropológica de los modernos" productora de la humanidad, que fracasa en marcar una separación objetiva
+
+.[La "aporía" de la humanidad-lenguaje]
+* Heymann Steinthal
+** De acuerdo con Agamben, el primero en mostrar dicha aporía
+** «El estadio prelingüístico de la intuición... no puede ser distinto para el animal y para el hombre. Si fueran diferentes... entonces el origen del hombre no coincidiría con el origen del lenguaje» (Steinhal)
+** La cultura produce lo humano «mediante la oposición hombre/animal, humano/inhumano... Porque lo humano está siempre ya presupuesto, la máquina produce en realidad una especie de estado de excepción» (Agamben)
+
+.Unwelt
+* J. von Uexküll
+** Creó la noción de _unwelt_ (mundo circundante, mundo asociado)
+** Constata el supuesto de un mundo que ordena jerárquicamente a todos los seres (p. 15)

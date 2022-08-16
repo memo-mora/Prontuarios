@@ -183,12 +183,55 @@ En esta sección se expone cómo es que la presencia (o ausencia) de institucion
 * hunger : aislamiento :: pérdida : abandono
 
 === Sorrow, Loss, and Abandonment (p. 29)
+* Comentarios sobre la importancia de las reuniones de familia y amistades para los Kaluli, donde se expresa gran afectividad entre presentes y nostalgia por ausentes
+* El estado de inasistencia es visto deplorablemente
+* «As human relationships are actualized and mediated through gifts of food and material wealth, so these things come to stand for what deeply felt in human relationships» <<schieffelin, Schieffelin (1976)>>
+* La negativa de la _adε_ a donar comida en M1 implica su inexistencia; la negación del rol esperado «disminuye al niño a un estado no-humano» (p. 29)
 
 === Birds (p. 30)
+.Aves y humanos
+* La carencia de relaciones humanas se equipara con la muerte
+* Kaluli creen que los pájaros son reflejos del espíritu (_ane mama_) de sus difuntos
+* Los sonidos de los pájaros son simultáneamente escuchados como indicadores de la fauna aviar y como "charla" de los muertos; ideales culturales metafóricos de las observaciones naturales.
+* Esta percepción deriva de la noción Kaluli sobre el mundo: la coexistencia de dos realidades, una visible y otra que refleja; en la que cada persona tiene un reflejo (cerdo o ave de corral) en el mundo de la montaña (_mama_)
+* Al morir, el reflejo espiritual de una persona aparece en el mundo visible en forma de pájaro, cuyo sonido es comunicación
+* [yellow-background]#En M1, el pájaro _muni_ es caracterizado por su sonido [de paloma] con tonos descendentes, los cuales son imitados en un motivo musical empleado en el relato#
+.Ornitología
+* Se basa en características de pico y patas
+* Se complementa con observaciones sobre su sonoridad, distinguiendo señales de contacto, alerta o socializadoras
 
 === Weeping (p. 32)
+* Se distinguen dos tipos de weeping (~lamentos)
+** El primero es un llanto rápido e histérico
+** El segundo es un llanto más entonado, lento y melódico
+* Socialmente ocurre en ocasiones de profunda tristeza por la pérdida y el abandono (por ejemplo, una familia dejando su casa que se quemó)
+* Los patrones siguen un criterio de género binario
+** Hombres
+*** Entran y salen fácilmente de un estado muy emocional, sin sostenerlo por mucho tiempo
+*** Comienzan con un gemido alto al instante imitar entonadamente la llamada de _muni_ con un falsete chillado
+*** En ocasiones se le agrega texto mientras se sostiene el tono intermedio (Re - Do - *La* - La - Sol)
+** Mujeres
+*** Comienzan rápido, histérico, intenso y prolongado
+*** Mientras se calman y recuperan el aliento, el llanto comienza a seguir los mismos patrones melódicos que los hombres
+*** Se distinguen tres distintos formatos
+**** Texto intermedio, como los hombres
+**** Texto repartido a lo largo de toda la frase musical, con la mayor parte del contenido entre el segundo y tercer tono (Do y La)
+**** Wept song (canción llorada) consiste en texto improvisado con una melodía cercana al patrón; se encuentra en funerales, combinada con 1) llanto acelerado, 2) llanto con la melodía _muni_ y adición del texto, 3) wept song improvisada
+** Es una forma expresiva que, es sabido, predomina entre mujeres, como también lo hace la adición del texto
+* El texto señala el parentesco que se guarda, y abunda en lugares de experiencias compartidas
+
+.p. 34
+****
+The uniqueness of weeping for women is that it gives way to another type of song; one sung _while_ weeping, where the melodic contour is fixed by the three or four notes of the _muni_ call symbol, and where the text is spontaneously improvised by the weeping singer as a personal recollection of shared experiences with the deceased or departed.
+****
 
 === Poetics (p. 34)
+* La  poética integrada a la canción es la única forma de arte oral, junto a las historias (mitos), en Bosavi
+* Es la única modalidad de expresión Kaluli dedicada a comunicar un mensaje por su propio valor ("auto-referencial", Jakobson), no por el de algún sujeto denotado
+* La conversación y discurso sirven para interactuar socialmente, mientras que la canción es comunicación desde el punto de vista de una persona en forma de pájaro (no-humano)
+* Se organiza por cánones de reflexividad y auto-consciencia
+* En M1 la comunicación pasa de una conversación (_to halaido_) a las 'palabras sonido de pájaro' (_ɔbε gɔnɔ to_); el uso de determinadas palabras compuestas, así como de infantilismos, marca este paso
+* «Poetic language is bird language» (p. 34)
 
 === Song (p. 35)
 
