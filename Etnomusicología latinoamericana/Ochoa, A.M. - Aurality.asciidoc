@@ -41,11 +41,15 @@
 
 === Vision, Sound, the Colonial, the Modern
 
-* «The identification of orality and tradition as autonomous spheres of knowledge within the epistemic domain of language has historically been a major technique for the construction of modernity and of the social inequalities within it [...] The creation of the field of "orality" generated a theoy and methodology for lettered elites to generate aa notion of alteriry as constitutive of the modern» (p. 14)
+* «The identification of orality and tradition as autonomous spheres of knowledge within the epistemic domain of language has historically been a major technique for the construction of modernity and of the social inequalities within it [...] The creation of the field of "orality" generated a theory and methodology for lettered elites to generate aa notion of alteriry as constitutive of the modern» (p. 14)
+
+** (tr.) La identificación de la oralidad y la tradición como esferas de conocimiento al interior del dominio epistémico del lenguaje ha sido históricamente una técnica importante para la construcción de la modernidad y de las desigualdades sociales que contiene [...] La creación del campo de la "oralidad" generó una teoría y metodología dirigida a las élites letradas para generar una noción de alteridad como constitutivo de lo moderno
 
 * «This is a critique of theories of the decolonial that seek to constitute "the other" by appealing to the very same mechanisms of constitution of alterity that the moderns generated» (pp. 14-15)
 
-* «... in the nsame of recognizing the knowledge of "the other" such "fonocentrism" ends up reproducing an unexpected Cartesian dichotomy of the body and the mind, divided between subalterns and elites.» (p. 17)
+* «... in the name of recognizing the knowledge of "the other" such "fonocentrism" ends up reproducing an unexpected Cartesian dichotomy of the body and the mind, divided between subalterns and elites.» (p. 17)
+
+** (tr.) ...en el nombre de reconocer el conocimiento de "lo otro" tal "fonocentrismo" acaba por reproducir una dicotomía cartesiana inesperada del cuerpo y la mente, dividida entre subalternos y élites.
 
 .Anthropotechnologies (Ludueña 2010)
 ****
@@ -54,13 +58,21 @@
 
 * «The dangers of language change through inappropriate mixtures were often metaphorically expressed as akin to the dangers of promiscuous sexuality reflected in inadequate race mixtures... By controlling the heritage of word and popular expressions through the proper selection of their geneaology and origin, etymology became a technique for a eugenesis of the tongue, attached to a project of national sovereignty». (p. 18)
 
+** (tr.) Los peligros del cambio del lenguaje a través de mezclas inapropiadas fueron con frecuencia expresados metafóricamente como ligados a los peligros de la promiscuidad sexual, reflejada en mezclas de raza inadecuadas ... Mediante el control de la herencia de la palabra y las expresiones populares por medio de la apropiada selección de su genealogía y origen, la etimología se convirtió en una eugenesia de la lengua, apegada a un proyecto de soberanía nacional.
+
 * «Orality in this book is not the opposite of writing nor a complementary "other of aurality, as implied in the pairing of the two terms through a backslash (orality/aurality). rather it is a historical mode of audibility that emerges in divesting the voice of unwanted features while pretending to be speaking about it."» (p. 20)
+
+** (tr.) La oralidad en este libro no es el opuesto de la escritura, ni un "otro" complementario de la auralidad, como implica el aparejamiento de dos términos a través de una diagonal (oralidad/auralidad). Más bien es un modo histórico de audibilidad que emerge al despojar a la voz de características no deseadas mientras se pretende hablar de ella.
 
 === Comparativism, Transduction, and Acoustic Assemblages
 
-* «What is needed in altering our ways of relaating the given, the  made, and the sensosrial is not just unsettling the history of representations but approaching the underlying relation between nature (as the given) and culture (as the made) implicit in the distinction between music and sound.» (p. 21)
+* «What is needed in altering our ways of relating the given, the  made, and the sensosrial is not just unsettling the history of representations but approaching the underlying relation between nature (as the given) and culture (as the made) implicit in the distinction between music and sound.» (p. 21)
+
+** (tr.) Lo que es necesario para alterar nuestras maneras de relatar lo dado, lo hecho, y lo sensorial no es sólo inquietar la historia de las representaciones, sino acercarse a la relación subyacente entre naturaleza (lo dado) y cultura (lo hecho) implícita en la distinción entre música y sonido
 
 * «The point is not to negate that the ear produces an ontology of the relation between the person and the world, but rather no to confuse that with our own notion of relationality. What this implies is the need to explore the richness of a multiplicity of variables among what different peoples consider the given and what they consider the made that come together in the acoustic». (p. 22)
+
+** (tr.) El punto no es negar que el oído produce una ontología de la relación entre la persona y el mundo, sino evitar confundir aquello con nuestra propia noción de relacionalidad. Lo que esto implica es la necesidad de explorar la riqueza de una multiplicidad de variables de lo que distintas gentes consideran lo dado y lo que consideran lo hecho, que vienen juntos en la acústica
 
 .Viveiros de Castro (2004, 2010)
 ****
@@ -68,6 +80,8 @@ The work of a comparative anthropology would not be to translate the concepts of
 ****
 
 * «In this book, through the history of comparativism in the region, I question the conceptual, temporal, and spatial framing of this history by rendering it not solely as a European one but one produced in the global trade of ideas about expressive culture and the type of making and doing we call art in the relation between the colonial and the modern». (p. 26)
+
+** (tr.) En este libro, a través de la historia del comparativismo en la región, yo cuestiono el marco conceptual, temporal y espacial de esta historia al representarla no sólo como una europea, sino como una producida en el intercambio global de ideas acerca de la cultura expresiva, y el tipo de creación y quehacer que llamamos arte en la relación entre lo colonial y lo moderno.
 
 * «The history of comparatrivism helps us understand how the politics of equivocation regarding particular expressive practices led to a politics of expressive transformation as a mode of political response» (p. 26)
 
