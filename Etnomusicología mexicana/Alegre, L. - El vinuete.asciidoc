@@ -8,6 +8,8 @@
 
 // "El vinuete: musica de muertos. Estudio etnomusicologico en una comunidad nahua de la huasteca potosina" de L. Alegre, disponible en https://tesiunam.dgb.unam.mx/ (el archivo para descargar se encuentra en el apartado de "Recurso electrónico - Texto completo", en su respectiva página). Esta tesis desarrolla varios temas de total importancia para el análisis etnomusicológico (sistema musical, semiología, análisis paradigmático, etnografía) por lo cual le dedicaremos, por lo pronto, dos sesiones. Siguiendo con las proposiciones teóricas, la próxima reunión revisaremos el capítulo VIII; y la siguiente los capítulos III y VII. Quedo atento a sus dudas y comentarios.
 
+// Revisaremos de nuevo la tesis de licenciatura de Lizette Alegre: "El vinuete: música de muertos. Estudio etnomusicológico en una comunidad nahua de la huasteca potosina"; en particular las partes que contienen el análisis paradigmático: III.2 Descripción general de las características musicales del vinuete (p. 51) y V. Análisis paradigmático del vinuete (p. 113). Si no tienen el documento, lo pueden descargar desde https://tesiunam.dgb.unam.mx/
+
 [bibliography]
 == Referencias
 * [[[lozano1979, Lozano, J. - Introducción a Lotman y la Escuela de Tartu (en Semiótica de la Cultura 1979)]]]

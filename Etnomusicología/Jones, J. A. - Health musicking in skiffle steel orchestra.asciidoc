@@ -1,0 +1,115 @@
+= Jones, J. A. - Health musicking in skiffle steel orchestra
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: septiembre 2022
+:Revision: 0
+:toc:
+:toc-title: Contenido
+
+// Reseña
+
+[bibliography]
+== Referencias
+* [[[tag, Autor, A. - Título]]]
+
+== Resumen
+. Estudio sobre música y promoción de la salud en _Skiffle Steel Orchestra_, un grupo musical comunitario localizado en San Fernando, Trinidad.
+. Basado en trabajo de campo etnomusicológico
+. Objetivos
+.. Documentar y registrar el fenómeno, dando detalles del contexto específico y de los principios generales que le subyacen, y con miras a contribuir a la literatura sobre la promoción de la salud a través de la música.
+.. Promover la multidisciplinariedad y el estudio colaborativo sobre música y promoción de la salud, con apoyo en la terapia musical comunitaria (CoMT) y la etnomusicología médica
+
+
+== Introducción
+. Relaciones y propuestas entre música, musicología y promoción de la salud (terapia comunitaria)
+. _Health musicking_ (musicar para la salud), _musically driven inmunogen behavior_
+
+.Blonde, L. - Healt Musicing - Music Therapy or Music and Health? A model, epmirical examples and personal reflections
+[NOTE]
+****
+...health musicing can be understood as the commone core of any use of music experiences to regulate emotional or relational states or to promote well-being, be it therapeutic or not, professionally assisted or self-made. (p. 121)
+****
+
+== CoMT and medical ethnomusicology
+.Puntos en común
+.. Ambos tienen componentes académicos y aplicados
+.. Son inclusivos de cualquier tipo de música y de sus roles en la vida humana
+.. Comparten visión holística de la salud
+.. Aplican teorías y metodologías de un diverso rango de campos en materia de música y sanación
+.. Herramientas de investigación
+... participación
+... observación
+... historia cultural
+... transcripción y análisis musical
+... registro audiovisual
+... entrevistas formales e informales
+... notas de campo
+... encuestas escritas
+.. El concepto de "musicar para la salud" apunta hacia la multidisciplinariedad
+... En Skiffle musicar para la salud ocurre en los llamados "rituales de interacción" (Stige & Aaro 2012): performances y ensayos cargados emocionalmente
+... Los valores culturales importantes para el grupo se integran a los sonidos y comportamientos del musicar
+
+== El modo de vida Skiffle
+* Orquesta de tambores metálicos establecida en 1976, [yellow-background]#basada en una comunidad de amistades con valores, historia y miras culturales similares#
+* La actividad musical facilita la incorporación significativa de los valores culturales, a través de los cuales se [yellow-background]#incentiva el bienestar#
+* La persona que la lidera [yellow-background]#promueve el involucramiento interpersonal# y el desarrollo de fortalezas y competencias en el ensamble y en sus individuos
+* [yellow-background]#"Modo de vida" es un término con el cual los integrantes se refieren# al impacto personal beneficioso del conjunto
+* Impacta en
+** desarrollo de relaciones saludables
+** responsabilidad personal y comunitaria
+** autoestima
+** reciprocidad
+** empatía
+** optimismo
+** autodisciplina
+** compasión
+** flexibilidad
+** gratitud
+** habilidades para solución de problemas
+* Skiffle sana, expresa un integrante
+* Michael Jackson (antropólogo)
+** [yellow-background]#esperanza: sentido existencial de agencia (_existential sense of agency_)#
+** un mundo social más allá de uno mismo que sostiene su sentido de importancia
+
+== Historia cultural del tambor metálico (_pan_)
+* Estigmatizado en la Trinidad colonial (hasta mediados s. XX)
+* Transformación y negociación de valor, clase, etnia e identidad
+* S. Stuempfle (1995) describe los paralelos entre la conformación de Trinidad y Tobago como nación y el desarrollo de la orquesta de tambores metálicos
+.. el proceso creativo (de sartén a intrumento musical) en procesos de negociación
+.. consenso que da pie a la comunidad
+.. resiliencia como  proceso de lucha que lleva al logro
+.. contexto de festividad
+** A través de las presentaciones y discusiones públicas de esta música, los locales exploran visiones distintas de sí mismos, funcionando como una pedagogía de la historia cultural
+
+== Música y la generación del conocimiento incorporado
+* Del "saber" al "ser", transformación ontológica de los valores culturales
+* Un aspecto general de los performances es su exuberancia, el involucramiento del cuerpo, e inversión emocional
+* La interpretación de cada pieza «es una metáfora de tener un objetivo, trabajar duro para lograrlo, y nunca darse por vencido»
+.Análisis musical de _Mambo_
+* La posición que esta pieza ocupa en el repertorio es un indicio de lo esencial que es para la experiencia Skiffle; algo que los iniciantes deben aprender cuanto antes y que el grupo debe celebrar regularmente
+* «... is characterized by groove, interlocking and overlapping with others, constituting a collective texture, a metaphoric and literal kind of community»
+* Las interacciones entre músicos que se suscitan en las secciones de solo alientan la superación personal
+* La organología de los tambores permite ocultarle a la audiencia quién está tocando y quién no
+
+== Valores incorporados
+* El reforzamiento positivo provocado por los rituales emocionalmente cargados dieron paso a la difusión de los valores practicados musicalmente hacia otros dominios
+** solidaridad social y socialización de la solidaridad
+* Musicando la historia cultural del tambor metálico
+** los retos del repertorio
+*** procesos culturales en (de) trabajo: esfuerzo solidario y comunitario frente a la marginalidad y las dificultades
+** los logros del conjunto (sobreponerse)
+*** la experiencia musical como metáfora didáctica de la resiliencia
+** la festividad de los festivales musicales en que participan
+** la incorporación de piezas clásicas muestra su sensibilidad creativa
+* El éxito de las interpretaciones de la orquesta tiene resultados sobrecogedores en sus miembros
+* La música no sólo modela la creatividad y solidaridad comunal como valores culturales, sino que requiere su actuación
+* [¿La incorporación de valores es atribuible primero a musicar en conjunto, antes que a cualquier actividad colectiva que requiera de trabajo comunitario (ej. deporte)? En otros conjuntos musicales, con menor pertinencia histórica, ¿sucede la expresión incorporada de los valores culturales (ej. en la orquesta se ejerce la dirección)?]
+
+== Conclusiones
+* Sobre el proceso básico de la promoción de la salud
+** Los nuevos integrantes reciben la narrativa modelo del grupo, mientras se incentiva la incorporación de ésta en el individuo
+** Los valores del grupo así como la historia cultural pertinente se musican
+** La retroalimentación positiva de dichos valores fomentan su difusión hacia otros dominios
+** Mientras la experiencia y el conocimiento del individuo crecen, se le anima a que las comparta con los nuevos iniciantes
+* La solidaridad socializada como elemento existencial (Jackson)
+* Observación-participación e investigación comprometidas desde la etnomusicología
