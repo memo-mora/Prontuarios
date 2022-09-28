@@ -1,0 +1,105 @@
+= Vila, P. - Música e identidad. La capacidad interpeladora y narrativa de los sonidos, las letras y las actuaciones musicales
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: septiembre 2022
+:Revision: 0
+:toc:
+:toc-title: Contenido
+
+== Identidades sociales
+* Antecedentes intelectuales
+  ** Giro lingüístico
+  ** Discurso de las identidades
+  *** Interaccionismo simbólico
+  *** Psicoanálisis lacaniano
+  *** Althusser, Foucault; Laclau, Mouffe
+
+== Narrativa y discurso
+.Narrativa
+  * La narrativa es una categoría epistemológica que fue tradicionalmente confundida con una forma literaria (Frederick Jameson 1981)
+  * La narrativa es un esquema que permite la comprensión del mundo que nos rodea de manera tal que las acciones humanas se entrelazan de acuerdo con su efecto, en la consecución de metas y deseos
+  * Parece no haber comprensión del tiempo humano fuera de un marco narrativo
+  * Es la única forma cognoscitiva con que contamos para entender la causalidad de los actos de los agentes sociales
+
+.Discurso
+  * «El [.underline]#mejoramiento de la vida# se conseguiría si uno cuenta una historia mejor acerca de ella. Pero la vida no consiste solamente en discurso [...] los cambios en la narrativa son significativos en la medida en que movilizan cambios en nuestra manera de vivir.» (Rosenwals y Ochberg)
+  * Aquellas prácticas lingüísticas y no lingüísticas que acarrean y confieren sentido en un campo de fuerzas caracterizado por el juego de [.underline]#relaciones de poder#.  (Laclau y Mouffe)
+  * No existe lo pre-discursivo o lo pre-relacional (peso lingüístico). Hay procesos de encuentro de tipo no lingüístico, pero no hay nada pre-relacional o pre-encuentro. [Es] en el [.underline]#encuentro# que [todos] termin[a]mos delineando nuestros límites, nuestra piel (esto es relacional). (Haraway)
+
+== Música, identidad y argumentos homológicos
+.Pregunta de investigación
+  * ¿Por qué diferentes actores sociales (sean estos grupos étnicos, clases, subculturas, grupos etarios o de género) se identifican con un cierto tipo de música y no con otras formas musicales?
+
+.Subculturas
+  * Por un lado, diferentes grupos sociales poseen diversos tipos de capital cultural; por otro, comparten distintas expectativas culturales, de ahí que se expresen musicalmente de manera diferente.
+  * La música _refleja o representa_ a actores sociales particulares.
+  * Producto de este tipo de análisis es la adscripción de determinados gustos musicales a clases sociales y subculturasl bien delineados.
+  * Laclau y Mouffe
+    ** Conexiones semánticas entre tipos y técnicas musicales específicas, y grupos y posiciones sociales específicas en las _conexiones comportamentales_ (actuación, relaciones sociales)
+    ** _Modos líricos de interpelación_: algunos estilos "subculturales" tienen maneras de tratar de definir interpelados muy específicos en sus letras, como medio para delinear su posición social
+  * R. Pelinski
+    ** Podría afirmarse que tanto la teoría subcultural  (como la etnomusicología) se empeñó en buscar correspondencias homológicas entre estructuras musicales y culturas. Se suponía que las diferentes culturas creaban formas musicales estructuralmente coherentes consigo mismas
+  * Esta forma de entender la relación entre música e identidad tiene muchas dificultades para explicar cambios (o pluralidades) en los gustos musicales de actores sociales que, o no han cambiado su posición estructural en la sociedad, o no han modificados los rasgos básicos de su subcultura
+  * Lo que no puede explicar es la operatoria de la homología que, conforme a esta teoría, sería la base de la relación entre identidades subculturales y música popular
+  * El subculturalismo tiende a acentuar en demasía la coherencia estructural, de manera tal que los entrecruzamientos, las ambigüedades y los cambios en los gustos musicales de las subculturas muchas veces no son tomados en cuenta
+  * «La cuestión no es tanto de "adecuación a" (una realidad preexistente) sino "adecuación como" (una parte de la realidad) productora de conocimientos útiles y prácticas efectivas» (Middleton)
+  * Una de las críticas básicas a la teoría subculturalista es que la idea de homología estructural no permitiría la negociación de sentido necesaria si el estilo cultural es entendido como construcción social (Sheperd)
+
+== La música como interpeladora de identidades sociales
+.Sobre "articulación" e "interpelación"
+  * Como superadoras del concepto de homología estructural
+  * Con referencia a las identidades sociales y culturales, sostiene que los individuos son construidos como sujetos a través de procesos interpelativos
+  * Insiste en el carácter precario y continuo de todo proceso de construcción de sentido a través de una constante lucha discursiva
+  * Individuos que reproducen las estructuras sociales que los contienen son transformados en sujetos a través del discurso. Es decir, experimentan "sus condiciones reales de existencia" como si ellos mismos fueran los autores autónomos de tales relaciones, cuando en realidad no lo son
+  * La música popular es un tipo de artefacto cultural que provee a la gente de diferentes elementos, que tales personas utilizarían en la construcción de sus identidades sociales
+  * Función de "interpelación" a través de la cual los sujetos que escuchan son ubicados en posiciones particulares como destinatarios de la apelación en juego (Middleton)
+  * Interjuego público, identidad colectiva; auto-definición, identificación; derivan de y conforman a las identidades socialmente construidas (Frith)
+  * Códigos múltiples en las presentaciones musicales. A su vez, como el sonido en sí mismo es un sistema de estratos múltiples, los códigos estrictamente musicales también son variados.
+    ** De ahí la posibilidad que tiene un mismo tipo de música de interpelar a actores sociales muy distintos, sobre todo si tenemos en cuenta que dichos códigos, lejos de reforzase el uno al otro, muchas veces pueden ser altamente [.underline]#contradictorios# (en las sociedades complejas)
+  * El objeto de estudio de los análisis musicológicos sobre la música popular es el texto discursivo que construyen, no es el texto que la gente escucha (Frith)
+    ** Los [.underline]#escuchas "ordinarios"# no estarían preocupados, como los musicólogos, por el problema del sentido inmanente de la música, sino que, por el contrario, su preocupación se centraría en lo que la música significa para ellos
+      *** El [.underline]#sentido de la música# no se localiza en el interior de los materiales musicales, la única opción es localizarlo en los discursos contradictorios a través de los cuales la gente le da sentido a la música
+  * La idea de que el sentido de la música esté ligado intrínsecamente a su sonido implicaría que el sentido de la música, como construcción social, no sería negociable, algo que no coincide con la idea de "articulación"
+
+.Tango en Argentina
+  * Algunas personas prefirieron relacionare con la _identidad de clase_, otras personas usaron los sentidos que el tango vertía para expresar su _identidad de género_, por último, otra gente sintió que el tango no le ogracía una propuesta de identidad con la cual relacionarse, de ahí que no lo usaran en su proceso de construcción identitaria
+  * Pese a su machismo y conservadurismo (_lo que dice_), recurre a un tipo de lenguaje étnico (_cómo lo dice_) que reconoce y valora la presencia de un actor social que es cuestionado por la clase dominante
+
+== Música e identidad: anclando las interpelaciones en tramas narrativas
+  * La teoría de articulación e interpelaciones tiene dificultades
+    ** En mostrar cómo las articulaciones y negociaciones se producen en actores sociales concretos y en explicar porqué una interpelación es más exitosa que otra
+    * En mostrar cómo las subjetividades son construidas realmente
+    ** Explicar el mecanismo psíquico por medio de los cuales se producen interpelaciones
+  * Butler
+    ** "Sexo" es un constructo ideal que se materializa forzosamente a través del tiempo
+    ** Poder reiterativo del discurso para producir los fenómenos que regula y constriñe
+  * ¿De qué manera la música, como práctica, contribuye a suturar las dos mitades que constituyen toda identidad? ¿De qué manera las prácticas que toda música implica (escuchar y producir) se relacionan con las prácticas reguladoras que constituyen toda identidad?
+
+== Simon Firth: la música popular como rito performativo
+  * Tanto para Geertz como para Frith, una práctica estética se transforma en una práctica ética, una respuesta estética es, implícitamente, un acuerdo ético
+    ** Nos descubrimos a nosotros mismos en el proceso de construir nuestras relaciones con los "otros"
+  * Debido a su carácter abstracto, la música es, por naturaleza, una forma individualizante (...) Al mismo tiempo, e igualmente significativo, la música erpresenta, simboliza y ofrece la experiencia inmediata de una identidad colectiva
+  * La idea de homología está nuevamente presente como repertorio cultural al que la música necesariamente debería recurrir para ser aceptada como interpelación válida de la identidad en cuestión
+  * Nos encontramos en presencia de un análisis muy complejo de la _oferta_de identidad que la música propone, pero no sabemos mucho acerca de por qué dicha oferta funciona para determinada gente, pero no funciona para otros receptores potenciales de la misma
+  * Por lo tanto, las identidades pueden ser contradictorias y siempre son situacionales (Bailey & Hall)
+    ** Los seres humanos somos, en realidad, una compleja combinación de múltiples sujetos conviviendo en un solo cuerpo; sujetos que son precariamente suturados en un aimaginaria identidad unitaria a través de la construcción narrativa de tal unidad ficcional
+
+.Narrativa y música
+  * Cierra la brecha que separa toda oferta de identidad de su aceptación por parte de un actor social
+    ** Es el espacio que existe entre una oferta de identidad y una identificación realmente asumida
+    ** Opera como puente entre la música (oferta de identidad) y la idenntidad (aceptación en una interpelación exitosa)
+  * La música nos permite la experiencia real de nuestras identidades narrativizadas imaginarias (Firth)
+  * La música y sus rituales pueden ser usados para crear un modelo por medio del cual se puede entender la identidad como algo distinto a una esencia fija o a una construcción vaga y extremadamente contingente a ser reinventada por la voluntad y el capricho de estetas, simbolistas y juegos de lenguaje (Gilroy)
+  * Performatividad como ese _aspecto del discurso que tiene la capacidad de producir (materializar) lo que nombra_ (Butler)
+
+.Proposición
+****
+Las prácticas musicales contruyen una identidad anclada en el cuerpo, a través de las diferentes alianzas que establecemos entre nuestras diversas e imaginarias identidades narrativizadas y las imaginarias identidades esenciales que diferentes prácticas musicales materializan
+****
+
+.Trama argumental
+****
+La trama argumental de la narrativa es la responsable del establecimiento concreto de las diferentes alianzas que erigimos entre n uestras diversas e imaginarias identidades narrativizadas y las imaginarias identidades esenciales que diferentes prácticas musicales materializan
+****
+
+== Identidades narrativizadas y el poder organizador de la trama argumental
