@@ -1,24 +1,27 @@
-= Hernández y Reyes - El sonecito del churripampli
+= Hernández & Reyes - El sonecito del churripampli
 :Author: Guillermo Mora Reguera
 :Email: <guillermo.mora@fam.unam.mx>
 :Date: mayo 2021
-:Revision: pendiente
+:Revision: octubre 2022
 :toc:
 
 == Introducción
 .Premisas generales
-Los "procesos de información" desde la estructura musical del repertorio iberoamericano (México-España): +
+Los "procesos de transformación" del sistema musical iberoamericano (México-España): +
 _Sonecitos del país_
 
 .Marco teórico
-* Perspectiva sicnrónica/diacrónica [?]
+* Perspectiva sincrónica/diacrónica [?]
 * Documentos históricos + análisis musical estructural
-* _Sistema musical de transformaciones_
-** G. Camacho
+
+. _Sistema musical de transformaciones_
+** G. Camacho: «los sistemas se generan a partir de las relaciones dialógicas establecidas entre hechos musicales y diversas dimensiones sociales en contextos determinados, de esta forma [...] los sistemas se van transformando a lo largo del tiempo»
+
 * _Caribe afroandaluz_
 ** García de León
-** Complejos económicos [rutas comerciales]
-** Espacio histórico
+** _Complejos económicos_ [rutas comerciales]
+** _Espacio histórico_
+
 * C. Ginzburg
 ** _Circularidad cultural_
 *** Hegemónico/Subalterno
