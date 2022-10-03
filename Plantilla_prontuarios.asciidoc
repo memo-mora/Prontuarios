@@ -1,0 +1,15 @@
+= Autor, A. - Título
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: mes año
+:Revision: 0
+:toc:
+:toc-title: Contenido
+
+// Reseña
+
+[bibliography]
+== Referencias
+* [[[tag, Autor, A. - Título]]]
+
+==
