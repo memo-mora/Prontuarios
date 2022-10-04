@@ -1,53 +1,60 @@
-= Hernández y Reyes - El sonecito del churripampli
+= Hernández & Reyes - El sonecito del churripampli
 :Author: Guillermo Mora Reguera
 :Email: <guillermo.mora@fam.unam.mx>
 :Date: mayo 2021
-:Revision: pendiente
+:Revision: octubre 2022
 :toc:
 
 == Introducción
-.Premisas generales
-Los "procesos de información" desde la estructura musical del repertorio iberoamericano (México-España): +
+
+.Premisas generales (p. 1)
+Los "procesos de transformación" desde la estructura musical del repertorio iberoamericano (México-España): +
 _Sonecitos del país_
 
-.Marco teórico
-* Perspectiva sicnrónica/diacrónica [?]
-* Documentos históricos + análisis musical estructural
-* _Sistema musical de transformaciones_
-** G. Camacho
-* _Caribe afroandaluz_
-** García de León
-** Complejos económicos [rutas comerciales]
-** Espacio histórico
+.Marco teórico (pp. 1-3)
+
+* G. Camacho
+** _Sistema musical de transformaciones_: «los sistemas se generan a partir de las relaciones dialógicas establecidas entre hechos musicales y diversas dimensiones sociales en contextos determinados, de esta forma, apunta Camacho, los sistemas se van transformando a lo largo del tiempo »
+** Lo anterior sirve de pauta para conjuntar
+*** Análisis sincrónico y diacrónico
+*** Combinar la lectura referencias históricas documentales con el *análisis musical estructural*
+
+* A. García de León
+** _Caribe afroandaluz_
+*** _Complejos económicos_
+*** _Espacio histórico_
+
 * C. Ginzburg
-** _Circularidad cultural_
-*** Hegemónico/Subalterno
-*** [.line-through]#Culto/Popular#
-*** Relaciones y significación
-*** [.line-through]#Pertenencia cultural#
-*** Apropiación desigual en el consumo del capital cultural
 ** _Paradigma indiciario_ +
 «método interpretativo  basado  en  lo  secundario, en los detalles marginales considerados reveladores»
+** _Circularidad cultural_
+*** Culturas Hegemónicas/Subalternas
+**** Como alternativa a [.line-through]#Culto/Popular#
+*** Para comprender relaciones sociales, evitar juicios de valor, y buscar comprender la re-significación de productos culturales
+*** Evita la idea de [.line-through]#pertenencia cultural#, enfatiza el uso de cada estrato social
+*** Destaca la apropiación desigual del capital cultural
+*** Clases subalternas activas
 
 == Los sonecitos del país
-.Definición académica
-* Considerados oriundos de la N.E.
-** En contraste a los peninsulares
-** Por muchos autores hasta los ss.. XX y XXI
-* V. T. Mendoza, G. Saldívar, G. Pareyón
-** Sones tradicionales arreglados e introducidos al teatro (como en Madrid)
 
-.Función
-* Social
-** Estrato bajo
+.Definición académica (p. 3)
+* Considerados por muchos autores (hasta los ss. XX y XXI) como oriundos de la N.E. en contraste a los peninsulares
+* V. T. Mendoza, G. Saldívar, G. Pareyón los consideran sones tradicionales arreglados e introducidos al teatro (como en Madrid)
+
+.Función (p. 4)
+* Las fuentes documentales describen su uso
+** Estrato social bajo
 *** Fandangos y fiestas
-** Estrato alto
+** Estrato social alto
 *** Teatro y artes escénicas
-**** Censurados
+**** Censurados por el Reglamento Teatral del Virrey (1786)
 *** Partituras
-*** "Educación" (acceso cultural)
+*** «Enseñar divirtiendo»
 
 .Referencias históricas
+* Se citan _minuet_, _contradanza_, _fandango_, mudanza
+* Se citan _La Bamba_ y _el Totochi_
+* Organillos reproduciendo sonecitos como música de ambientación
 * Inquisición y otras autoridades
 ** Descalificación, prohibición, persecución
 * Tránsito de artistas

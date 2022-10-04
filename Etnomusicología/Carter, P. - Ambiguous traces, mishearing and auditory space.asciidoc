@@ -8,6 +8,10 @@
 
 // en Hearing Cultures. Essays on Sound, Listening, and Modernity. Edited by Veit Erlmann
 
+// Onomatopoética: https://mercatflors.cat/blog/onomatopoetica-y-topografia-de-una-complicidad-por-roberto-fratini/
+
+// https://en.wikipedia.org/wiki/Napoleon_Chagnon
+
 .Introducción (pp. 43-46)
 * Oír (monológico) es diferente a escuchar (dialógico), pues el segundo implica un contrato de comunicación, ya que es intencional
 * La escucha puede constituirse como práctica y como teoría
@@ -46,7 +50,7 @@
 
 .Listening Devices (pp. 49-54)
 * Las ciencias sociales se imaginan a los individuos y las culturas logrando mayor control sobre sus identidades y destinos.
-* Lo anterior se ve trastocado si se consideran a la *ambigüedad* (_ambiguity_), la escucha errada (_mishearing_) y el desdoblamiento de uno mismo (self-doubling_) como parte integral de la semiótica.
+* Lo anterior se ve trastocado si se consideran a la *ambigüedad* (_ambiguity_), la escucha errada (_mishearing_) y el desdoblamiento de uno mismo (_self-doubling_) como parte integral de la semiótica.
 * Lo anterior se ejemplifica con las distintas connotaciones de * "Dispositivo de audición" (_hearing device_) vs. "Dispositivo de escucha" (_listening device_)
 * Siguiendo a Artaud, angustiante pero "verdaderamente poético"
 * Nuestro discurso se origina en la incorporación tumultuaria de la voz del otro
@@ -67,7 +71,7 @@
 *** La ganancia comercial y emocional dependía de "doblarse" (_doubling-up_) en el otro, hacerse escuchar a través del otro.
 *** Lo anterior provocó confusiones (_mistook_) sobre lo que el otro representa
 *** "Doblarse" como titiritero/marioneta
-*** [«De que todo el conocimieento del otro es dialéctico, no se desprende que el todo del otro sea íntegramente dialéctico» (Lévi-Strauss)]
+*** [«De que todo el conocimiento del otro es dialéctico, no se desprende que el todo del otro sea íntegramente dialéctico» (Lévi-Strauss)]
 *** Relación yaquis-Estado (Ballesteros)
 * También en la comunicación [idealizada] existen los malentendidos, con el trasfondo de un "ruido semántico"
 ** La variación personal y las determinaciones divergentes abundan, en la escala fonética, de persona a persona; sin embargo, puesto que estos datos no se prestan al análisis estructural, quedan fuera (Whalen)

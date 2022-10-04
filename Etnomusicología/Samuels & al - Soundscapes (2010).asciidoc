@@ -7,12 +7,12 @@
 :toc-title: Contenido
 
 == Introduction
-* *Propuesta*: Atender el sonido y su grabación  y producción es útil para toda la antropología
-* *Giro aural*
-** *Teoría*: Paisaje sonoro (_soundscape_)
-** *Práctica*: Etnografía del sonido
-** *Antecedente*: R. Murray Schafer
-*** El paisaje sonoro como una entidad que circula públicamente, a la vez implicado y producido en las prácticas sociales y políticas
+  * *Propuesta*: Atender el sonido y su grabación  y producción es útil para toda la antropología
+  * *Giro aural*
+  ** *Teoría*: Paisaje sonoro (_soundscape_)
+  ** *Práctica*: Etnografía del sonido
+  ** *Antecedente*: R. Murray Schafer
+  *** El paisaje sonoro como una entidad que circula públicamente, a la vez implicado y producido en las prácticas sociales y políticas
 
 == From Sound to Soundscape
   * El término _soundscape_ refiere a

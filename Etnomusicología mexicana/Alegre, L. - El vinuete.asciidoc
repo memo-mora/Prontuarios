@@ -8,8 +8,6 @@
 
 // "El vinuete: musica de muertos. Estudio etnomusicologico en una comunidad nahua de la huasteca potosina" de L. Alegre, disponible en https://tesiunam.dgb.unam.mx/ (el archivo para descargar se encuentra en el apartado de "Recurso electrónico - Texto completo", en su respectiva página). Esta tesis desarrolla varios temas de total importancia para el análisis etnomusicológico (sistema musical, semiología, análisis paradigmático, etnografía) por lo cual le dedicaremos, por lo pronto, dos sesiones. Siguiendo con las proposiciones teóricas, la próxima reunión revisaremos el capítulo VIII; y la siguiente los capítulos III y VII. Quedo atento a sus dudas y comentarios.
 
-// Revisaremos de nuevo la tesis de licenciatura de Lizette Alegre: "El vinuete: música de muertos. Estudio etnomusicológico en una comunidad nahua de la huasteca potosina"; en particular las partes que contienen el análisis paradigmático: III.2 Descripción general de las características musicales del vinuete (p. 51) y V. Análisis paradigmático del vinuete (p. 113). Si no tienen el documento, lo pueden descargar desde https://tesiunam.dgb.unam.mx/
-
 [bibliography]
 == Referencias
 * [[[lozano1979, Lozano, J. - Introducción a Lotman y la Escuela de Tartu (en Semiótica de la Cultura 1979)]]]
@@ -19,7 +17,7 @@
 
 ==== #Puntos generales
 * Ceremonias comprendidas: Xantolo, Velación de cruz, Angelitos
-** En otras comunidades, el vinuete se emplea en las fiestas patronales [sistema de transformaciones]
+** En otras comunidades, se emplea en las fiestas patronales [sistema de transformaciones]
 * Referencia nativa: «música *sagrada* que se toca para los difuntos»
 ** Náhuatl: _mijkacuicatl_
 ** Su principal atributo es es provocar una gran tristeza a quien lo escucha
@@ -209,7 +207,7 @@ Oídos de madera
 === #Simbología
 * Partes del cuerpo en el ritual [small]#[_cfr._ González & Camacho - La música del maíz, Estudio etnomusicológico desde una perspectiva semiológica (2000)]#
 * [yellow-background]#Mesoamérica#
-* La analogía "anima" a los instrumentos
+* La anaología "anima" a los instrumentos
 ** Les merece cierta veneración
 ** Son capaces de "avisar"
 * Ritual de adquisición de instrumento (sancionado)
