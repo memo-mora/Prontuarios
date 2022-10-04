@@ -10,6 +10,8 @@
 
 // Onomatopoética: https://mercatflors.cat/blog/onomatopoetica-y-topografia-de-una-complicidad-por-roberto-fratini/
 
+// https://en.wikipedia.org/wiki/Napoleon_Chagnon
+
 .Introducción (pp. 43-46)
 * Oír (monológico) es diferente a escuchar (dialógico), pues el segundo implica un contrato de comunicación, ya que es intencional
 * La escucha puede constituirse como práctica y como teoría
