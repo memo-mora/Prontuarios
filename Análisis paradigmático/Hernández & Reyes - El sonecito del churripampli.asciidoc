@@ -41,6 +41,10 @@ _Sonecitos del país_
 * Considerados por muchos autores (hasta los ss. XX y XXI) como oriundos de la N.E. en contraste a los peninsulares
 * V. T. Mendoza, G. Saldívar, G. Pareyón los consideran sones tradicionales arreglados e introducidos al teatro (como en Madrid)
 
+.Repertorio (p. 4)
+* Se citan _minuet_, _contradanza_, _fandango_, mudanza
+* Se citan _La Bamba_ y _el Totochi_
+
 .Función (p. 4)
 * Las fuentes documentales describen su uso
 ** Estrato social bajo
@@ -48,40 +52,67 @@ _Sonecitos del país_
 ** Estrato social alto
 *** Teatro y artes escénicas
 **** Censurados por el Reglamento Teatral del Virrey (1786)
+**** Descalificación, prohibición, persecución
+**** *expresiones musicales estereotipadas*
 *** Partituras
 *** «Enseñar divirtiendo»
+*** Como música ambiental (organillo, relojes)
 
-.Referencias históricas
-* Se citan _minuet_, _contradanza_, _fandango_, mudanza
-* Se citan _La Bamba_ y _el Totochi_
-* Organillos reproduciendo sonecitos como música de ambientación
-* Inquisición y otras autoridades
-** Descalificación, prohibición, persecución
-* Tránsito de artistas
+.Región de influencia
+* Se movilizó gracias a les artistas de teatros
+** Compañías "de la legua", que daban funciones en provincias alejadas de los teatros principales
+**
 * Circulación de repertorio
 * Indicio detrás del estereotipo
 
 == Análisis
 .Antecedentes
 * Las "composiciones" corresponden más bien a "transcripciones"
+** estudios anteriores han mostrado que «los compositores solían ser bastente fieles a la hora de introducir expresiones musicales de tradición oral en sus obras»
+** «lo que el público de un teatro o salón escucharía al ser ejecutadas dichas partituras sería muy similar a lo que se podría oír en otros ámbitos»
 * Estructuras musicales consistentes a través de las transformaciones del repertorio de una clase a otra
 
 == El Churripampli
-.Historiografía
+.Historia documentada
 * Presente en el Coliseo
+* Interpretado a 4 voces
 
-* Tonadilla
-** Pablo Esteve (previo a 1790) +
+.Folkloristas mexicanos
+* Rubén M. Campos
+** indica que es de Veracruz
+* G. Pareyón
+** tipo de jarabe mexicano
+* Vicente T. Mendoza
+** canto de carácter indígena
+** procede de Veracruz, Ver.
+** se cantaba en 1888
+
+.Poema (1843) de José M. Esteva
+* aparece como canción interpretada por la voz poética (?)
+* el cambio de métrica sugiere «que Esteva, en su poema, en realidad estaba describiendo al churripampli que se cantaba en la época»
+
+.En el ambiente escénico español (p. 10)
+* Tonadilla escénica
+** Compositores
+*** Pablo Esteve (previo a 1790) +
 Probablemente se le añadió después
-** Blas de Laserna (1803)
-* Partitura
+*** Blas de Laserna (1803)
+** Generalmente se adaptaba a les actores disponibles
+** Conserva la estructura que el de Mendoza
+
+.Partitura (p. 13)
 ** Para forte-piano (1803-1807; esrtrato alto)
-* Tradición oral
+** _Five Spanish waltzes_ (1840)
+
+.Tradición oral (pp. 14-15)
 ** Reporte sobre su uso callejero (1803)
 ** Reporte sobre su uso rural (1804 hasta 1949)
-* Tradición escrita (canción)
-** Versión patriótica (1813)
-** Contzeciri (País Vasco: 1824)
+
+.Tradición escrita (pp. 15-20)
+* Versión patriótica (1813)
+** Corresponde con la métrica de Mendoza, lo que sugiere la difusión del fraseo musical que soporta esta lírica
+* Pliegos de cordel
+* _Kontxeziri_ (País Vasco: 1824)
 * Poema
 ** José María Esteva (1843)
 
@@ -89,38 +120,53 @@ Probablemente se le añadió después
 * Métrica +
 Los elementos recuperados conservan la misma estructura de sus versos
 * Lírica +
-«Salvo detalles que varían de una estrofa a otra en la canción mejicana, veremos que son iguales» (Donostia, 1995)
+«Confrontando las dos poesías [Mendoza/_Kontxeziri_] en su disposición de versos y número de sílabas, salvo detalles que varían de una estrofa a otra en la canción mejicana, veremos que son iguales» (Donostia, 1995)
 
 == Análisis paradigmático
-* Corpus de partituras y transcripciones
-* Estructuras
-** Por pieza
-** Por conjunto
-* [Procedimientos]
+.Corpus de partituras y transcripciones
+[options="header,footer"]
+|=======================
+|Pieza |Título | Autor | Fecha
+|CH01  |La Cucaña |Pablo Esteve |ca. 1790
+|CH02  |Al sol que a dos mundos |Blas de Laserna |1803
+|CH03  |La canción popular del Churripample |A.P.E. |ca. 1803
+|CH04  |Five Spanish waltzes |A. Fernández de Córdoba |1840
+|CH05  |Cancionero Vasco. _Kontzeziri_ |J. Ignacio de Iztueta |ca. 1806
+|CH06 | Transcripción (Mendoza) |Vicente Ruíz Maza |1951 [1888]
+|CH07 |_Kontxesiri_ |Imanol |1990
+|CH08 | _Kontzeziri_ |Laja eta Mikel |2002
+|=======================
+
+.[Procedimientos]
 ** Segmentación
 ** Unidades discretas [Ruwet]
 ** Criterio de similitud
 ** Agrupación
 ** Comparación
-* Elementos
+
+.Elementos
 *** Constantes
 *** Sustituibles [transformación]
-* Rasgos de análisis
+
+.Rasgos de análisis
 ** Combinación de versos
 ** Alturas
 *** Segmentadas por verso
 ** Armonías
 
 == Conclusiones
-* Presencia del churripampli
-** España y México
-** Espacios socio económicos
+* Presencia del churripampli en España y México, en la misma época
+** «Dado que los sonecitos forman parte del sistema musical establecido entre España y América, estos adquirirán identidad en cada cultura que las interprete y adopte, y pertenecerán a todas ellas»
+* Todos los espacios socioeconómicos activamente interpretan y transforman
+** Se descartan las posturas deterministas de que las tonadillas escénicas «fueron "fuentes de creación" de estos sonecitos o, por el contrario, que los "retomaron" de las prácticas musicales de las clases subalternas para adaptarlas a los gustos del público teatral»
+** En cambio se considera un dialogismo entre oralidad y escritura
 * Procesos musicales
-* [.line-through]#Origen y pertenencia#
-* Superioridad en términos de actividad
-* Transformaciones principales
-** Arreglo
-** Secciones introductoria, intermedias y finales
+** [.line-through]#Origen y pertenencia#
+** Arreglos variados
+** Acompañamiento instrumental común: introductoria, intermedias y finales
+
+
+////
 * Equivalencia
 ** Melodía
 ** Métrica
@@ -128,5 +174,6 @@ Los elementos recuperados conservan la misma estructura de sus versos
 ** [Territorios]
 * [Reivindicación sobre el origen y el estigma]
 * Pertinencia del análisis musical
+////
 
 TIP: http://gerinel.org/index.php/es/proyectos/churripampli
