@@ -3,6 +3,8 @@
 :Email: <guillermo.mora@fam.unam.mx>
 :Date: julio 2022
 :Revision: 0
+:toc: macro
+:toclevels: 1
 :toc-title: Contenido
 
 // Reseña
