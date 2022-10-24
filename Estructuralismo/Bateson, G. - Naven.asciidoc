@@ -14,6 +14,8 @@
 
 == IV. Premisas culturales pertinentes a la relación _wau-laua_
 
+.Resumen
+
 .Sistema estructural de la cultura
 * Premisas: detalles de comportamiento asumidos y esperados en la cultura, que se encuentran interconectadas formando un sistema coherente, «lógico»
   .. una madre da comida a su hijo
@@ -27,6 +29,13 @@
 * Los individuos que son identificados asumen comportamientos asociados al otro
 * No implica la ausencia de detalles de comportamiento diferentes
 * A dos mismos individuos se les identifica en ciertos contextos mientras que en otros se les contrasta
+
+.Tipos de identificación (resumen)
+.. Discriminación entre el _wau_ y el padre (1)
+  ... Mito de los hermanos (niño y niña) avergonzados de su padre y madre, quienes se comportan como _wau_ y _mbora_; conocimiento esotérico dado al hijo pero vendido al _laua_; "mi _laua_ ayudará a mi hijo". el _wau_ puede ayudar al _laua_ en su primera matanza, pero el padre no debe hacerlo; _wau_ y _laua_ identificados en cuanto a logros; padre e hijo identificados en lo económico
+. Identificación entre padre e hijo (2)
+  .. Evidencia de la terminología; términos dobles para grupos de parentescos; el término _wau_ aplicado a veces a {mother's brother's son}; tabús entre padre e hijo, promoción del hijo al grado de iniciación del padre; intimidad entre padre e hijo es escandalosa; respeto mutuo
+
 
 .Tipos de identificación
 . El {mother's brother} (_wau_) es distinto del {father's brother or father} (_nyai'_)  (?)
@@ -48,7 +57,20 @@
   ... a los hermanos menores del padre de uno
   ... al _tambinyen_ (socio de la mitad contraria) del padre de uno
   .. Existe entre padre e hijo una muy real identificación de intereses y necesidades entre ellos a pesar de su mutua evitación de coincidencia de status
+
 . A pesar del sistema patrilineal, el niño es vinculado de alguna manera al clan de su madre (p. 60)
+  .. Teoría nativa de la gestación: los huesos (materia dura) son producto del semen del padre, mientras que la carne y sangre (materia blanda, que G.B. identifica como menos importante) derivan de la sangre menstrual de la madre.
+  .. La filiación del hijo a los clanes de su madre y padre se expresan a través de dos conjuntos de nombres (de ancestros totémicos) que recibe
+    ... Los sufijos del patrilineal refieren cosas como "hombre", "mujer", "cuerpo"
+    ... El otro es "-_awan_", que hace referencia al ritual de máscaras del clan matrilineal
+  .. [Funciones] de los nombres
+    ... Aquellos dados por el _wau_ (matrilineal) se usan después de la muerte (simbólico*), pero el fallecido reencarna (concreto*) en el hijo de su hijo vía su nombre patrilineal
+    ... El matrilineal se usa para efectuar un conjuro sobre una persona
+
+* Las tres premisas mencionadas hasta aquí tratan con las relaciones del niño (sin género) a su padre, madre y clan maternal. En un resumen pertinente para la _naven_, el niñe se identifica cercanamente con su padre pero compite con éste; el vínculo con su madre y clan maternal es más oscuro, pero ahí el niñe no es competencia de la madre, sino su logro, y los logros del niñe son los de la madre y su clan.
+** En los ritos mortuorios, los logros de un hombre se cuentan como las muertes que dio y las esposas que tuvo, sin tomar en cuenta el número de su decendencia. Por su parte, los de una mujer se representan como los logros de sus hijos
+** De manera similar, se celebra un _naven_ para el niño que se casa, pero no para el que se convierte en padre; en el caso de las niñas, se celebra cuando tiene un hijo, mas no cuando contrae nupcias
+** La relación ambigua del niñe con el clan matrilineal: ancestralidad o logros, se resuelve de manera preliminar aquí a través del "orgullo", parte del _ethos_ que une ambos ámbitos
 
 . Hay un elemento de identidad entre un hermano y su hermana (p. 68)
   .. Se muestra esquemáticamente en el sistema de nombres personales
@@ -60,8 +82,9 @@
   .. Este caso muestra que la identificación se hace real no tanto a través de la posición genealógica, sino en el comportamiento (y particularmente el ceremonial)
   .. El comportamiento ceremonial es necesario para poder aplicar una identificación a través de términos de parentesco
   ... a. Cuando una mujer muere, su hermano vestirá con una falda su cuerpo, pintará el rostro de ella y atenderá a los detalles de su funeral para luego enunciar: "Soy el hombre que llamará los nombres"
-  ... Cuando un hombre muere, su hijo puede ir a casa de la hermana del difunto y, a través de una ofrenda, ganar derecho de usar los nombres para sus hijos
-  ...
+  ... b. Cuando un hombre muere, su hijo puede ir a casa de la hermana del difunto y, a través de una ofrenda, ganar derecho de usar los nombres para sus hijos
+  ... c. Al morir un hombre, su viuda se corta el pelo y su propio hermano (o el hijo de su hermano) le entregan una concha valiosa sumergida en agua
+  ... d. Si una mujer queda como único superviviente de su clan, todos los nombres de dicho clan le son investidos a ella y su precio de novia incrementa, ya que todos los nombres a los que tiene derecho recaerán en su marido o sus hijos. Por ello, sus hermanos clasificatorios lejanos se esfuerzan por conseguirla como esposa. Es decir, a una identificación débil se le suma una adicional basada en el matrimonio
 
 . Una mujer es, hasta cierto punto, identificada con su marido (p. 70)
   .. Identificación no necesariamente recíproca ni simétrica
