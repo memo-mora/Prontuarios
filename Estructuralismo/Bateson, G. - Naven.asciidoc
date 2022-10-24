@@ -1,0 +1,77 @@
+= Bateson, G. - Naven (español)
+:Author: Guillermo Mora Reguera
+:Email: <guillermo.mora@fam.unam.mx>
+:Date: octubre 2022
+:Revision: 0
+:toc:
+:toc-title: Contenido
+
+// Reseña
+
+[bibliography]
+== Referencias
+* [[[tag, Autor, A. - Título]]]
+
+== IV. Premisas culturales pertinentes a la relación _wau-laua_
+
+.Sistema estructural de la cultura
+* Premisas: detalles de comportamiento asumidos y esperados en la cultura, que se encuentran interconectadas formando un sistema coherente, «lógico»
+  .. una madre da comida a su hijo
+  .. un hermano de la madre se identifica con la madre
+  .. un hermano de la madre da comida al hijo de su hermana
+* Relaciones entre hechos sociales y necesidades y deseos
+
+.Identificación (semejanza/diferencia)
+* Uso relativo, no absoluto
+* Semejanza en los detalles del comportamiento culturalmente normalizado
+* Los individuos que son identificados asumen comportamientos asociados al otro
+* No implica la ausencia de detalles de comportamiento diferentes
+* A dos mismos individuos se les identifica en ciertos contextos mientras que en otros se les contrasta
+
+.Tipos de identificación
+. El {mother's brother} (_wau_) es distinto del {father's brother or father} (_nyai'_)  (?)
+  .. En contextos relacionados con objetos de valor, el muchacho es asociado con su padre y separado del clan materno; mientras que en contextos de logros el muchacho es asociado con el clan materno y separado de su padre. Pero, en ambos tipos de contexto, al _wau_ se le diferencia del padre.
+  .. Un mito presenta cuáles son los comportamientos esperados de cada uno respecto a la figura de _laua_ (hij@s de la madre)
+  .. A pesar de esta diferenciación, hay también un vestigio de identificación entre el padre y el _wau_, que se deja ver en detalles de su comportamiento hacia el _laua_
+  .. Cuando el _laua_ no está involucrado, y su _wau_ y _nyai'_ interactúan sin estas categorías, sino como cuñados, ha una mezcla de identificación y diferenciación entre ellos
+. Hay cierta identidad entre un padre y su hijo
+  .. Expresada, por ejemplo, en la terminología y el vocabulario del parentesco
+  ... Tendencia iatmul a resumir y formular el comportamiento de los individuos utilizando la terminología de parentesco de una manera análoga
+  ... _nggwail-warangka_ (padre del padre y padre del padre del padre) es un término para designar a los antepasados patrilineales, un grupo de parientes que suelen clasificarse juntos en esta cultura
+  ... otros refieren a "cierto pariente y su padre" identificados en conjunto, en los que se enfatiza la identidad de un hijo con su padre (pp. 57-58)
+  .. Esta identificación se da desde la perspectiva de personas exteriores; entre ellos dos no se intima
+  .. El padre ocupa una posición disciplinaria, mientras que el hijo lo va reemplazando (o alcanzando) gradualmente
+  ... Ciertos tabús regulan las posiciones de status social de cada uno para que el padre esté por encima del hijo, pero también para que sus comportamientos no afecten al otro
+  ... ej. el padre no comerá alimentos producidos por su hijo
+  .. Estos tabús tienen muy poca difusión clasificatoria. Se aplican a:
+  ... el propio padre de uno
+  ... a los hermanos menores del padre de uno
+  ... al _tambinyen_ (socio de la mitad contraria) del padre de uno
+  .. Existe entre padre e hijo una muy real identificación de intereses y necesidades entre ellos a pesar de su mutua evitación de coincidencia de status
+. A pesar del sistema patrilineal, el niño es vinculado de alguna manera al clan de su madre (p. 60)
+
+. Hay un elemento de identidad entre un hermano y su hermana (p. 68)
+  .. Se muestra esquemáticamente en el sistema de nombres personales
+  ... Mismo nombre con diferente terminación de género
+  .. En términos de parentesco
+  ... _Wau-nyame_ (mother's brother-mother) es el término colectivo para el clan maternal
+  ... La misma identificación se indica en los términos usados entre cuñados
+  .. Nótese esta identificación en el mito narrado al inicio del capítulo
+  .. Este caso muestra que la identificación se hace real no tanto a través de la posición genealógica, sino en el comportamiento (y particularmente el ceremonial)
+  .. El comportamiento ceremonial es necesario para poder aplicar una identificación a través de términos de parentesco
+  ... a. Cuando una mujer muere, su hermano vestirá con una falda su cuerpo, pintará el rostro de ella y atenderá a los detalles de su funeral para luego enunciar: "Soy el hombre que llamará los nombres"
+  ... Cuando un hombre muere, su hijo puede ir a casa de la hermana del difunto y, a través de una ofrenda, ganar derecho de usar los nombres para sus hijos
+  ...
+
+. Una mujer es, hasta cierto punto, identificada con su marido (p. 70)
+  .. Identificación no necesariamente recíproca ni simétrica
+  ... Dada la patrilinealidad del sistema de parentesco, la esposa se atribuye una parte del status de su marido, pero él lo hace poco o nada de su parte
+  ... Por lo anterior, el análisis se limita a observa a la esposa
+  ... _Mbora_ {esposa del hermano de la madre} y _Tshaishi_ (esposa del hermano mayor)
+  .. No se manifiesta por imposición de nombres
+  .. Los términos que se aplican a los cónyuges son diferenciadores
+  ... Excepcional es _naisagut_ que designa al padre de la esposa y sus esposas
+  ... En las ramificaciones menos importantes aparecen términos que agrupan a los cónyuges
+  .. En la vida cotidiana
+  ... Cónyuges se identifican cuando tratan con personas ajenas y se diferencian entre parientes cercanos
+  ... Casi es posible ver el conjunto del establecimiento doméstico como una sola unidad económica
