@@ -7,7 +7,36 @@
 
 == Introducción
 * La relación entre arte, humano y animal
-* Disposición de los temas en el texto: forma de ritornelo
+* Análisis desde dos planos
+  ** Estética/filosofía
+    *** Deleuze y Guattari
+  ** Etología
+    *** von Uexküll
+    *** Lorenz
+* Conceptos
+  ** _Milieux_ (medios), territorios, agenciamientos, planos cósmicos
+  ** *fluidez* más allá de las diferencias entre especies que se señalan convencionalmente
+  ** tienen el objetivo de permitir identificar las fuerzas y los *movimientos* que atraviesan a cada ser [no representacional]
+    *** codificación, descodificación, territorialización, desterritorialización relativa y absoluta, y la reterritorialización
+  ** formas de vida
+    *** basadas en códigos (simples)
+    *** plano cósmico desestructurado
+    *** lógica de ritornelo, del devenir de todo lo viviente
+  ** ritornelo
+    *** para repensar espacio/tiempo
+      **** como en Messiaen y Boulez
+      **** el tiempo como medida *y diferencia*
+      **** el espacio como extensión *e intensidad*
+    *** imprime o "produce" ritmicidad
+    *** sin estructura ni forma
+    *** es una fuerza o movimiento complicado que al repetirse ofrece en cada caso resultados diferentes
+    *** informal, no menos riguroso
+    *** dos polos o modos
+      **** pequeño
+      **** gran ritornelo
+    *** arte musical (Deleuze y Guattari)
+      **** *actividad que consiste en desterritorializar el ritornelo, siendo este último el contenido mismo de la música*
+      **** música sin notas, filosofía sin sujeto
 * «El presente trabajo, por una parte, es un análisis del concepto de ritornelo y, por otra, tiene el objetivo de esclarecer la definición de música...»
 * La relación entre tonalidad y música
 
@@ -19,11 +48,52 @@
 
 .[La "aporía" de la humanidad-lenguaje]
 * Heymann Steinthal
-** De acuerdo con Agamben, el primero en mostrar dicha aporía
+// ** De acuerdo con Agamben, el primero en mostrar dicha aporía
 ** «El estadio prelingüístico de la intuición... no puede ser distinto para el animal y para el hombre. Si fueran diferentes... entonces el origen del hombre no coincidiría con el origen del lenguaje» (Steinhal)
-** La cultura produce lo humano «mediante la oposición hombre/animal, humano/inhumano... Porque lo humano está siempre ya presupuesto, la máquina produce en realidad una especie de estado de excepción» (Agamben)
+  *** El estadio prelingüístico de la intuición es el mismo para animal y humano
+  *** El origen del humano coincide con el del lenguaje
+** La cultura produce lo humano «mediante la oposición hombre/animal, humano/inhumano... necesariamente mediante una exclusión y una inclusión... Porque lo humano está siempre ya presupuesto, la máquina produce en realidad una especie de estado de excepción» (Agamben)
 
-.Unwelt
-* J. von Uexküll
-** Creó la noción de _unwelt_ (mundo circundante, mundo asociado)
-** Constata el supuesto de un mundo que ordena jerárquicamente a todos los seres (p. 15)
+.Teoría de la naturaleza
+* Autor
+  ** J. von Uexküll, biólogo a quienes Deleuze y Guattari prestaron interés
+  ** Creó la noción de _unwelt_
+* Crítica al antropocentrismo
+  ** Pensamos por costumbre que «las relaciones que un sujeto de otro _Umwelt_ mantiene con las cosas de su _Umwelt_ cobran vida en el mismo espacio y en el mismo tiempo que aquellas que nos ligan a las cosas de nuestro mundo humano»
+    *** Basados en la creencia del mundo único estructurado en un mismo espacio y tiempo para el desarrollo y movimiento de todos los seres
+* _Unwelt_ (concepto)
+  ** "ambiente", mundo circundante, mundo asociado
+  ** [Recursividad]: «La percepción y la acción complejas del conjunto del sujeto animal se reducen a la colaboración de los pequeños mecanismos celulares, los cuales disponen cada uno solamente de una señal perceptiva y de una señal de acción» (p. 16)
+  ** "Imágenes perceptivas": El sujeto animal se relaciona con los objetos no a través de sus cualidades físicas, sino cuando constituyen *"portadores de significado"* o *"portadores de características"* (marca) que los órganos receptivos reconocen
+  ** "Círculo funcional": La producción de un *carácter perceptivo* atribuye al portador de significado un *carácter activo* que liga al animal con la "marca" de su mundo
+    *** Ej.: nutrición, ecológico, enemigo, reproducción sexual
+  ** Cuando un objeto no es «modulado y transformado» para ser convertido en un "portador de significado" y dar lugar a un actuar, éste ni siquiera existe para el animal
+  ** «Cada _Umwelt_ está caracterizado, por una parte, por un perfecto equilibrio estructural entre los órganos perceptivos y los de acción, y por otra, por los portadores de significado o marcas» (p. 18)
+* Garrapata (ejemplo)
+  ** El mundo (_Umwelt_) de la garrapata fecundada puede reducirse a tres "señales o percepciones" a las que corresponden tres acciones
+    ...
+    .... El calor del sol sentido sobre su piel
+    .... El treparse sobre una rama
+    ...
+    .... El olor del ácido butírico contenido en el sudor de los mamíferos
+    .... El dejarse caer con peso muerto sobre la presa
+    ...
+    .... La temperatura de treinta y siete grados de la sangre de un mamífero
+    ... Consecuente búsqueda del lugar justo donde puede succionar el líquido
+  ** Destaca que de los centenares de señales posibles emanadas del mamífero, sólo tres le devengan en portadores de significado
+  ** "Garrapata" es la relación entre la materia animal y las tres señales
+* _Umgebung_ (concepto)
+  ** Es el mundo circundante que nosotros vemos extenderse alrededor del fragmento que es el _Umwelt_
+  ** No le corresponde ningún tipo de privilegio sustancial respecto a los otros
+  ** «Funciona del mismo modo que los mundos circundantes (_Unmwelten_) pero reviste una mayor variedad de signos y elasticidad respecto a la rigidez estructural de los mundos animales»
+* Bases teóricas
+ ** Constata el supuesto de un único mundo que ordena jerárquicamente a todos los seres (p. 15)
+ ** Propone en cambio la multiplicidad de mundos, todos  igualmente perfectos y cerrados en sí, comunicantes sólo en forma de contrapunto musical
+ ** Naturaleza como sinfonía, con variedades organológicas y superposiciones contrapuntísticas; ecología como análisis y transcripción
+
+.Teoría de la naturaleza como música
+* Analogía
+  ** Se amplía el concepto de "sonoridad acústica" al de "significado de los objetos"
+    *** Objetos que entonces entran como "portadores de significado" al _Umwelt_ del sujeto
+* Frente a la teoría pitagórica
+  **
